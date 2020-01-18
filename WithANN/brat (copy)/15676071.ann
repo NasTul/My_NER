@@ -1,0 +1,1388 @@
+T1	GO:0007416 0 14	Synaptogenesis
+T2	GO:0001750 19 32	outer segment
+T3	UBERON:0003902 64 77	neural retina
+T4	PR_EXT:000005904 81 84	Crx
+T5	SO_EXT:sequence_altered_entity_or_alteration_process 85 91	mutant
+T6	NCBITaxon:10088 92 96	mice
+T7	NCBITaxon:1 168 179	individuals
+T8	GO:0007567 210 215	birth
+T9	GO:0060041 252 266;278 284	development of ... retina
+T10	UBERON:0003902 271 284	neural retina
+T11	SO_EXT:sequence_alteration_entity_or_process 286 295	Mutations
+T12	SO_EXT:0000704 299 304	genes
+T13	GO:0042461 321 332;349 371	development ... of photoreceptor cells
+T14	CL:0000210 352 371	photoreceptor cells
+T15	CL_GO_EXT:cell 366 371	cells
+T16	SO_EXT:sequence_alteration_entity_or_process 447 456	mutations
+T17	CL:0000210 464 477	photoreceptor
+T18	GO_EXT:transcription 478 491	transcription
+T19	GO_EXT:transcription_factor 478 498	transcription factor
+T20	PR_EXT:000005904 500 503	Crx
+T21	PR_EXT:000005904 517 520	Crx
+T22	SO_EXT:sequence_altered_entity_or_alteration_process 521 527	mutant
+T23	NCBITaxon:10088 538 542	mice
+T24	PR_EXT:000005904 616 619	Crx
+T25	UBERON:0000966 693 699	retina
+T26	PR_EXT:000005904 703 706	Crx
+T27	SO_EXT:sequence_altered_entity_or_alteration_process 707 713	mutant
+T28	NCBITaxon:10088 714 718	mice
+T29	GO:0001750 734 747	Outer segment
+T30	GO:0009653 748 761	morphogenesis
+T31	GO:0007602 853 870	phototransduction
+T32	PR_EXT:000005904 891 894	Crx
+T33	SO_EXT:sequence_nullness_or_absence 894 895	-
+T34	SO_EXT:sequence_nullness_or_absence 896 897	-
+T35	CL:0000210 898 912	photoreceptors
+T36	GO:0045202 944 952	synaptic
+T37	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 953 960	endings
+T38	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 953 960	endings
+T39	UBERON:0001790 968 989	outer plexiform layer
+T40	GO:0007416 1035 1049	synaptogenesis
+T41	NCBITaxon:33208 1063 1069	animal
+T42	SO_EXT:0000704 1128 1132	gene
+T43	CL:0000210 1162 1175	photoreceptor
+T44	GO:0042461 1162 1187	photoreceptor development
+T45	CL:0000210 1261 1280	Photoreceptor cells
+T46	CL_GO_EXT:cell 1275 1280	cells
+T47	GO:0007601 1304 1310	vision
+T48	UBERON_EXT:neural_tissue_or_nerve_or_nervous_system 1360 1366	neural
+T49	GO_EXT:detection_or_sensing_of_stimulus 1382 1389	sensory
+T50	CL:0000101 1382 1397	sensory neurons
+T51	NCBITaxon:1 1426 1435	organisms
+T52	GO_EXT:detection_or_sensing_of_stimulus 1447 1454	sensing
+T53	NCBITaxon:9606 1465 1471	humans
+T54	SO_EXT:0000704 1473 1480	genetic
+T55	UBERON:0000970 1497 1500	eye
+T56	CL:0000210 1563 1577	photoreceptors
+T57	CL:0000210 1603 1617	Photoreceptors
+T58	GO_PATO_EXT:physiological_process_or_quality 1692 1702	physiology
+T59	GO:0007602 1706 1723	phototransduction
+T60	GO:0042461 1742 1756;1768 1782	development of ... photoreceptors
+T61	NCBITaxon:7742 1757 1767	vertebrate
+T62	CL:0000210 1768 1782	photoreceptors
+T63	CHEBI_EXT:polyatomic_entity_or_group 1871 1880	molecular
+T64	GO:0065007 1892 1902	regulating
+T65	CL:0000210 1903 1916	photoreceptor
+T66	GO:0042461 1903 1928	photoreceptor development
+T67	PR_EXT:000005904 1970 1973	Crx
+T68	CL:0000573 1975 1979	cone
+T69	PR_EXT:000005904 1975 1992	cone-rod homeobox
+T70	CL:0000604 1980 1983	rod
+T71	PR_EXT:OTX 2000 2003	otx
+T72	SO_EXT:0000704 2020 2024	gene
+T73	GO:0010467 2025 2034	expressed
+T74	CL:0000210 2052 2066	photoreceptors
+T75	UBERON:0007023 2115 2120	adult
+T76	PR_EXT:000005904 2133 2136	Crx
+T77	SO_EXT:0000704 2137 2141	gene
+T78	GO:0010467 2137 2152	gene expression
+T79	PR_EXT:000012086 2182 2186	Otx2
+T80	GO:0010467 2240 2249	expressed
+T81	CL:0000210 2259 2278	photoreceptor cells
+T82	CL_GO_EXT:cell 2273 2278	cells
+T83	CL:0000604 2287 2305	rod photoreceptors
+T84	PR_EXT:000005904 2307 2310	Crx
+T85	PR_EXT:000011432 2343 2346	Nrl
+T86	CHEBI_SO_EXT:leucine 2350 2357	leucine
+T87	CHEBI_SO_EXT:leucine 2350 2357	leucine
+T88	CHEBI_PR_EXT:protein 2365 2372	protein
+T89	CHEBI_PR_EXT:protein 2365 2372	protein
+T90	GO:0010467 2404 2414	expression
+T91	UBERON:0000966 2422 2428	retina
+T92	CL:0000604 2432 2450	rod photoreceptors
+T93	CL:0000210 2461 2474	photoreceptor
+T94	SO_EXT:0000704 2484 2489	genes
+T95	PR_EXT:000005904 2504 2507	Crx
+T96	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 2508 2515	binding
+T97	SO_EXT:0000409 2508 2524	binding elements
+T98	GO:0065007 2534 2544	regulatory
+T99	SO_EXT:0005836 2534 2552	regulatory regions
+T100	PR_EXT:000001245 2569 2578	rhodopsin
+T101	PR_EXT:arrestin 2588 2596	arrestin
+T102	SO_EXT:sequence_alteration_entity_or_process 2603 2612	Mutations
+T103	PR_EXT:000005904 2616 2619	Crx
+T104	NCBITaxon:9606 2654 2659	human
+T105	CL:0000573 2703 2707	cone
+T106	CL:0000604 2708 2711	rod
+T107	PR_EXT:000005904 2800 2803	Crx
+T108	GO:0030154 2852 2867;2885 2887;2902 2907	differentiation ... of ... cells
+T109	CL:0000210 2888 2907	photoreceptor cells
+T110	CL_GO_EXT:cell 2902 2907	cells
+T111	SO_EXT:0000704 2939 2946	genetic
+T112	CL:0000210 2958 2972	photoreceptors
+T113	GO:0007601 3068 3074	vision
+T114	GO:0007567 3080 3085	birth
+T115	SO_EXT:sequence_alteration_entity_or_process 3087 3096	Mutations
+T116	UBERON:0000966 3100 3107	retinal
+T117	SO_EXT:0000704 3117 3122	genes
+T118	PR_EXT:000005904 3132 3135	Crx
+T119	PR_EXT:000008353 3187 3193	GUCY2D
+T120	PR_EXT:000014179 3200 3205	RPE65
+T121	PR_EXT:000003876 3212 3218	AIPL-1
+T122	PR_EXT:000005848 3225 3230	CRB-1
+T123	PR_EXT:000014182 3241 3249	RPGRIP-1
+T124	SO_EXT:0000018 3302 3325	genetically linked loci
+T125	SO_EXT:0000704 3332 3337	genes
+T126	PR_EXT:000005904 3369 3372	Crx
+T127	SO_EXT:sequence_alteration_entity_or_process 3373 3382	mutations
+T128	SO_EXT:sequence_alteration_entity_or_process 3434 3442	mutation
+T129	SO_EXT:sequence_coding_function 3463 3469	encode
+T130	PR_EXT:000005904 3498 3501	Crx
+T131	SO_EXT:sequence_alteration_entity_or_process 3521 3530	mutations
+T132	SO_EXT:0001023 3572 3578	allele
+T133	SO_EXT:sequence_coding_function 3579 3586	encodes
+T134	CHEBI_PR_EXT:protein 3589 3596	protein
+T135	CHEBI_PR_EXT:protein 3589 3596	protein
+T136	CHEBI_SO_EXT:DNA 3612 3615	DNA
+T137	CHEBI_SO_EXT:DNA 3612 3615	DNA
+T138	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 3616 3623	binding
+T139	NCBITaxon:9606 3818 3823	human
+T140	UBERON:0010230 3892 3898	globes
+T141	UBERON:0007023 3902 3908	adults
+T142	UBERON:0000479 3929 3935	tissue
+T143	UBERON:0000970 4017 4020	eye
+T144	UBERON_EXT:baby_or_infant 4027 4033	infant
+T145	NCBITaxon:33208 4053 4059	Animal
+T146	SO_EXT:0000704 4228 4239	genetically
+T147	NCBITaxon:10088 4275 4280	mouse
+T148	CL:0000210 4357 4370	photoreceptor
+T149	GO:0042461 4357 4382	photoreceptor development
+T150	CL:0000210 4452 4471	photoreceptor cells
+T151	CL_GO_EXT:cell 4466 4471	cells
+T152	CL:0000540 4515 4523	neuronal
+T153	GO_RO_EXT:developmental_differentiation_process 4524 4539	differentiation
+T154	CL:0000210 4541 4560	Photoreceptor cells
+T155	CL_GO_EXT:cell 4555 4560	cells
+T156	GO:0045177 4592 4596	apex
+T157	CL:0000540 4604 4611	neurons
+T158	GO:0016020 4619 4629	membranous
+T159	GO:0001750 4630 4643	outer segment
+T160	CHEBI_PR_EXT:protein 4660 4668	proteins
+T161	CHEBI_PR_EXT:protein 4660 4668	proteins
+T162	GO:0007602 4685 4710	phototransduction cascade
+T163	SO_EXT:sequence_alteration_entity_or_process 4729 4738	mutations
+T164	PR_EXT:000001245 4742 4751	rhodopsin
+T165	CHEBI_PR_EXT:protein 4776 4783	protein
+T166	CHEBI_PR_EXT:protein 4776 4783	protein
+T167	PR_EXT:peripherin 4785 4795	peripherin
+T168	GO:0001750 4833 4847	outer segments
+T169	CL:0000210 4873 4887	photoreceptors
+T170	GO:0045202 4903 4911	synaptic
+T171	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 4912 4919	endings
+T172	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 4912 4919	endings
+T173	GO:0042995 4947 4959;4983 4988	processes of ... cells
+T174	CL:0000745 4960 4970;4983 4988	horizontal ... cells
+T175	CL:0000103 4975 4988	bipolar cells
+T176	CL:0000604 4998 5001	Rod
+T177	GO:0044317 4998 5011	Rod spherules
+T178	GO:0045202 5038 5045	synapse
+T179	CL:0000604 5051 5054	rod
+T180	GO:0030425 5063 5072	dendrites
+T181	GO:0043679 5077 5091	axonal endings
+T182	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 5084 5091	endings
+T183	CL:0000745 5095 5111	horizontal cells
+T184	CL_GO_EXT:cell 5106 5111	cells
+T185	GO:0045202 5118 5125	synapse
+T186	GO:0098793 5178 5189	presynaptic
+T187	GO:0005737 5190 5199	cytoplasm
+T188	CL:0000573 5201 5205	Cone
+T189	GO:0044316 5201 5214	Cone pedicles
+T190	GO:0045202 5233 5241	synapses
+T191	GO:0030425 5251 5260	dendrites
+T192	CL:0000749 5264 5266;5272 5285	on ... bipolar cells
+T193	CL:0000573 5267 5271	cone
+T194	CL_GO_EXT:cell 5280 5285	cells
+T195	CL:0000745 5290 5306	horizontal cells
+T196	CL_GO_EXT:cell 5301 5306	cells
+T197	GO:0030425 5336 5345	dendrites
+T198	CL:0000750 5349 5352;5358 5371	off ... bipolar cells
+T199	CL:0000573 5353 5357	cone
+T200	CL_GO_EXT:cell 5366 5371	cells
+T201	GO:0065007 5385 5395	regulating
+T202	GO:0007416 5400 5412;5431 5439	formation of ... synapses
+T203	CL:0000210 5417 5430	photoreceptor
+T204	GO:0045202 5431 5439	synapses
+T205	CL:0000210 5477 5490	photoreceptor
+T206	GO:0045202 5491 5499	synaptic
+T207	CHEBI_PR_EXT:protein 5500 5507	protein
+T208	CHEBI_PR_EXT:protein 5500 5507	protein
+T209	PR_EXT:000017084 5509 5513	HRG4
+T210	PR_EXT:000005904 5536 5539	Crx
+T211	SO_EXT:biological_sequence 5547 5555	sequence
+T212	GO_EXT:transcription 5563 5578	transcriptional
+T213	SO_EXT:0001679 5563 5598	transcriptional regulatory sequence
+T214	GO:0065007 5579 5589	regulatory
+T215	NCBITaxon:33208 5625 5631	animal
+T216	UBERON:0000966 5674 5681	retinal
+T217	CL:0000540 5742 5750	neuronal
+T218	GO_RO_EXT:developmental_differentiation_process 5751 5766	differentiation
+T219	GO:0045202 5776 5783	synapse
+T220	GO:0007416 5776 5793	synapse formation
+T221	GO_RO_EXT:developmental_differentiation_process 5948 5963	differentiation
+T222	UBERON:0000966 5977 5983	retina
+T223	PR_EXT:000005904 5987 5990	Crx
+T224	SO_EXT:sequence_nullness_or_absence 5990 5991	-
+T225	SO_EXT:sequence_nullness_or_absence 5992 5993	-
+T226	NCBITaxon:10088 5994 5998	mice
+T227	UBERON:0000966 6035 6042	retinas
+T228	PR_EXT:000005904 6078 6081	Crx
+T229	SO_EXT:sequence_nullness_or_absence 6081 6082	-
+T230	SO_EXT:sequence_nullness_or_absence 6083 6084	-
+T231	CL:0000210 6085 6099	photoreceptors
+T232	GO:0001750 6132 6145	outer segment
+T233	CL_GO_EXT:cell 6196 6201	cells
+T234	CL_GO_EXT:cell 6196 6201	cells
+T235	GO:0045202 6219 6227	synaptic
+T236	PR_EXT:000005904 6275 6278	Crx
+T237	CL:0000210 6282 6295	photoreceptor
+T238	GO:0007416 6296 6310	synaptogenesis
+T239	GO:0045202 6381 6388	synapse
+T240	GO:0007416 6381 6398	synapse formation
+T241	GO:0001750 6445 6458	outer segment
+T242	UBERON:0003926 6445 6464	outer segment layer
+T243	PR_EXT:000005904 6468 6471	Crx
+T244	SO_EXT:sequence_nullness_or_absence 6471 6472	-
+T245	SO_EXT:sequence_nullness_or_absence 6473 6474	-
+T246	NCBITaxon:10088 6475 6479	mice
+T247	NCBITaxon:10088 6532 6536	mice
+T248	PR_EXT:000005904 6565 6568	Crx
+T249	SO_EXT:sequence_nullness_or_absence 6568 6569	-
+T250	SO_EXT:sequence_nullness_or_absence 6570 6571	-
+T251	SO_EXT:sequence_deletion_process 6589 6596	deleted
+T252	PR_EXT:000005904 6618 6621	Crx
+T253	SO_EXT:sequence_nullness_or_absence 6621 6622	-
+T254	SO_EXT:sequence_nullness_or_absence 6623 6624	-
+T255	NCBITaxon:10088 6625 6629	mice
+T256	PR_EXT:000005904 6724 6727	Crx
+T257	CL:0000210 6731 6744	photoreceptor
+T258	GO:0008594 6731 6758	photoreceptor morphogenesis
+T259	UBERON:0000966 6770 6777	retinae
+T260	PR_EXT:000005904 6783 6786	Crx
+T261	SO_EXT:sequence_nullness_or_absence 6786 6787	-
+T262	SO_EXT:sequence_nullness_or_absence 6788 6789	-
+T263	NCBITaxon:10088 6790 6794	mice
+T264	CHEBI:10545 6828 6836	electron
+T265	GO:0007567 6856 6861	natal
+T266	PR_EXT:000005904 6881 6884	Crx
+T267	SO_EXT:normal_or_wild_type_or_present 6884 6885	+
+T268	SO_EXT:normal_or_wild_type_or_present 6886 6887	+
+T269	CL:0000210 6888 6902	photoreceptors
+T270	GO:0001750 6920 6934	outer segments
+T271	PR_EXT:000005904 6952 6955	Crx
+T272	SO_EXT:sequence_nullness_or_absence 6955 6956	-
+T273	SO_EXT:sequence_nullness_or_absence 6957 6958	-
+T274	UBERON:0000966 6959 6966	retinas
+T275	GO:0001750 6995 7008	outer segment
+T276	UBERON:0003926 6995 7014	outer segment layer
+T277	PR_EXT:000005904 7028 7031	Crx
+T278	SO_EXT:sequence_nullness_or_absence 7031 7032	-
+T279	SO_EXT:sequence_nullness_or_absence 7033 7034	-
+T280	CL:0000210 7035 7049	photoreceptors
+T281	GO:0001917 7054 7068	inner segments
+T282	CL:0000210 7101 7114	photoreceptor
+T283	PR_EXT:000005904 7135 7138	Crx
+T284	SO_EXT:sequence_altered_entity 7139 7145	mutant
+T285	GO:0001917 7155 7169	inner segments
+T286	GO:0001917 7232 7246	inner segments
+T287	GO_RO_EXT:developmental_differentiation_process 7273 7288	differentiation
+T288	GO:0005739 7319 7331	mitochondria
+T289	GO:0001917 7382 7395	inner segment
+T290	GO:0019835 7407 7412	lysis
+T291	GO:0005773 7450 7458	vacuoles
+T292	GO:0005739 7471 7483	mitochondria
+T293	CHEBI:10545 7526 7534	electron
+T294	UBERON:0000966 7559 7565	retina
+T295	PR_EXT:000005904 7580 7583	Crx
+T296	SO_EXT:normal_or_wild_type_or_present 7583 7584	+
+T297	SO_EXT:normal_or_wild_type_or_present 7585 7586	+
+T298	PR_EXT:000005904 7595 7598	Crx
+T299	SO_EXT:sequence_nullness_or_absence 7598 7599	-
+T300	SO_EXT:sequence_nullness_or_absence 7600 7601	-
+T301	UBERON:0000966 7602 7609	retinas
+T302	CHEBI_EXT:26130 7615 7624	pigmented
+T303	UBERON:0000483 7625 7635	epithelium
+T304	GO:0001750 7637 7639	os
+T305	GO:0001750 7641 7655	outer segments
+T306	GO:0001917 7657 7659	is
+T307	GO:0001917 7661 7675	inner segments
+T308	UBERON:0001789 7677 7680	onl
+T309	UBERON:0001789 7682 7701	outer nuclear layer
+T310	GO:0005634 7688 7695	nuclear
+T311	CL:0000210 7707 7720	photoreceptor
+T312	GO:0005634 7721 7727	nuclei
+T313	CHEBI:10545 7783 7791	electron
+T314	GO:0001750 7810 7823	outer segment
+T315	UBERON:0003926 7810 7829	outer segment layer
+T316	PR_EXT:000005904 7833 7836	Crx
+T317	SO_EXT:sequence_nullness_or_absence 7836 7837	-
+T318	SO_EXT:sequence_nullness_or_absence 7838 7839	-
+T319	UBERON:0000966 7840 7846	retina
+T320	GO:0001917 7855 7872;7880 7894	Inner segments of ... photoreceptors
+T321	PR_EXT:000005904 7873 7876	Crx
+T322	SO_EXT:sequence_nullness_or_absence 7876 7877	-
+T323	SO_EXT:sequence_nullness_or_absence 7878 7879	-
+T324	CL:0000210 7880 7894	photoreceptors
+T325	GO:0005739 7912 7924	mitochondria
+T326	GO:0005739 7926 7927	m
+T327	PR_EXT:000005904 7954 7957	Crx
+T328	SO_EXT:normal_or_wild_type_or_present 7957 7958	+
+T329	SO_EXT:normal_or_wild_type_or_present 7959 7960	+
+T330	CHEBI_EXT:26130 7978 7987	pigmented
+T331	UBERON:0000483 7988 7998	epithelium
+T332	GO:0001917 8000 8002	is
+T333	GO:0001917 8004 8018	inner segments
+T334	UBERON:0001789 8020 8023	onl
+T335	UBERON:0001789 8025 8044	outer nuclear layer
+T336	GO:0005634 8031 8038	nuclear
+T337	CL:0000210 8065 8078	Photoreceptor
+T338	GO:0001917 8065 8093	Photoreceptor inner segments
+T339	GO:0001750 8065 8078;8098 8112	Photoreceptor ... outer segments
+T340	GO:0032391 8129 8157	non-motile connecting cilium
+T341	GO:0005874 8210 8221	microtubule
+T342	PR_EXT:000005904 8272 8275	Crx
+T343	SO_EXT:sequence_nullness_or_absence 8275 8276	-
+T344	SO_EXT:sequence_nullness_or_absence 8277 8278	-
+T345	UBERON:0000966 8279 8286	retinas
+T346	GO:0032391 8315 8331	connecting cilia
+T347	GO:0032391 8377 8393	connecting cilia
+T348	GO:0005874 8441 8452	microtubule
+T349	GO:0032391 8494 8511	connecting cilium
+T350	GO:0001917 8712 8725	inner segment
+T351	GO:0042384 8737 8749	ciliogenesis
+T352	PR_EXT:000005904 8776 8779	Crx
+T353	SO_EXT:sequence_nullness_or_absence 8779 8780	-
+T354	SO_EXT:sequence_nullness_or_absence 8781 8782	-
+T355	CL:0000210 8783 8797	photoreceptors
+T356	PR_EXT:000005904 8811 8814	Crx
+T357	SO_EXT:sequence_nullness_or_absence 8814 8815	-
+T358	SO_EXT:sequence_nullness_or_absence 8816 8817	-
+T359	UBERON:0000966 8818 8825	retinas
+T360	UBERON:0001782 8830 8858	retinal pigmented epithelium
+T361	CHEBI_EXT:26130 8838 8847	pigmented
+T362	CHEBI:10545 8967 8975	electron
+T363	PR_EXT:000005904 8990 8993	Crx
+T364	SO_EXT:sequence_nullness_or_absence 8993 8994	-
+T365	SO_EXT:sequence_nullness_or_absence 8995 8996	-
+T366	UBERON:0000966 8997 9003	retina
+T367	CHEBI:10545 9035 9043	electron
+T368	PR_EXT:000005904 9058 9061	Crx
+T369	SO_EXT:sequence_nullness_or_absence 9061 9062	-
+T370	SO_EXT:sequence_nullness_or_absence 9063 9064	-
+T371	GO:0001750 9079 9092	outer segment
+T372	UBERON:0003926 9079 9098	outer segment layer
+T373	GO:0042384 9116 9128	ciliogenesis
+T374	CL:0000210 9136 9149	photoreceptor
+T375	UBERON:0001787 9136 9158;9166 9172	photoreceptor layer of ... retina
+T376	PR_EXT:000005904 9159 9162	Crx
+T377	SO_EXT:sequence_nullness_or_absence 9162 9163	-
+T378	SO_EXT:sequence_nullness_or_absence 9164 9165	-
+T379	GO:0032391 9174 9200	Nonmotile connecting cilia
+T380	GO:0032391 9271 9288	Connecting cilium
+T381	GO:0005874 9324 9334	microtuble
+T382	GO:0005929 9351 9357	cilium
+T383	GO:0005929 9364 9370	cilium
+T384	CL_GO_EXT:cell 9407 9411	cell
+T385	GO:0005634 9407 9419	cell nucleus
+T386	GO:0005634 9421 9422	n
+T387	GO:0030263 9434 9442	pyknotic
+T388	GO:0031012 9470 9476	matrix
+T389	GO:0031012 9478 9480	mx
+T390	GO:0031988 9550 9569	membranous vesicles
+T391	CL:0000210 9595 9608	photoreceptor
+T392	GO_EXT:biological_release 9634 9642	released
+T393	GO:0001917 9648 9662	inner segments
+T394	GO:0032391 9688 9715	Nonmotile connecting cilium
+T395	PR_EXT:000005904 9741 9744	Crx
+T396	SO_EXT:sequence_nullness_or_absence 9744 9745	-
+T397	SO_EXT:sequence_nullness_or_absence 9746 9747	-
+T398	CL:0000210 9748 9761	photoreceptor
+T399	GO:0005874 9812 9823	microtubule
+T400	CHEBI:10545 9866 9874	electron
+T401	GO:0031988 9895 9914	membranous vesicles
+T402	GO:0001917 9951 9965	inner segments
+T403	PR_EXT:000005904 9969 9972	Crx
+T404	SO_EXT:sequence_nullness_or_absence 9972 9973	-
+T405	SO_EXT:sequence_nullness_or_absence 9974 9975	-
+T406	CL:0000210 9976 9990	photoreceptors
+T407	GO:0001917 10012 10026	inner segments
+T408	UBERON:0001773 10043 10050	scleral
+T409	CHEBI_EXT:26130 10065 10074	pigmented
+T410	UBERON:0000483 10075 10085	epithelium
+T411	GO:0001750 10153 10167	outer segments
+T412	PR_EXT:000005904 10169 10172	Crx
+T413	SO_EXT:sequence_nullness_or_absence 10172 10173	-
+T414	SO_EXT:sequence_nullness_or_absence 10174 10175	-
+T415	UBERON:0000966 10176 10183	retinas
+T416	GO:0001750 10233 10246	outer segment
+T417	UBERON:0003926 10233 10252	outer segment layer
+T418	GO:0031012 10287 10293	matrix
+T419	GO:0005634 10372 10378	nuclei
+T420	GO:0005634 10449 10455	nuclei
+T421	GO:0030263 10465 10473	pyknotic
+T422	GO:0000792 10525 10540	heterochromatin
+T423	CL:0000210 10560 10574	photoreceptors
+T424	CL:0000210 10643 10657	photoreceptors
+T425	GO:0001750 10702 10715	outer segment
+T426	UBERON:0003926 10702 10721	outer segment layer
+T427	GO:0031982 10742 10750	vesicles
+T428	GO:0001917 10834 10848	inner segments
+T429	CHEBI:10545 10862 10870	electron
+T430	GO:0001917 10935 10949	inner segments
+T431	GO:0008594 11008 11024;11032 11046	morphogenesis of ... photoreceptors
+T432	PR_EXT:000005904 11025 11028	Crx
+T433	SO_EXT:sequence_nullness_or_absence 11028 11029	-
+T434	SO_EXT:sequence_nullness_or_absence 11030 11031	-
+T435	CL:0000210 11032 11046	photoreceptors
+T436	GO:0001750 11063 11076	outer segment
+T437	UBERON:0003926 11063 11082	outer segment layer
+T438	CHEBI:10545 11106 11114	electron
+T439	PR_EXT:000005904 11160 11163	Crx
+T440	SO_EXT:normal_or_wild_type_or_present 11163 11164	+
+T441	SO_EXT:normal_or_wild_type_or_present 11165 11166	+
+T442	UBERON:0000966 11167 11174	retinas
+T443	CL:0000210 11176 11189	photoreceptor
+T444	GO:0001917 11176 11204	photoreceptor inner segments
+T445	GO:0032391 11206 11222	connecting cilia
+T446	GO:0001750 11250 11263	outer segment
+T447	PR_EXT:000005904 11300 11303	Crx
+T448	SO_EXT:sequence_nullness_or_absence 11303 11304	-
+T449	SO_EXT:sequence_nullness_or_absence 11305 11306	-
+T450	UBERON:0000966 11307 11313	retina
+T451	GO:0032391 11335 11352	connecting cilium
+T452	GO:0001917 11377 11391	inner segments
+T453	CHEBI:10545 11489 11497	electron
+T454	PR_EXT:000005904 11583 11586	Crx
+T455	SO_EXT:normal_or_wild_type_or_present 11586 11587	+
+T456	SO_EXT:normal_or_wild_type_or_present 11588 11589	+
+T457	PR_EXT:000005904 11594 11597	Crx
+T458	SO_EXT:sequence_nullness_or_absence 11597 11598	-
+T459	SO_EXT:sequence_nullness_or_absence 11599 11600	-
+T460	CL:0000210 11601 11615	photoreceptors
+T461	GO:0001750 11636 11650	outer segments
+T462	PR_EXT:000005904 11665 11668	Crx
+T463	SO_EXT:normal_or_wild_type_or_present 11668 11669	+
+T464	SO_EXT:normal_or_wild_type_or_present 11670 11671	+
+T465	CL:0000210 11672 11686	photoreceptors
+T466	GO:0045177 11748 11752	apex
+T467	PR_EXT:000005904 11773 11776	Crx
+T468	SO_EXT:sequence_nullness_or_absence 11776 11777	-
+T469	SO_EXT:sequence_nullness_or_absence 11778 11779	-
+T470	UBERON:0000966 11780 11787	retinae
+T471	CL:0000210 11810 11824	photoreceptors
+T472	GO:0032391 11852 11868	connecting cilia
+T473	GO:0001750 11877 11891	outer segments
+T474	PR_EXT:000005904 11923 11926	Crx
+T475	SO_EXT:sequence_nullness_or_absence 11926 11927	-
+T476	SO_EXT:sequence_nullness_or_absence 11928 11929	-
+T477	CL:0000210 11930 11944	photoreceptors
+T478	GO:0032391 11999 12016	connecting cilium
+T479	GO:0001750 12067 12080	outer segment
+T480	GO:0001750 12167 12181	outer segments
+T481	PR_EXT:000005904 12208 12211	Crx
+T482	SO_EXT:normal_or_wild_type_or_present 12211 12212	+
+T483	SO_EXT:normal_or_wild_type_or_present 12213 12214	+
+T484	PR_EXT:000005904 12277 12280	Crx
+T485	SO_EXT:sequence_nullness_or_absence 12280 12281	-
+T486	SO_EXT:sequence_nullness_or_absence 12282 12283	-
+T487	CL:0000210 12284 12298	photoreceptors
+T488	GO:0032391 12315 12331	connecting cilia
+T489	PR_EXT:000005904 12382 12385	Crx
+T490	SO_EXT:sequence_nullness_or_absence 12385 12386	-
+T491	SO_EXT:sequence_nullness_or_absence 12387 12388	-
+T492	CL:0000210 12389 12403	photoreceptors
+T493	GO:0001750 12597 12610	outer segment
+T494	PR_EXT:000005904 12628 12631	Crx
+T495	SO_EXT:sequence_altered_entity_or_alteration_process 12632 12638	mutant
+T496	NCBITaxon:10088 12639 12644	mouse
+T497	CL:0000210 12683 12696	photoreceptor
+T498	GO:0042995 12697 12706	appendage
+T499	GO:0001750 12734 12747	outer segment
+T500	GO:0001750 12770 12783	Outer segment
+T501	GO:0009653 12784 12797	morphogenesis
+T502	PR_EXT:000005904 12801 12804	Crx
+T503	SO_EXT:sequence_nullness_or_absence 12804 12805	-
+T504	SO_EXT:sequence_nullness_or_absence 12806 12807	-
+T505	CL:0000210 12808 12822	photoreceptors
+T506	CHEBI:10545 12833 12841	electron
+T507	CL:0000210 12867 12881	photoreceptors
+T508	UBERON:0001773 12898 12905	scleral
+T509	CHEBI_EXT:26130 12920 12929	pigmented
+T510	UBERON:0000483 12930 12940	epithelium
+T511	PR_EXT:000005904 12973 12976	Crx
+T512	SO_EXT:normal_or_wild_type_or_present 12976 12977	+
+T513	SO_EXT:normal_or_wild_type_or_present 12978 12979	+
+T514	PR_EXT:000005904 12998 13001	Crx
+T515	SO_EXT:sequence_nullness_or_absence 13001 13002	-
+T516	SO_EXT:sequence_nullness_or_absence 13003 13004	-
+T517	PR_EXT:000005904 13031 13034	Crx
+T518	SO_EXT:normal_or_wild_type_or_present 13034 13035	+
+T519	SO_EXT:normal_or_wild_type_or_present 13036 13037	+
+T520	UBERON:0000966 13038 13044	retina
+T521	GO:0032391 13055 13071	connecting cilia
+T522	GO:0032391 13076 13078	cc
+T523	GO:0001750 13116 13130	outer segments
+T524	PR_EXT:000005904 13145 13148	Crx
+T525	SO_EXT:normal_or_wild_type_or_present 13148 13149	+
+T526	SO_EXT:normal_or_wild_type_or_present 13150 13151	+
+T527	GO:0001750 13152 13165	outer segment
+T528	GO:0001750 13196 13210	outer segments
+T529	GO:0001750 13244 13246	os
+T530	GO:0001750 13272 13274	os
+T531	PR_EXT:000005904 13280 13283	Crx
+T532	SO_EXT:sequence_nullness_or_absence 13283 13284	-
+T533	SO_EXT:sequence_nullness_or_absence 13285 13286	-
+T534	CL:0000210 13287 13301	photoreceptors
+T535	GO:0032391 13307 13323	connecting cilia
+T536	GO:0032391 13363 13379	connecting cilia
+T537	GO:0001750 13428 13441	outer segment
+T538	GO:0032391 13469 13486	connecting cilium
+T539	GO:0032391 13497 13499	cc
+T540	PR_EXT:000005904 13533 13536	Crx
+T541	SO_EXT:normal_or_wild_type_or_present 13536 13537	+
+T542	SO_EXT:normal_or_wild_type_or_present 13538 13539	+
+T543	GO:0032391 13590 13606	connecting cilia
+T544	PR_EXT:000005904 13620 13623	Crx
+T545	SO_EXT:sequence_nullness_or_absence 13623 13624	-
+T546	SO_EXT:sequence_nullness_or_absence 13625 13626	-
+T547	GO:0032391 13631 13633	cc
+T548	CHEBI:10545 13679 13687	electron
+T549	PR_EXT:000005904 13703 13706	Crx
+T550	SO_EXT:sequence_nullness_or_absence 13706 13707	-
+T551	SO_EXT:sequence_nullness_or_absence 13708 13709	-
+T552	CL:0000210 13710 13724	photoreceptors
+T553	CL:0000210 13732 13745	photoreceptor
+T554	UBERON:0001787 13732 13751	photoreceptor layer
+T555	CL:0000210 13763 13776	Photoreceptor
+T556	UBERON:0001787 13763 13785;13793 13799	Photoreceptor layer of ... retina
+T557	PR_EXT:000005904 13786 13789	Crx
+T558	SO_EXT:normal_or_wild_type_or_present 13789 13790	+
+T559	SO_EXT:normal_or_wild_type_or_present 13791 13792	+
+T560	GO:0001750 13822 13835	outer segment
+T561	CL:0000210 13869 13882	photoreceptor
+T562	GO:0032391 13869 13899	photoreceptor connecting cilia
+T563	GO:0032391 13901 13903	cc
+T564	PR_EXT:000005904 13910 13913	Crx
+T565	SO_EXT:sequence_nullness_or_absence 13913 13914	-
+T566	SO_EXT:sequence_nullness_or_absence 13915 13916	-
+T567	CL:0000210 13917 13931	photoreceptors
+T568	GO:0032391 13942 13958	connecting cilia
+T569	GO:0032391 13960 13962	cc
+T570	GO:0001750 14002 14015	outer segment
+T571	PR_EXT:000005904 14106 14109	Crx
+T572	SO_EXT:sequence_nullness_or_absence 14109 14110	-
+T573	SO_EXT:sequence_nullness_or_absence 14111 14112	-
+T574	CL:0000210 14113 14127	photoreceptors
+T575	PR_EXT:000001245 14144 14153	rhodopsin
+T576	SO_EXT:sequence_nullness_or_absence 14153 14154	-
+T577	SO_EXT:sequence_nullness_or_absence 14155 14156	-
+T578	PR_EXT:peripherin 14161 14171	peripherin
+T579	SO_EXT:sequence_nullness_or_absence 14171 14172	-
+T580	SO_EXT:sequence_nullness_or_absence 14173 14174	-
+T581	CL:0000210 14175 14189	photoreceptors
+T582	PR_EXT:000001245 14191 14200	Rhodopsin
+T583	PR_EXT:peripherin 14205 14215	peripherin
+T584	CL:0000210 14224 14237	photoreceptor
+T585	SO_EXT:0000704 14247 14252	genes
+T586	GO:0010467 14259 14269	expression
+T587	GO_EXT:negative_regulation 14287 14300	downregulated
+T588	PR_EXT:000005904 14308 14311	Crx
+T589	SO_EXT:sequence_nullness_or_absence 14311 14312	-
+T590	SO_EXT:sequence_nullness_or_absence 14313 14314	-
+T591	UBERON:0000966 14315 14322	retinae
+T592	SO_EXT:sequence_alteration_entity_or_process 14352 14361	mutations
+T593	SO_EXT:0000704 14379 14384	genes
+T594	GO:0001750 14451 14465	outer segments
+T595	CL:0000210 14475 14489	Photoreceptors
+T596	SO_EXT:sequence_altered_entity_or_alteration_process 14505 14511	mutant
+T597	NCBITaxon:10088 14512 14516	mice
+T598	UBERON:0001773 14542 14549	scleral
+T599	PR_EXT:000005904 14582 14585	Crx
+T600	SO_EXT:sequence_nullness_or_absence 14585 14586	-
+T601	SO_EXT:sequence_nullness_or_absence 14587 14588	-
+T602	CL:0000210 14589 14603	photoreceptors
+T603	CHEBI:10545 14665 14673	electron
+T604	PR_EXT:peripherin 14688 14698	peripherin
+T605	SO_EXT:sequence_nullness_or_absence 14698 14699	-
+T606	SO_EXT:sequence_nullness_or_absence 14700 14701	-
+T607	PR_EXT:000001245 14710 14719	rhodopsin
+T608	SO_EXT:sequence_nullness_or_absence 14719 14720	-
+T609	SO_EXT:sequence_nullness_or_absence 14721 14722	-
+T610	CL:0000210 14727 14741	photoreceptors
+T611	UBERON:0001773 14766 14773	scleral
+T612	CHEBI_EXT:26130 14788 14797	pigmented
+T613	UBERON:0000483 14798 14808	epithelium
+T614	GO:0032391 14818 14820	cc
+T615	GO:0032391 14822 14839	connecting cilium
+T616	GO:0001917 14841 14843	is
+T617	GO:0001917 14845 14858	inner segment
+T618	PR_EXT:000005904 14880 14883	Crx
+T619	CL:0000210 14918 14931	photoreceptor
+T620	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 14932 14941	terminals
+T621	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 14932 14941	terminals
+T622	GO:0010467 14992 15002	expression
+T623	SO_EXT:0001023 15026 15032	allele
+T624	PR_EXT:000005904 15036 15039	Crx
+T625	CL:0000604 15054 15058	rods
+T626	CL:0000604 15085 15088	rod
+T627	GO:0044317 15085 15098	rod spherules
+T628	UBERON:0001790 15106 15127	outer plexiform layer
+T629	UBERON:0001790 15129 15132	OPL
+T630	GO:0001750 15138 15152	outer segments
+T631	CL:0000210 15208 15221	photoreceptor
+T632	GO:0045202 15222 15230	synapses
+T633	PR_EXT:000005904 15247 15250	Crx
+T634	SO_EXT:sequence_nullness_or_absence 15250 15251	-
+T635	SO_EXT:sequence_nullness_or_absence 15252 15253	-
+T636	UBERON:0000966 15254 15261	retinas
+T637	PR_EXT:000005904 15266 15269	Crx
+T638	SO_EXT:normal_or_wild_type_or_present 15269 15270	+
+T639	SO_EXT:normal_or_wild_type_or_present 15271 15272	+
+T640	UBERON:0000966 15273 15280	retinas
+T641	CL:0000604 15302 15305	rod
+T642	GO:0044317 15302 15315	rod spherules
+T643	GO:0044317 15347 15355	sperules
+T644	GO:0045202 15452 15459	synapse
+T645	GO:0042995 15524 15538;15550 15555	processes from ... cells
+T646	CL:0000745 15539 15555	horizontal cells
+T647	GO:0045202 15592 15600	synaptic
+T648	GO:0030425 15647 15656	dendrites
+T649	CL:0000751 15660 15677	rod bipolar cells
+T650	CL_GO_EXT:cell 15672 15677	cells
+T651	CL:0000573 15739 15743	Cone
+T652	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 15744 15753	terminals
+T653	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 15744 15753	terminals
+T654	GO:0044316 15770 15778	pedicles
+T655	GO:0045202 15810 15818	synapses
+T656	CL:0000745 15847 15857;15870 15874	horizontal ... cell
+T657	CL:0000103 15862 15874	bipolar cell
+T658	GO:0042995 15870 15884	cell processes
+T659	GO:0044316 15891 15898	pedicle
+T660	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 15932 15941	terminals
+T661	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 15932 15941	terminals
+T662	GO:0044317 15969 15978	spherules
+T663	PR_EXT:000005904 15982 15985	Crx
+T664	SO_EXT:normal_or_wild_type_or_present 15985 15986	+
+T665	SO_EXT:normal_or_wild_type_or_present 15987 15988	+
+T666	UBERON:0000966 15989 15996	retinas
+T667	UBERON:0001790 16028 16034;16042 16049	OPL of ... retinas
+T668	PR_EXT:000005904 16035 16038	Crx
+T669	SO_EXT:sequence_nullness_or_absence 16038 16039	-
+T670	SO_EXT:sequence_nullness_or_absence 16040 16041	-
+T671	CL:0000210 16051 16064	photoreceptor
+T672	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 16065 16074	terminals
+T673	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 16065 16074	terminals
+T674	GO:0042995 16128 16137	Processes
+T675	GO:0008021 16149 16166	synaptic vesicles
+T676	GO:0044456 16251 16269	synapse components
+T677	GO:0044317 16292 16301	spherules
+T678	GO:0044316 16306 16314	pedicles
+T679	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 16352 16361	terminals
+T680	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 16352 16361	terminals
+T681	GO:0005886 16441 16456	plasma membrane
+T682	GO:0005634 16481 16488	nuclear
+T683	CHEBI:10545 16536 16544	electron
+T684	UBERON:0001790 16564 16585	outer plexiform layer
+T685	PR_EXT:000005904 16589 16592	Crx
+T686	SO_EXT:sequence_nullness_or_absence 16592 16593	-
+T687	SO_EXT:sequence_nullness_or_absence 16594 16595	-
+T688	UBERON:0000966 16596 16603	retinas
+T689	PR_EXT:000005904 16612 16615	Crx
+T690	SO_EXT:normal_or_wild_type_or_present 16615 16616	+
+T691	SO_EXT:normal_or_wild_type_or_present 16617 16618	+
+T692	UBERON:0000966 16619 16625	retina
+T693	CL:0000604 16647 16650	rod
+T694	GO:0044317 16647 16660	rod spherules
+T695	GO:0044317 16713 16722	spherules
+T696	GO:0045202 16776 16783	synapse
+T697	CL:0000573 16809 16813	Cone
+T698	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 16814 16823	terminals
+T699	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 16814 16823	terminals
+T700	GO:0044316 16841 16849	pedicles
+T701	GO:0045202 16881 16889	synapses
+T702	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 16929 16938	terminals
+T703	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 16929 16938	terminals
+T704	PR_EXT:000005904 16973 16976	Crx
+T705	SO_EXT:normal_or_wild_type_or_present 16976 16977	+
+T706	SO_EXT:normal_or_wild_type_or_present 16978 16979	+
+T707	UBERON:0001790 17028 17049;17056 17058;17066 17073	outer plexiform layer ... of ... retinas
+T708	UBERON:0001790 17051 17054;17056 17058;17066 17073	OPL ... of ... retinas
+T709	PR_EXT:000005904 17059 17062	Crx
+T710	SO_EXT:sequence_nullness_or_absence 17062 17063	-
+T711	SO_EXT:sequence_nullness_or_absence 17064 17065	-
+T712	CL:0000210 17075 17088	photoreceptor
+T713	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17089 17098	terminals
+T714	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17089 17098	terminals
+T715	GO:0044316 17157 17165	pedicles
+T716	GO:0044317 17170 17179	spherules
+T717	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17207 17216	terminals
+T718	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17207 17216	terminals
+T719	GO:0044456 17308 17326	synapse components
+T720	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17333 17342	terminals
+T721	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17333 17342	terminals
+T722	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17438 17446	terminal
+T723	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17438 17446	terminal
+T724	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17491 17499	terminal
+T725	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17491 17499	terminal
+T726	UBERON:0001790 17532 17535	opl
+T727	UBERON:0001790 17537 17558	outer plexiform layer
+T728	CHEBI:10545 17602 17610	electron
+T729	UBERON:0001790 17630 17651	outer plexiform layer
+T730	PR_EXT:000005904 17655 17658	Crx
+T731	SO_EXT:sequence_nullness_or_absence 17658 17659	-
+T732	SO_EXT:sequence_nullness_or_absence 17660 17661	-
+T733	UBERON:0000966 17662 17669	retinas
+T734	PR_EXT:000005904 17682 17685	Crx
+T735	SO_EXT:normal_or_wild_type_or_present 17685 17686	+
+T736	SO_EXT:normal_or_wild_type_or_present 17687 17688	+
+T737	CL:0000604 17689 17692	rod
+T738	GO:0044317 17689 17702	rod spherules
+T739	GO:0045202 17735 17742	synapse
+T740	GO:0044317 17772 17780	spherule
+T741	PR_EXT:000005904 17823 17826	Crx
+T742	SO_EXT:normal_or_wild_type_or_present 17826 17827	+
+T743	SO_EXT:normal_or_wild_type_or_present 17828 17829	+
+T744	CL:0000604 17830 17833	rod
+T745	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17834 17843	terminals
+T746	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 17834 17843	terminals
+T747	CL:0000604 17881 17882	r
+T748	GO:0042995 17889 17898	processes
+T749	CL:0000745 17905 17921	horizontal cells
+T750	CL_GO_EXT:cell 17916 17921	cells
+T751	CL:0000745 17923 17924	h
+T752	CL:0000604 17941 17944	rod
+T753	GO:0042995 17970 17977	process
+T754	GO:0098794 17983 17995	postsynaptic
+T755	GO:0030425 18004 18012	dendrite
+T756	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 18047 18056	Terminals
+T757	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 18047 18056	Terminals
+T758	GO:0008021 18074 18091	synaptic vesicles
+T759	GO:0030135 18097 18111	coated vesicle
+T760	CL_GO_EXT:cell 18133 18137	cell
+T761	GO:0005886 18133 18146	cell membrane
+T762	UBERON:0001790 18180 18186;18194 18201	OPL of ... retinas
+T763	PR_EXT:000005904 18187 18190	Crx
+T764	SO_EXT:sequence_nullness_or_absence 18190 18191	-
+T765	SO_EXT:sequence_nullness_or_absence 18192 18193	-
+T766	CL:0000210 18203 18216	photoreceptor
+T767	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 18217 18226	terminals
+T768	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 18217 18226	terminals
+T769	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 18266 18275	terminals
+T770	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 18266 18275	terminals
+T771	GO:0008021 18287 18304	synaptic vesicles
+T772	GO:0044456 18398 18416	synapse components
+T773	GO:0044317 18439 18448	spherules
+T774	GO:0044316 18453 18461	pedicles
+T775	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 18495 18504	terminals
+T776	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 18495 18504	terminals
+T777	GO:0097060 18621 18638	synaptic membrane
+T778	GO:0005634 18710 18717	nuclear
+T779	CL:0000745 18730 18731	H
+T780	CL:0000745 18733 18748	horizontal cell
+T781	CL_GO_EXT:cell 18744 18748	cell
+T782	CL:0000103 18750 18751	B
+T783	CL:0000103 18753 18765	bipolar cell
+T784	CL_GO_EXT:cell 18761 18765	cell
+T785	GO:0005634 18767 18768	N
+T786	GO:0005634 18770 18777	nucleus
+T787	PR_EXT:000005904 18927 18930	Crx
+T788	SO_EXT:sequence_nullness_or_absence 18930 18931	-
+T789	SO_EXT:sequence_nullness_or_absence 18932 18933	-
+T790	CL:0000210 18934 18948	photoreceptors
+T791	PR_EXT:000005904 18969 18972	Crx
+T792	SO_EXT:sequence_alteration_entity_or_process 18973 18982	mutations
+T793	PR_EXT:000005904 19178 19181	Crx
+T794	SO_EXT:sequence_nullness_or_absence 19181 19182	-
+T795	SO_EXT:sequence_nullness_or_absence 19183 19184	-
+T796	UBERON:0000966 19185 19191	retina
+T797	GO:0001750 19218 19231	outer segment
+T798	GO:0009653 19232 19245	morphogenesis
+T799	GO:0001750 19308 19321	outer segment
+T800	PR_EXT:000005904 19337 19340	Crx
+T801	SO_EXT:sequence_nullness_or_absence 19340 19341	-
+T802	SO_EXT:sequence_nullness_or_absence 19342 19343	-
+T803	CL:0000210 19344 19358	photoreceptors
+T804	GO:0045202 19394 19401	synapse
+T805	GO:0007416 19394 19411	synapse formation
+T806	GO:0007416 19451 19465	synaptogenesis
+T807	NCBITaxon:33208 19479 19485	animal
+T808	PR_EXT:000005904 19501 19504	Crx
+T809	SO_EXT:sequence_nullness_or_absence 19504 19505	-
+T810	SO_EXT:sequence_nullness_or_absence 19506 19507	-
+T811	CL:0000210 19508 19522	photoreceptors
+T812	GO:0001750 19539 19552	outer segment
+T813	GO:0009653 19553 19566	morphogenesis
+T814	SO_EXT:sequence_alteration_entity_or_process 19568 19577	Mutations
+T815	PR_EXT:000005904 19581 19584	Crx
+T816	SO_EXT:0000704 19618 19622	gene
+T817	SO_EXT:sequence_alteration_entity_or_process 19623 19632	mutations
+T818	GO:0001750 19649 19662	outer segment
+T819	SO_EXT:sequence_nullness 19692 19696	null
+T820	SO_EXT:sequence_alteration_entity_or_process 19697 19706	mutations
+T821	PR_EXT:peripherin 19714 19724	peripherin
+T822	PR_EXT:000013290 19725 19728	RDS
+T823	SO_EXT:0000704 19729 19733	gene
+T824	PR_EXT:000001245 19745 19754	rhodopsin
+T825	GO:0001750 19781 19794	outer segment
+T826	PR_EXT:peripherin 19822 19832	peripherin
+T827	SO_EXT:sequence_nullness_or_absence 19832 19833	-
+T828	SO_EXT:sequence_nullness_or_absence 19834 19835	-
+T829	PR_EXT:000005904 19840 19843	Crx
+T830	SO_EXT:sequence_nullness_or_absence 19843 19844	-
+T831	SO_EXT:sequence_nullness_or_absence 19845 19846	-
+T832	CL:0000210 19847 19860	photoreceptor
+T833	GO:0008594 19847 19874	photoreceptor morphogenesis
+T834	GO:0031982 19906 19915	Vesicular
+T835	PR_EXT:000005904 19930 19933	Crx
+T836	SO_EXT:sequence_nullness_or_absence 19933 19934	-
+T837	SO_EXT:sequence_nullness_or_absence 19935 19936	-
+T838	CL:0000210 19937 19951	photoreceptors
+T839	PR_EXT:000013290 20017 20020	rds
+T840	PR_EXT:peripherin 20021 20031	peripherin
+T841	SO_EXT:sequence_nullness_or_absence 20031 20032	-
+T842	SO_EXT:sequence_nullness_or_absence 20033 20034	-
+T843	NCBITaxon:10088 20035 20040	mouse
+T844	GO:0031982 20079 20087	vesicles
+T845	GO:0030397 20104 20116;20131 20140	breakdown of ... membranes
+T846	GO:0042622 20117 20140	outer segment membranes
+T847	GO_EXT:biological_recruitment 20164 20173	recruited
+T848	GO:0001750 20181 20195	outer segments
+T849	PR_EXT:peripherin 20214 20224	peripherin
+T850	GO:0005902 20274 20284	microvilli
+T851	CL:0000636 20288 20300	Müller cells
+T852	CL_GO_EXT:cell 20295 20300	cells
+T853	PR_EXT:000001245 20425 20434	rhodopsin
+T854	CHEBI_PR_EXT:protein 20435 20442	protein
+T855	CHEBI_PR_EXT:protein 20435 20442	protein
+T856	GO:0031982 20452 20460	vesicles
+T857	PR_EXT:000001245 20503 20512	rhodopsin
+T858	CHEBI_SO_EXT:epitope 20513 20520	epitope
+T859	CHEBI_SO_EXT:epitope 20513 20520	epitope
+T860	GO:0031982 20555 20563	vesicles
+T861	GO:0001917 20587 20601	inner segments
+T862	CL:0000210 20629 20643	photoreceptors
+T863	GO_EXT:biological_growth_entity_or_process 20662 20668	growth
+T864	GO:0001750 20696 20709	outer segment
+T865	GO:0032391 20740 20757	connecting cilium
+T866	PR_EXT:peripherin 20793 20803	Peripherin
+T867	PR_EXT:000013290 20804 20807	RDS
+T868	PR_EXT:000014157 20812 20817	ROM-1
+T869	CHEBI_PR_EXT:protein 20818 20826	proteins
+T870	CHEBI_PR_EXT:protein 20818 20826	proteins
+T871	GO_PATO_EXT:biological_localization_process_or_quality 20828 20837	localized
+T872	PR_EXT:000001119 20860 20865	opsin
+T873	CHEBI_PR_EXT:protein 20866 20874	proteins
+T874	CHEBI_PR_EXT:protein 20866 20874	proteins
+T875	GO_PATO_EXT:biological_localization_process_or_quality 20876 20885	localized
+T876	GO:0001750 20967 20981	outer segments
+T877	PR_EXT:000014157 20997 21002	ROM-1
+T878	SO_EXT:sequence_nullness_or_absence 21002 21003	-
+T879	SO_EXT:sequence_nullness_or_absence 21004 21005	-
+T880	NCBITaxon:10088 21006 21010	mice
+T881	GO:0001750 21032 21046	outer segments
+T882	PR_EXT:000005904 21070 21073	Crx
+T883	GO_EXT:transcription 21096 21109	transcription
+T884	GO_EXT:transcription_factor 21096 21116	transcription factor
+T885	GO:0065007 21129 21137	controls
+T886	SO_EXT:0000704 21138 21143	genes
+T887	GO:0001750 21213 21226	outer segment
+T888	PR_EXT:000001245 21248 21257	rhodopsin
+T889	PR_EXT:peripherin 21262 21272	peripherin
+T890	SO_EXT:0000704 21342 21346	gene
+T891	GO:0010467 21342 21357	gene expression
+T892	SO_EXT:0000704 21405 21410	genes
+T893	GO:0010467 21437 21447	expression
+T894	PR_EXT:000005904 21457 21460	Crx
+T895	SO_EXT:sequence_nullness_or_absence 21460 21461	-
+T896	SO_EXT:sequence_nullness_or_absence 21462 21463	-
+T897	NCBITaxon:10088 21464 21468	mice
+T898	PR_EXT:000001245 21484 21493	rhodopsin
+T899	GO:0010467 21494 21504	expression
+T900	PR_EXT:000005904 21532 21535	Crx
+T901	SO_EXT:sequence_nullness_or_absence 21535 21536	-
+T902	SO_EXT:sequence_nullness_or_absence 21537 21538	-
+T903	NCBITaxon:33208 21539 21546	animals
+T904	PR_EXT:peripherin 21552 21562	peripherin
+T905	CHEBI_SO_EXT:mRNA 21563 21567	mRNA
+T906	CHEBI_SO_EXT:mRNA 21563 21567	mRNA
+T907	SO_EXT:transgenic_entity 21602 21612	Transgenic
+T908	NCBITaxon:10088 21613 21617	mice
+T909	GO:0010467 21642 21652	expression
+T910	SO_EXT:wild_type_entity_or_quality 21656 21665	wild type
+T911	PR_EXT:000001245 21666 21675	rhodopsin
+T912	CL:0000604 21684 21687	rod
+T913	PR_EXT:000001245 21749 21758	rhodopsin
+T914	GO:0010467 21759 21769	expression
+T915	PR_EXT:000001245 21798 21807	rhodopsin
+T916	GO:0010467 21808 21818	expression
+T917	NCBITaxon:7215 21869 21879	Drosophila
+T918	NCBITaxon:7215 21885 21895	Drosophila
+T919	PR_EXT:000001245 21897 21906	rhodopsin
+T920	PR_EXT:P06002 21908 21913	ninaE
+T921	GO:0010467 21918 21927	expressed
+T922	CL:0000687 21931 21948	photoreceptors R1
+T923	CL:0000705 21931 21945;21949 21951	photoreceptors ... R6
+T924	PR_EXT:P06002 21956 21961	ninaE
+T925	SO_EXT:sequence_nullness 21962 21966	null
+T926	SO_EXT:sequence_altered_entity 21967 21974	mutants
+T927	GO:0016028 21980 21990	rhabdomere
+T928	NCBITaxon:7742 22017 22027	vertebrate
+T929	GO:0001750 22028 22042	outer segments
+T930	CL:0000687 22064 22066;22070 22084	R1 ... photoreceptors
+T931	CL:0000705 22067 22084	R6 photoreceptors
+T932	PR_EXT:000001245 22123 22132	rhodopsin
+T933	SO_EXT:sequence_nullness_or_absence 22132 22133	-
+T934	SO_EXT:sequence_nullness_or_absence 22134 22135	-
+T935	NCBITaxon:10088 22136 22140	mice
+T936	PR_EXT:000001245 22233 22242	rhodopsin
+T937	GO:0010467 22243 22253	expression
+T938	GO:0016028 22261 22271	rhabdomere
+T939	GO:0042052 22261 22283	rhabdomere development
+T940	PR_EXT:P06002 22288 22293	ninaE
+T941	SO_EXT:sequence_nullness 22294 22298	null
+T942	NCBITaxon:7147 22299 22304	flies
+T943	PR_EXT:P06002 22308 22313	ninaE
+T944	SO_EXT:0000902 22314 22323	transgene
+T945	GO:0065007 22334 22341	control
+T946	SO_EXT:0000167 22358 22366	promoter
+T947	PR_EXT:000001245 22468 22477	rhodopsin
+T948	SO_EXT:sequence_rescue_process 22525 22531	rescue
+T949	CL:0000210 22535 22548	photoreceptor
+T950	SO_EXT:sequence_rescue_process 22573 22579	rescue
+T951	CL:0000210 22583 22596	photoreceptor
+T952	GO_PATO_EXT:physiological_process_or_quality 22597 22607	physiology
+T953	GO:0010467 22618 22628	expression
+T954	SO_EXT:sequence_rescue_process 22684 22690	rescue
+T955	PR_EXT:000001245 22708 22717	rhodopsin
+T956	GO:0010467 22718 22728	expression
+T957	GO:0016028 22801 22811	rhabdomere
+T958	GO:0061541 22801 22825	rhabdomere morphogenesis
+T959	NCBITaxon:10114 22878 22881	rat
+T960	PR_EXT:000001245 22890 22899	rhodopsin
+T961	CL:0000604 22969 22973	rods
+T962	GO:0065007 23006 23016	regulation
+T963	PR_EXT:000001245 23020 23029	rhodopsin
+T964	GO:0065007 23057 23064	control
+T965	GO_EXT:positive_regulation 23088 23101	up-regulation
+T966	PR_EXT:000001245 23105 23114	rhodopsin
+T967	PR_EXT:000005904 23138 23141	Crx
+T968	GO:0065007 23149 23159	regulating
+T969	GO:0001750 23160 23173	outer segment
+T970	GO:0009653 23174 23187	morphogenesis
+T971	PR_EXT:000005904 23264 23267	Crx
+T972	NCBITaxon:7215 23280 23290	Drosophila
+T973	PR_EXT:P22810 23294 23297	Otd
+T974	SO_EXT:0000704 23344 23349	genes
+T975	PR_EXT:000005904 23359 23362	Crx
+T976	SO_EXT:0001023 23406 23412	allele
+T977	NCBITaxon:7215 23416 23426	Drosophila
+T978	PR_EXT:P22810 23427 23430	otd
+T979	PR_EXT:P22810 23432 23435	otd
+T980	CL:0000210 23440 23453	photoreceptor
+T981	GO:0008594 23440 23467	photoreceptor morphogenesis
+T982	SO_EXT:0000704 23528 23533	genes
+T983	PR_EXT:000005904 23558 23561	Crx
+T984	GO:0010467 23578 23587	expressed
+T985	PR_EXT:000005904 23612 23615	Crx
+T986	SO_EXT:sequence_nullness_or_absence 23615 23616	-
+T987	SO_EXT:sequence_nullness_or_absence 23617 23618	-
+T988	UBERON:0000966 23619 23625	retina
+T989	PR_EXT:000001245 23635 23644	rhodopsin
+T990	PR_EXT:peripherin 23649 23659	peripherin
+T991	CL:0000210 23715 23729	photoreceptors
+T992	GO:0010467 23739 23749	expression
+T993	CHEBI_GO_SO_EXT:enzyme 23769 23776	enzymes
+T994	CHEBI_GO_SO_EXT:enzyme 23769 23776	enzymes
+T995	CHEBI_GO_SO_EXT:enzyme 23769 23776	enzymes
+T996	CHEBI:18059 23799 23804	lipid
+T997	GO:0006629 23799 23815	lipid metabolism
+T998	CHEBI_PR_EXT:protein 23817 23824	protein
+T999	CHEBI_PR_EXT:protein 23817 23824	protein
+T1000	GO:0006457 23817 23832	protein folding
+T1001	GO_EXT:biological_routing_or_transport 23837 23846	transport
+T1002	GO:0001750 23957 23970	outer segment
+T1003	GO:0097617 23980 23993	hybridization
+T1004	CHEBI_SO_EXT:molecular_probe 24000 24006	probes
+T1005	CHEBI_SO_EXT:molecular_probe 24000 24006	probes
+T1006	SO_EXT:0000704 24031 24036	genes
+T1007	CHEBI_SO_EXT:RNA 24079 24082	RNA
+T1008	CHEBI_SO_EXT:RNA 24079 24082	RNA
+T1009	GO_PATO_EXT:biological_localization_process_or_quality 24083 24092	localized
+T1010	GO:0001917 24100 24113	inner segment
+T1011	CHEBI_PR_EXT:protein 24137 24145	proteins
+T1012	CHEBI_PR_EXT:protein 24137 24145	proteins
+T1013	GO_EXT:biological_routing_or_transport 24146 24154	targeted
+T1014	GO:0001750 24162 24175	outer segment
+T1015	SO_EXT:0000704 24218 24223	genes
+T1016	GO:0001750 24251 24264	outer segment
+T1017	GO_EXT:biogenesis_or_biosynthesis 24265 24275	biogenesis
+T1018	CL:0000210 24303 24317	photoreceptors
+T1019	GO:0042384 24357 24369	ciliogenesis
+T1020	SO_EXT:0000704 24383 24387	gene
+T1021	PR_EXT:000005848 24389 24393	CRB1
+T1022	SO_EXT:0000704 24409 24413	gene
+T1023	PR_EXT:000005850 24414 24418	CRB3
+T1024	GO:0042384 24444 24456	ciliogenesis
+T1025	NCBITaxon:7215 24486 24496	Drosophila
+T1026	SO_EXT:0000853 24497 24506	homologue
+T1027	PR_EXT:000005848 24510 24514	CRB1
+T1028	PR_EXT:P10040 24516 24522	Crumbs
+T1029	CL:0000210 24547 24560	photoreceptor
+T1030	GO:0008594 24547 24574	photoreceptor morphogenesis
+T1031	NCBITaxon:10088 24618 24623	mouse
+T1032	SO_EXT:sequence_altered_entity 24624 24630	mutant
+T1033	PR_EXT:000005848 24634 24638	CRB1
+T1034	NCBITaxon:10088 24648 24653	mouse
+T1035	GO:0001750 24674 24688	outer segments
+T1036	CL:0000210 24740 24753	photoreceptor
+T1037	GO:0007416 24771 24785	synaptogenesis
+T1038	SO_EXT:sequence_altered_entity 24805 24811	mutant
+T1039	PR_EXT:000005848 24819 24823	CRB1
+T1040	PR_EXT:000005904 24828 24831	Crx
+T1041	UBERON:0000966 24932 24939	retinal
+T1042	GO:0060041 24932 24951	retinal development
+T1043	GO:0007416 24954 24968	Synaptogenesis
+T1044	PR_EXT:000005904 24985 24988	Crx
+T1045	SO_EXT:sequence_nullness_or_absence 24988 24989	-
+T1046	SO_EXT:sequence_nullness_or_absence 24990 24991	-
+T1047	CL:0000210 24992 25006	photoreceptors
+T1048	PR_EXT:000005904 25012 25015	Crx
+T1049	SO_EXT:sequence_nullness_or_absence 25015 25016	-
+T1050	SO_EXT:sequence_nullness_or_absence 25017 25018	-
+T1051	NCBITaxon:10088 25019 25024	mouse
+T1052	CL:0000210 25069 25082	photoreceptor
+T1053	GO:0045202 25083 25091	synapses
+T1054	PR_EXT:peripherin 25114 25124	peripherin
+T1055	SO_EXT:sequence_nullness_or_absence 25124 25125	-
+T1056	SO_EXT:sequence_nullness_or_absence 25126 25127	-
+T1057	NCBITaxon:10088 25128 25133	mouse
+T1058	CL:0000210 25166 25179	photoreceptor
+T1059	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 25180 25189	terminals
+T1060	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 25180 25189	terminals
+T1061	CL:0000210 25219 25233	photoreceptors
+T1062	PR_EXT:000001245 25268 25277	rhodopsin
+T1063	PR_EXT:000001245 25279 25282	Rho
+T1064	CHEBI:23447 25288 25305	cyclic nucleotide
+T1065	PR_EXT:000000696 25288 25328	cyclic nucleotide-gated channel, alpha-3
+T1066	GO_EXT:0022836 25306 25319	gated channel
+T1067	PR_EXT:000000696 25330 25335	CNGA3
+T1068	NCBITaxon:10088 25353 25357	mice
+T1069	PR_EXT:000001245 25359 25362	Rho
+T1070	SO_EXT:sequence_nullness_or_absence 25362 25363	-
+T1071	SO_EXT:sequence_nullness_or_absence 25364 25365	-
+T1072	PR_EXT:000000696 25367 25372	CNGA3
+T1073	SO_EXT:sequence_nullness_or_absence 25372 25373	-
+T1074	SO_EXT:sequence_nullness_or_absence 25374 25375	-
+T1075	GO:0045202 25378 25386	synapses
+T1076	CL:0000210 25459 25472	photoreceptor
+T1077	GO:0007416 25473 25487	synaptogenesis
+T1078	GO:0001750 25516 25529	outer segment
+T1079	PR_EXT:peripherin 25637 25647	peripherin
+T1080	SO_EXT:sequence_nullness_or_absence 25647 25648	-
+T1081	SO_EXT:sequence_nullness_or_absence 25649 25650	-
+T1082	NCBITaxon:10088 25651 25655	mice
+T1083	GO:0007602 25681 25698	phototransduction
+T1084	NCBITaxon:10088 25719 25723	mice
+T1085	CL:0000210 25757 25770	photoreceptor
+T1086	GO:0045202 25771 25778	synapse
+T1087	GO:0044456 25805 25821	synapse elements
+T1088	GO:0001750 25858 25871	outer segment
+T1089	CL:0000210 25936 25949	photoreceptor
+T1090	GO:0007602 25995 26012	phototransduction
+T1091	GO:0045202 26017 26024	synapse
+T1092	GO:0007416 26017 26034	synapse formation
+T1093	PR_EXT:000005904 26124 26127	Crx
+T1094	SO_EXT:sequence_nullness_or_absence 26127 26128	-
+T1095	SO_EXT:sequence_nullness_or_absence 26129 26130	-
+T1096	CL:0000210 26131 26145	photoreceptors
+T1097	GO:0045202 26165 26173	synaptic
+T1098	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 26174 26181	endings
+T1099	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 26174 26181	endings
+T1100	GO:0001750 26206 26219	outer segment
+T1101	PR_EXT:000005904 26265 26268	Crx
+T1102	CL:0000210 26285 26298	photoreceptor
+T1103	GO:0045202 26299 26306	synapse
+T1104	GO:0007416 26299 26316	synapse formation
+T1105	GO:0065007 26329 26339	regulating
+T1106	SO_EXT:0000704 26375 26380	genes
+T1107	GO:0010467 26442 26452	expression
+T1108	GO:0098793 26463 26475	pre-synaptic
+T1109	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 26476 26484	terminal
+T1110	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 26476 26484	terminal
+T1111	CHEBI_PR_EXT:protein 26485 26493	proteins
+T1112	CHEBI_PR_EXT:protein 26485 26493	proteins
+T1113	PR_EXT:000009311 26505 26510	KIF3a
+T1114	PR_EXT:000015849 26512 26515	SV2
+T1115	PR_EXT:000015890 26521 26534	synaptophysin
+T1116	PR_EXT:000005904 26595 26598	Crx
+T1117	SO_EXT:sequence_nullness_or_absence 26598 26599	-
+T1118	SO_EXT:sequence_nullness_or_absence 26600 26601	-
+T1119	UBERON:0000479 26614 26620	tissue
+T1120	CHEBI_SO_EXT:RNA 26667 26670	RNA
+T1121	CHEBI_SO_EXT:RNA 26667 26670	RNA
+T1122	SO_EXT:0000704 26729 26734	genes
+T1123	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 26752 26756	tags
+T1124	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 26752 26756	tags
+T1125	SO_EXT:0000704 26783 26788	genes
+T1126	CHEBI_SO_EXT:RNA 26814 26817	RNA
+T1127	CHEBI_SO_EXT:RNA 26814 26817	RNA
+T1128	SO_EXT:0000704 26875 26880	genes
+T1129	GO:0010467 26881 26890	expressed
+T1130	CL:0000210 26894 26908	photoreceptors
+T1131	GO:0010467 26945 26955	expression
+T1132	PR_EXT:000005904 26969 26972	Crx
+T1133	SO_EXT:sequence_nullness_or_absence 26972 26973	-
+T1134	SO_EXT:sequence_nullness_or_absence 26974 26975	-
+T1135	NCBITaxon:10088 26976 26981	mouse
+T1136	CL:0000210 27037 27050	photoreceptor
+T1137	GO:0008594 27037 27064	photoreceptor morphogenesis
+T1138	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 27066 27070	Tags
+T1139	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 27066 27070	Tags
+T1140	SO_EXT:0000704 27082 27087	genes
+T1141	CHEBI_PR_EXT:protein 27093 27101	proteins
+T1142	CHEBI_PR_EXT:protein 27093 27101	proteins
+T1143	GO:0010467 27102 27111	expressed
+T1144	CL:0000210 27115 27128	photoreceptor
+T1145	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 27129 27138	terminals
+T1146	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 27129 27138	terminals
+T1147	PR_EXT:000008536 27217 27256	HGF-regulated tyrosine kinase substrate
+T1148	GO:0065007 27221 27230	regulated
+T1149	CHEBI_SO_EXT:tyrosine 27231 27239	tyrosine
+T1150	CHEBI_SO_EXT:tyrosine 27231 27239	tyrosine
+T1151	GO_EXT:0004713 27231 27246	tyrosine kinase
+T1152	PR_EXT:000005877 27262 27267	CRIPT
+T1153	CHEBI_PR_EXT:protein 27268 27275	protein
+T1154	CHEBI_PR_EXT:protein 27268 27275	protein
+T1155	PR_EXT:000015894 27281 27296	synaptotagmin 1
+T1156	SO_EXT:0000704 27354 27358	gene
+T1157	PR_EXT:000005904 27385 27388	Crx
+T1158	SO_EXT:sequence_nullness_or_absence 27388 27389	-
+T1159	SO_EXT:sequence_nullness_or_absence 27390 27391	-
+T1160	UBERON:0000966 27392 27398	retina
+T1161	PR_EXT:000017084 27402 27406	HRG4
+T1162	SO_EXT:0000853 27410 27419	homologue
+T1163	NCBITaxon:6239 27427 27437	C. elegans
+T1164	PR_EXT:Q10658 27438 27444	Unc119
+T1165	SO_EXT:0000704 27445 27449	gene
+T1166	SO_EXT:sequence_coding_function 27497 27504	encodes
+T1167	GO:0097470 27524 27538	ribbon synapse
+T1168	GO_EXT:positive_regulation 27565 27576	upregulated
+T1169	GO_EXT:reaction_or_response 27594 27602	response
+T1170	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 27625 27633	terminal
+T1171	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 27625 27633	terminal
+T1172	SO_EXT:0000704 27660 27665	genes
+T1173	SO_EXT:sequence_coding_function 27666 27674	encoding
+T1174	GO:0044430 27684 27705	cytoskeletal elements
+T1175	GO:0005874 27732 27743	microtubule
+T1176	PR_EXT:000010142 27732 27764	microtubule associated protein 4
+T1177	CHEBI_PR_EXT:protein 27755 27762	protein
+T1178	PR_EXT:000005385 27785 27794	cofilin 1
+T1179	PR_EXT:000005904 27803 27806	Crx
+T1180	SO_EXT:sequence_nullness_or_absence 27806 27807	-
+T1181	SO_EXT:sequence_nullness_or_absence 27808 27809	-
+T1182	UBERON:0000966 27810 27816	retina
+T1183	SO_EXT:0000704 27879 27884	genes
+T1184	GO:0065007 27913 27923	regulating
+T1185	GO:0045202 27924 27932	synaptic
+T1186	SO_EXT:0000704 27962 27967	genes
+T1187	GO:0097470 28085 28099	ribbon synapse
+T1188	CL:0000210 28111 28124	photoreceptor
+T1189	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 28125 28133	terminal
+T1190	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 28125 28133	terminal
+T1191	UBERON:0000966 28179 28186	retinal
+T1192	GO:0060041 28179 28198	retinal development
+T1193	PR_EXT:000009655 28206 28225	laminin beta2 chain
+T1194	NCBITaxon:10088 28236 28241	mouse
+T1195	NCBITaxon:10088 28288 28292	mice
+T1196	PR_EXT:000009655 28301 28320	laminin beta2 chain
+T1197	NCBITaxon:10088 28331 28335	mice
+T1198	GO:0001750 28355 28368	outer segment
+T1199	PR_EXT:000005904 28424 28427	Crx
+T1200	SO_EXT:sequence_nullness_or_absence 28427 28428	-
+T1201	SO_EXT:sequence_nullness_or_absence 28429 28430	-
+T1202	NCBITaxon:10088 28431 28435	mice
+T1203	GO:0001750 28441 28455	outer segments
+T1204	CL:0000210 28492 28505	photoreceptor
+T1205	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 28506 28515	terminals
+T1206	GO_UBERON_EXT:nerve_ending_or_neuron_projection_terminus 28506 28515	terminals
+T1207	PR_EXT:000009655 28534 28547	laminin beta2
+T1208	SO_EXT:sequence_altered_entity 28548 28555	mutants
+T1209	PR_EXT:000005904 28610 28613	Crx
+T1210	SO_EXT:sequence_nullness_or_absence 28613 28614	-
+T1211	SO_EXT:sequence_nullness_or_absence 28615 28616	-
+T1212	NCBITaxon:10088 28617 28621	mice
+T1213	UBERON:0001790 28627 28651;28672 28679	outer plexiform layer of ... retinas
+T1214	PR_EXT:000009655 28656 28661	beta2
+T1215	GO:0045202 28721 28729	synapses
+T1216	GO:0045202 28795 28803	synaptic
+T1217	CHEBI:36357 28869 28878	molecules
+T1218	CL:0000210 28891 28904	photoreceptor
+T1219	GO:0008594 28891 28918	photoreceptor morphogenesis
+T1220	CHEBI_SO_EXT:mRNA 28943 28947	mRNA
+T1221	CHEBI_SO_EXT:mRNA 28943 28947	mRNA
+T1222	PR_EXT:000009655 28952 28965	laminin beta2
+T1223	CHEBI_SO_EXT:RNA 29017 29020	RNA
+T1224	CHEBI_SO_EXT:RNA 29017 29020	RNA
+T1225	PR_EXT:000005904 29031 29034	Crx
+T1226	SO_EXT:sequence_nullness_or_absence 29034 29035	-
+T1227	SO_EXT:sequence_nullness_or_absence 29036 29037	-
+T1228	PR_EXT:000005904 29042 29045	Crx
+T1229	SO_EXT:normal_or_wild_type_or_present 29045 29046	+
+T1230	SO_EXT:normal_or_wild_type_or_present 29047 29048	+
+T1231	CHEBI_SO_EXT:RNA 29101 29104	RNA
+T1232	CHEBI_SO_EXT:RNA 29101 29104	RNA
+T1233	PR_EXT:000009655 29109 29122	laminin beta2
+T1234	PR_EXT:000005904 29138 29141	Crx
+T1235	SO_EXT:sequence_nullness_or_absence 29141 29142	-
+T1236	SO_EXT:sequence_nullness_or_absence 29143 29144	-
+T1237	NCBITaxon:10088 29145 29149	mice
+T1238	PR_EXT:000005904 29171 29174	Crx
+T1239	CL:0000210 29204 29217	photoreceptor
+T1240	NCBITaxon:9606 29242 29247	human
+T1241	CL:0000573 29259 29263	cone
+T1242	CL:0000604 29264 29267	rod
+T1243	CL:0000573 29363 29367	cone
+T1244	CL:0000604 29368 29371	rod
+T1245	CL:0000573 29420 29424	cone
+T1246	GO:0007601 29434 29440	vision
+T1247	UBERON:0000104 29464 29468	life
+T1248	CL:0000604 29518 29521	rod
+T1249	GO:0007601 29531 29537	vision
+T1250	CL:0000604 29590 29593	rod
+T1251	CL:0000573 29624 29628	cone
+T1252	GO:0007601 29638 29644	vision
+T1253	SO_EXT:0000704 29673 29678	genes
+T1254	NCBITaxon:9606 29695 29700	human
+T1255	SO_EXT:0000704 29701 29708	genetic
+T1256	SO_EXT:sequence_coding_function 29720 29726	encode
+T1257	CHEBI_PR_EXT:protein 29727 29735	proteins
+T1258	CHEBI_PR_EXT:protein 29727 29735	proteins
+T1259	GO:0010467 29736 29745	expressed
+T1260	CL:0000210 29785 29799	photoreceptors
+T1261	GO:0001750 29821 29834	outer segment
+T1262	CHEBI_PR_EXT:protein 29855 29863	proteins
+T1263	CHEBI_PR_EXT:protein 29855 29863	proteins
+T1264	GO:0007602 29881 29898	phototransduction
+T1265	GO:0001750 29902 29915	outer segment
+T1266	SO_EXT:sequence_alteration_entity_or_process 29950 29959	mutations
+T1267	CL:0000604 29963 29966	rod
+T1268	SO_EXT:0000704 29976 29981	genes
+T1269	PR_EXT:000001245 29991 30000	rhodopsin
+T1270	CL:0000573 30021 30025	cone
+T1271	SO_EXT:sequence_alteration_entity_or_process 30061 30070	Mutations
+T1272	PR_EXT:000005904 30074 30077	Crx
+T1273	GO_EXT:transcription 30136 30149	transcription
+T1274	GO_EXT:transcription_factor 30136 30156	transcription factor
+T1275	SO_EXT:sequence_alteration_entity_or_process 30157 30165	mutation
+T1276	CL:0000210 30177 30190	photoreceptor
+T1277	CL:0000210 30249 30262	photoreceptor
+T1278	PR_EXT:000005904 30352 30355	Crx
+T1279	SO_EXT:sequence_nullness_or_absence 30355 30356	-
+T1280	SO_EXT:sequence_nullness_or_absence 30357 30358	-
+T1281	NCBITaxon:10088 30359 30364	mouse
+T1282	PR_EXT:000005904 30483 30486	Crx
+T1283	SO_EXT:sequence_alteration_entity_or_process 30487 30496	mutations
+T1284	NCBITaxon:9606 30568 30573	human
+T1285	UBERON:0000479 30574 30580	tissue
+T1286	UBERON:0007023 30604 30609	adult
+T1287	NCBITaxon:33208 30688 30694	animal
+T1288	GO:0009888 30788 30800;30809 30815	formation of ... tissue
+T1289	UBERON:0000966 30801 30808	retinal
+T1290	UBERON:0000479 30809 30815	tissue
+T1291	NCBITaxon:9606 30840 30845	human
+T1292	UBERON:0000479 30846 30852	tissue
+T1293	NCBITaxon:9606 30868 30873	human
+T1294	UBERON:0000966 30882 30888	retina
+T1295	PR_EXT:000014179 30903 30908	RPE65
+T1296	SO_EXT:sequence_alteration_entity_or_process 30909 30918	mutations
+T1297	UBERON:0000966 30949 30956	retinae
+T1298	CL_GO_EXT:cell 31004 31008	cell
+T1299	CL_GO_EXT:cell 31004 31008	cell
+T1300	CL:0000210 31041 31054	photoreceptor
+T1301	UBERON:0001787 31041 31060	photoreceptor layer
+T1302	GO:0045202 31120 31128	synaptic
+T1303	UBERON:0000966 31139 31146	retinal
+T1304	CL:0000210 31191 31204	photoreceptor
+T1305	GO:0045202 31205 31213	synapses
+T1306	NCBITaxon:9606 31312 31317	human
+T1307	UBERON:0000479 31318 31324	tissue
+T1308	NCBITaxon:33208 31392 31398	animal
+T1309	GO:0001750 31477 31490	outer segment
+T1310	GO:0009653 31491 31504	morphogenesis
+T1311	GO:0007416 31506 31520	synaptogenesis
+T1312	NCBITaxon:10088 31592 31596	Mice
+T1313	PR_EXT:000005904 31598 31601	Crx
+T1314	SO_EXT:sequence_nullness_or_absence 31601 31602	-
+T1315	SO_EXT:sequence_nullness_or_absence 31603 31604	-
+T1316	NCBITaxon:10088 31605 31609	mice
+T1317	PR_EXT:000001245 31653 31661	Rhodosin
+T1318	SO_EXT:sequence_nullness 31662 31666	null
+T1319	NCBITaxon:10088 31667 31671	mice
+T1320	PR_EXT:000013290 31735 31738	Rds
+T1321	NCBITaxon:10088 31739 31743	mice
+T1322	CHEBI:10545 31797 31805	electron
+T1323	PR_EXT:000005904 31829 31832	Crx
+T1324	SO_EXT:sequence_nullness_or_absence 31832 31833	-
+T1325	SO_EXT:sequence_nullness_or_absence 31834 31835	-
+T1326	SO_EXT:wild_type_entity_or_quality 31840 31848	wildtype
+T1327	NCBITaxon_UBERON_EXT:pup 31849 31853	pups
+T1328	NCBITaxon_UBERON_EXT:pup 31849 31853	pups
+T1329	CHEBI:16842 31874 31886	formaldehyde
+T1330	CHEBI:64276 31896 31910	glutaraldehyde
+T1331	GO:0007567 31926 31931	natal
+T1332	UBERON:0000970 31944 31948	eyes
+T1333	UBERON:0000964 31979 31985	cornea
+T1334	UBERON_EXT:lens 31990 31994	lens
+T1335	UBERON:0000970 32013 32016	eye
+T1336	CHEBI_EXT:50913 32037 32045	fixative
+T1337	CHEBI:16842 32050 32062	formaldehyde
+T1338	CHEBI:64276 32072 32086	glutaraldehyde
+T1339	UBERON:0001773 32117 32123	sclera
+T1340	UBERON:0000966 32159 32166	retinas
+T1341	CHEBI_EXT:paraformaldehye 32211 32227	paraformaldehyde
+T1342	CHEBI:64276 32237 32251	glutaraldehyde
+T1343	CL:0000210 32355 32368	photoreceptor
+T1344	GO:0001750 32355 32383	photoreceptor outer segments
+T1345	UBERON:0000479 32404 32410	tissue
+T1346	UBERON:0000479 32465 32471	tissue
+T1347	CHEBI:30059 32521 32543	potassium ferrocyanide
+T1348	CHEBI:60004 32544 32551	mixture
+T1349	CHEBI_EXT:maleate 32636 32643	maleate
+T1350	CHEBI_CHMO_EXT:buffer_solution 32644 32650	buffer
+T1351	CHEBI:75211 32697 32708	tannic acid
+T1352	CHEBI:16223 32718 32728	cacodylate
+T1353	CHEBI_CHMO_EXT:buffer_solution 32729 32735	buffer
+T1354	CHEBI_EXT:lead 32884 32888	lead
+T1355	CHEBI_EXT:citrate 32889 32896	citrate
+T1356	CHEBI:10545 32932 32940	electron
+T1357	CHEBI:10545 32963 32971	electron
+T1358	UBERON:0001782 33031 33057	retinal pigment epithelium
+T1359	UBERON:0003902 33115 33128	neural retina
+T1360	UBERON:0000966 33130 33137	Retinae
+T1361	PR_EXT:000005904 33143 33146	Crx
+T1362	SO_EXT:sequence_nullness_or_absence 33146 33147	-
+T1363	SO_EXT:sequence_nullness_or_absence 33148 33149	-
+T1364	PR_EXT:000001245 33151 33160	rhodopsin
+T1365	SO_EXT:sequence_nullness_or_absence 33160 33161	-
+T1366	SO_EXT:sequence_nullness_or_absence 33162 33163	-
+T1367	PR_EXT:000013290 33165 33168	RDS
+T1368	SO_EXT:wild_type_entity_or_quality 33173 33181	wildtype
+T1369	UBERON:0000970 33182 33186	eyes
+T1370	CHEBI:75958 33228 33236	solution
+T1371	CHEBI:64276 33256 33270	glutaraldehyde
+T1372	CHEBI:16842 33280 33292	formaldehyde
+T1373	UBERON:0000479 33311 33317	Tissue
+T1374	CHEBI:16223 33340 33350	cacodylate
+T1375	CHEBI_CHMO_EXT:buffer_solution 33351 33357	buffer
+T1376	CHEBI:16236 33396 33403	ethanol
+T1377	UBERON:0000479 33405 33412	Tissues
+T1378	CHEBI:16526 33455 33469	carbon dioxide
+T1379	CHEBI_EXT:gold 33525 33529	gold
+T1380	CHEBI_EXT:palladium 33530 33539	palladium
+T1381	CHEBI:10545 33625 33633	electron
+T1382	CHEBI:10545 33704 33712	electron
+T1383	CHEBI:10545 33747 33755	electron
+T1384	PR_EXT:000005904 33822 33825	Crx
+T1385	SO_EXT:sequence_nullness_or_absence 33825 33826	-
+T1386	SO_EXT:sequence_nullness_or_absence 33827 33828	-
+T1387	NCBITaxon:10088 33829 33834	mouse
+T1388	GO:0001750 34197 34211	outer segments

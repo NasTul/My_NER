@@ -1,0 +1,1467 @@
+T1	PR_EXT:000013043 0 5	Brn3c
+T2	SO_EXT:sequence_nullness 6 10	null
+T3	SO_EXT:sequence_altered_entity_or_alteration_process 11 17	mutant
+T4	NCBITaxon:10088 18 22	mice
+T5	UBERON:0001846 77 86	inner ear
+T6	GO_UBERON_EXT:innervation_entity_or_process 87 98	innervation
+T7	GO_UBERON_EXT:innervation_entity_or_process 87 98	innervation
+T8	UBERON:0001690 122 126	Ears
+T9	PR_EXT:000013043 130 135	Brn3c
+T10	SO_EXT:sequence_nullness 136 140	null
+T11	SO_EXT:sequence_altered_entity 141 148	mutants
+T12	CL:0000855 166 176	hair cells
+T13	CL_GO_EXT:cell 171 176	cells
+T14	CHEBI_EXT:polyatomic_entity_or_group 207 216	molecular
+T15	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 217 224	markers
+T16	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 217 224	markers
+T17	GO:0006915 238 247	apoptosis
+T18	PATO_UBERON_EXT:neonate_or_newborn 251 259	neonates
+T19	GO:0048468 274 288;294 299	development of ... cells
+T20	CL:0000855 289 299	hair cells
+T21	CL_GO_EXT:cell 294 299	cells
+T22	PR_EXT:000021998 321 333	neurotrophin
+T23	GO:0010467 334 344	expression
+T24	GO_EXT:detection_or_sensing_of_stimulus 356 363	sensory
+T25	CL:0000101 356 371	sensory neurons
+T26	UBERON:0000922 380 389	embryonic
+T27	GO:0009790 380 401	embryonic development
+T28	SO_EXT:sequence_altered_entity 443 450	mutants
+T29	GO_UBERON_EXT:innervation_entity_or_process 467 478	innervation
+T30	GO_UBERON_EXT:innervation_entity_or_process 467 478	innervation
+T31	GO:0010467 486 496	expression
+T32	PR_EXT:000021998 506 519	neurotrophins
+T33	GO:0007567 534 539	birth
+T34	GO:0010467 559 569	expression
+T35	PR_EXT:000004716 573 577	BDNF
+T36	PR_EXT:000011459 582 586	NT-3
+T37	SO_EXT:sequence_altered_entity_or_alteration_process 594 600	mutant
+T38	GO_EXT:detection_or_sensing_of_stimulus 601 608	sensory
+T39	UBERON:0006934 601 618	sensory epithelia
+T40	CHEBI:52029 623 626	DiI
+T41	UBERON:0006798 679 688	efferents
+T42	PR_EXT:000021998 704 716	neurotrophin
+T43	SO_EXT:sequence_nullness 717 721	null
+T44	SO_EXT:sequence_alteration_entity_or_process 722 731	mutations
+T45	GO:0007567 740 745	natal
+T46	GO_UBERON_EXT:innervation_entity_or_process 762 773	innervation
+T47	GO_UBERON_EXT:innervation_entity_or_process 762 773	innervation
+T48	PR_EXT:000010869 839 850	myosin VIIa
+T49	CL:0000855 869 879	hair cells
+T50	CL_GO_EXT:cell 874 879	cells
+T51	SO_EXT:sequence_altered_entity_or_alteration_process 899 905	mutant
+T52	UBERON:0001844 906 913	cochlea
+T53	CL:0000855 964 974	hair cells
+T54	CL_GO_EXT:cell 969 974	cells
+T55	SO_EXT:sequence_altered_entity_or_alteration_process 988 994	mutant
+T56	UBERON:0006932 995 1023	vestibular sensory epithelia
+T57	GO_EXT:detection_or_sensing_of_stimulus 1006 1013	sensory
+T58	CL:0000855 1053 1063	hair cells
+T59	CL_GO_EXT:cell 1058 1063	cells
+T60	UBERON:0001844 1090 1097	cochlea
+T61	GO_EXT:detection_or_sensing_of_stimulus 1116 1123	sensory
+T62	CL:0000101 1116 1131	sensory neurons
+T63	UBERON:0006932 1159 1179	vestibular epithelia
+T64	SO_EXT:sequence_altered_entity_or_alteration_process 1199 1205	mutant
+T65	NCBITaxon:10088 1206 1210	mice
+T66	UBERON:0006932 1235 1263	vestibular sensory epithelia
+T67	GO_EXT:detection_or_sensing_of_stimulus 1246 1253	sensory
+T68	UBERON:0002819 1285 1298	cochlear apex
+T69	PR_EXT:000010869 1311 1318	MyoVIIa
+T70	CL:0000855 1328 1338	hair cells
+T71	CL_GO_EXT:cell 1333 1338	cells
+T72	UBERON:0001844 1372 1379	cochlea
+T73	GO:0042995 1380 1391	projections
+T74	CL:0000855 1444 1454	hair cells
+T75	CL_GO_EXT:cell 1449 1454	cells
+T76	GO:0042995 1490 1501	projections
+T77	GO:0010467 1528 1538	expression
+T78	PR_EXT:000021998 1542 1555	neurotrophins
+T79	UBERON:0001844 1563 1570	cochlea
+T80	PR_EXT:000013043 1574 1579	Brn3c
+T81	SO_EXT:sequence_nullness 1580 1584	null
+T82	NCBITaxon:10088 1585 1589	mice
+T83	GO_EXT:detection_or_sensing_of_stimulus 1615 1622	sensory
+T84	CL:0000101 1615 1630	sensory neurons
+T85	UBERON:0001844 1652 1659	cochlea
+T86	GO:0007567 1667 1672	birth
+T87	CHEBI_EXT:polyatomic_entity_or_group 1678 1687	molecular
+T88	CL:0011113 1731 1745	spiral neurons
+T89	UBERON:0001690 1774 1777	ear
+T90	GO:0043583 1774 1789	ear development
+T91	CL:0000855 1807 1817	hair cells
+T92	CL_GO_EXT:cell 1812 1817	cells
+T93	UBERON:0001690 1828 1831	ear
+T94	GO_UBERON_EXT:innervation_entity_or_process 1832 1843	innervation
+T95	GO_UBERON_EXT:innervation_entity_or_process 1832 1843	innervation
+T96	UBERON:0006798 1845 1853	efferent
+T97	UBERON:0001690 1854 1857	ear
+T98	GO_UBERON_EXT:innervation_entity_or_process 1858 1869	innervation
+T99	GO_UBERON_EXT:innervation_entity_or_process 1858 1869	innervation
+T100	PR_EXT:000013043 1883 1888	Brn3c
+T101	SO_EXT:0000417 1898 1904	domain
+T102	UBERON:0001846 1932 1941	inner ear
+T103	CL:0000202 1932 1951	inner ear hair cell
+T104	GO:0060119 1932 1963	inner ear hair cell development
+T105	CL_GO_EXT:cell 1947 1951	cell
+T106	SO_EXT:sequence_nullness 1974 1978	null
+T107	PR_EXT:000013043 1979 1984	Brn3c
+T108	SO_EXT:sequence_altered_entity 1985 1992	mutants
+T109	CL:0000855 2008 2018	hair cells
+T110	CL_GO_EXT:cell 2013 2018	cells
+T111	CL:0000855 2078 2088	hair cells
+T112	CL_GO_EXT:cell 2083 2088	cells
+T113	PR_EXT:000013043 2097 2102	Brn3c
+T114	SO_EXT:sequence_nullness 2103 2107	null
+T115	SO_EXT:sequence_altered_entity 2108 2115	mutants
+T116	GO:0010467 2120 2127	express
+T117	CL_GO_EXT:cell 2128 2136	cellular
+T118	CL_GO_EXT:cell 2128 2136	cellular
+T119	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 2137 2144	markers
+T120	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 2137 2144	markers
+T121	PR_EXT:000010868 2153 2162	Myosin VI
+T122	PR_EXT:000010869 2153 2159;2167 2171	Myosin ... VIIa
+T123	PR_EXT:000004968 2173 2183	calretinin
+T124	PR_EXT:parvalbumin 2188 2199	parvalbumin
+T125	CL:0000855 2233 2243	hair cells
+T126	CL_GO_EXT:cell 2238 2243	cells
+T127	PR_EXT:000013043 2247 2252	Brn3c
+T128	SO_EXT:sequence_nullness 2253 2257	null
+T129	SO_EXT:sequence_altered_entity 2258 2265	mutants
+T130	GO:0006915 2274 2283	apoptosis
+T131	PATO_UBERON_EXT:neonate_or_newborn 2287 2295	neonates
+T132	CL:0000855 2347 2357	hair cells
+T133	CL_GO_EXT:cell 2352 2357	cells
+T134	UBERON_EXT:vestibule_or_vestibular_system 2391 2401	vestibular
+T135	UBERON:0000395 2411 2426	spiral ganglion
+T136	CL:0011113 2411 2432	spiral ganglion cells
+T137	CL_GO_EXT:cell 2427 2432	cells
+T138	GO:0007567 2449 2454	natal
+T139	UBERON_EXT:vestibule_or_vestibular_system 2559 2569	vestibular
+T140	CL:0000540 2570 2577	neurons
+T141	CL:0011113 2594 2608	spiral neurons
+T142	UBERON:0007023 2678 2684	adults
+T143	GO_UBERON_EXT:innervation_entity_or_process 2789 2800	innervation
+T144	GO_UBERON_EXT:innervation_entity_or_process 2789 2800	innervation
+T145	PR_EXT:000013043 2804 2809	Brn3c
+T146	SO_EXT:sequence_nullness 2810 2814	null
+T147	SO_EXT:sequence_altered_entity 2815 2822	mutants
+T148	GO:0048468 2837 2848;2877 2879;2885 2890	development ... of ... cells
+T149	GO:0030154 2861 2879;2885 2890	differentiation of ... cells
+T150	CL:0000855 2880 2890	hair cells
+T151	CL_GO_EXT:cell 2885 2890	cells
+T152	PR_EXT:000013043 2894 2899	Brn3c
+T153	SO_EXT:sequence_altered_entity 2900 2907	mutants
+T154	PR_EXT:000021998 2936 2948	neurotrophin
+T155	GO:0010467 2949 2959	expression
+T156	CL_GO_EXT:cell 2969 2974	cells
+T157	CL_GO_EXT:cell 2969 2974	cells
+T158	GO_EXT:detection_or_sensing_of_stimulus 2986 2993	sensory
+T159	CL:0000101 2986 3001	sensory neurons
+T160	UBERON:0000922 3010 3019	embryonic
+T161	GO:0009790 3010 3031	embryonic development
+T162	PR_EXT:000021998 3080 3092	neurotrophin
+T163	SO_EXT:sequence_nullness 3093 3097	null
+T164	SO_EXT:sequence_altered_entity 3098 3105	mutants
+T165	PR_EXT:000021998 3145 3157	neurotrophin
+T166	GO_EXT:detection_or_sensing_of_stimulus 3200 3207	sensory
+T167	CL:0000101 3200 3215	sensory neurons
+T168	UBERON:0000922 3223 3232	embryonic
+T169	UBERON:0001690 3233 3236	ear
+T170	PR_EXT:000013043 3267 3272	Brn3c
+T171	SO_EXT:sequence_nullness 3273 3277	null
+T172	SO_EXT:sequence_altered_entity 3278 3285	mutants
+T173	PR_EXT:000021998 3335 3347	neurotrophin
+T174	CL:0000855 3360 3370	hair cells
+T175	CL_GO_EXT:cell 3365 3370	cells
+T176	UBERON:0000922 3408 3415	embryos
+T177	PR_EXT:000011459 3416 3420	NT-3
+T178	GO:0010467 3434 3443	expressed
+T179	CL:0000630 3447 3463	supporting cells
+T180	CL_GO_EXT:cell 3458 3463	cells
+T181	GO_EXT:biological_movement_or_translocation_process 3465 3471	moving
+T182	GO:0007567 3484 3489	birth
+T183	CL:0000855 3495 3505	hair cells
+T184	CL_GO_EXT:cell 3500 3505	cells
+T185	UBERON_EXT:vestibule_or_vestibular_system 3544 3554	vestibular
+T186	UBERON:0001844 3570 3578	cochlear
+T187	GO_EXT:detection_or_sensing_of_stimulus 3579 3586	sensory
+T188	CL:0000101 3579 3594	sensory neurons
+T189	PR_EXT:000011459 3631 3635	NT-3
+T190	GO:0010467 3636 3646	expression
+T191	GO_EXT:negative_regulation 3659 3672	downregulated
+T192	PR_EXT:000013043 3676 3681	Brn3c
+T193	SO_EXT:sequence_nullness 3682 3686	null
+T194	SO_EXT:sequence_altered_entity 3687 3694	mutants
+T195	PR_EXT:000004716 3700 3704	BDNF
+T196	GO:0030154 3742 3760;3772 3777	differentiation of ... cells
+T197	CL:0000630 3761 3777	supporting cells
+T198	CL_GO_EXT:cell 3772 3777	cells
+T199	UBERON:0001690 3798 3801	ear
+T200	PR_EXT:000021998 3832 3845	neurotrophins
+T201	GO_EXT:negative_regulation 3864 3877	downregulated
+T202	GO:0007567 3885 3890	natal
+T203	NCBITaxon:40674 3891 3898	mammals
+T204	GO_UBERON_EXT:innervation_entity_or_process 3991 4002	innervation
+T205	GO_UBERON_EXT:innervation_entity_or_process 3991 4002	innervation
+T206	PR_EXT:000013043 4010 4015	Brn3c
+T207	SO_EXT:sequence_altered_entity 4016 4023	mutants
+T208	GO:0010467 4040 4050	expression
+T209	PR_EXT:000011459 4054 4058	NT-3
+T210	PR_EXT:000004716 4063 4067	BDNF
+T211	GO_EXT:detection_or_sensing_of_stimulus 4136 4143	sensory
+T212	CL:0000101 4136 4150	sensory neuron
+T213	PR_EXT:000021998 4182 4194	neurotrophin
+T214	CL:0000855 4218 4228	hair cells
+T215	CL_GO_EXT:cell 4223 4228	cells
+T216	GO:0007567 4232 4237	birth
+T217	NCBITaxon:33208 4251 4258	animals
+T218	NCBITaxon:9606 4330 4335	human
+T219	PR_EXT:000013043 4360 4366	Pou4f3
+T220	SO_EXT:0000704 4367 4371	gene
+T221	PR_EXT:000013043 4373 4379	DFNA15
+T222	UBERON:0001844 4425 4433	cochlear
+T223	GO_EXT:detection_or_sensing_of_stimulus 4434 4441	sensory
+T224	CL:0000101 4434 4449	sensory neurons
+T225	UBERON:0002819 4494 4507	cochlear apex
+T226	PR_EXT:000013043 4512 4517	Brn3c
+T227	SO_EXT:sequence_nullness 4518 4522	null
+T228	SO_EXT:sequence_altered_entity_or_alteration_process 4523 4529	mutant
+T229	NCBITaxon:10088 4530 4534	mice
+T230	UBERON:0006798 4568 4577	efferents
+T231	CL:0000855 4594 4603	hair cell
+T232	CL_GO_EXT:cell 4599 4603	cell
+T233	GO:0030154 4599 4619	cell differentiation
+T234	CL:0000855 4641 4651	hair cells
+T235	CL_GO_EXT:cell 4646 4651	cells
+T236	GO:0007567 4681 4686	natal
+T237	PR_EXT:myosin_VII 4699 4705	MyoVII
+T238	UBERON:0001844 4746 4753	cochlea
+T239	CL:0011113 4780 4794	spiral neurons
+T240	PR_EXT:000021998 4824 4837	neurotrophins
+T241	GO:0010467 4877 4887	expression
+T242	PATO_UBERON_EXT:neonate_or_newborn 4891 4899	neonatal
+T243	NCBITaxon:9989 4900 4907	rodents
+T244	PR_EXT:000013043 4956 4961	Brn3c
+T245	SO_EXT:sequence_nullness 4962 4966	null
+T246	SO_EXT:sequence_alteration_entity_or_process 4967 4975	mutation
+T247	UBERON:0001846 4998 5007	inner ear
+T248	GO_UBERON_EXT:innervation_entity_or_process 5008 5019	innervation
+T249	GO_UBERON_EXT:innervation_entity_or_process 5008 5019	innervation
+T250	PR_EXT:000004716 5061 5065	BDNF
+T251	PR_EXT:000011459 5070 5074	NT-3
+T252	SO_EXT:sequence_nullness 5075 5079	null
+T253	SO_EXT:sequence_alteration_entity_or_process 5080 5089	mutations
+T254	GO:0007567 5093 5098	birth
+T255	SO_EXT:sequence_nullness 5110 5114	Null
+T256	SO_EXT:sequence_altered_entity 5115 5122	mutants
+T257	PR_EXT:000004716 5126 5130	BDNF
+T258	GO_EXT:0004872 5138 5146	receptor
+T259	PR_EXT:000011470 5147 5151	trkB
+T260	GO_UBERON_EXT:innervation_entity_or_process 5161 5172	innervation
+T261	GO_UBERON_EXT:innervation_entity_or_process 5161 5172	innervation
+T262	UBERON:0001840 5180 5199	semicircular canals
+T263	GO_UBERON_EXT:innervation_entity_or_process 5219 5230	innervation
+T264	GO_UBERON_EXT:innervation_entity_or_process 5219 5230	innervation
+T265	UBERON:0001853 5238 5245	utricle
+T266	UBERON:0001854 5247 5254	saccule
+T267	UBERON:0001844 5278 5285	cochlea
+T268	SO_EXT:sequence_nullness 5300 5304	null
+T269	SO_EXT:sequence_alteration_entity_or_process 5305 5314	mutations
+T270	PR_EXT:000011459 5325 5329	NT-3
+T271	GO_EXT:0004872 5337 5345	receptor
+T272	PR_EXT:000011471 5346 5350	trkC
+T273	CL:0011113 5369 5383	spiral neurons
+T274	PR_EXT:000013043 5533 5538	Brn3c
+T275	SO_EXT:sequence_nullness 5539 5543	null
+T276	NCBITaxon:10088 5544 5548	mice
+T277	GO_EXT:neurotrophin_biosynthesis_or_production 5573 5586;5593 5606	production of ... neurotrophins
+T278	PR_EXT:000021998 5593 5606	neurotrophins
+T279	UBERON:0006134 5657 5668	nerve fiber
+T280	PR_EXT:000013043 5676 5681	Brn3c
+T281	SO_EXT:sequence_nullness 5682 5686	null
+T282	SO_EXT:sequence_altered_entity 5687 5694	mutants
+T283	GO:0007567 5698 5703	birth
+T284	UBERON:0002824 5710 5728	Vestibular ganglia
+T285	PR_EXT:000013043 5744 5749	Brn3c
+T286	SO_EXT:sequence_nullness 5750 5754	null
+T287	SO_EXT:sequence_altered_entity 5755 5762	mutants
+T288	PR_EXT:000004716 5831 5835	BDNF
+T289	PR_EXT:000011470 5839 5843	trkB
+T290	SO_EXT:sequence_nullness 5844 5848	null
+T291	SO_EXT:sequence_altered_entity 5849 5856	mutants
+T292	UBERON:0002824 5920 5938	vestibular ganglia
+T293	UBERON_EXT:vestibule_or_vestibular_system 6046 6056	vestibular
+T294	GO_EXT:detection_or_sensing_of_stimulus 6057 6064	sensory
+T295	CL:0000101 6057 6072	sensory neurons
+T296	PR_EXT:000004716 6076 6080	BDNF
+T297	PR_EXT:000011470 6085 6089	trkB
+T298	SO_EXT:sequence_nullness 6090 6094	null
+T299	SO_EXT:sequence_altered_entity 6095 6102	mutants
+T300	UBERON_EXT:vestibule_or_vestibular_system 6122 6132	vestibular
+T301	GO_EXT:detection_or_sensing_of_stimulus 6133 6140	sensory
+T302	CL:0000101 6133 6148	sensory neurons
+T303	PR_EXT:000013043 6155 6160	Brn3c
+T304	SO_EXT:sequence_nullness 6161 6165	null
+T305	SO_EXT:sequence_altered_entity 6166 6173	mutants
+T306	UBERON:0002824 6211 6238	vestibular sensory ganglion
+T307	GO_EXT:detection_or_sensing_of_stimulus 6222 6229	sensory
+T308	PR_EXT:000004716 6274 6278	BDNF
+T309	CL:0000855 6306 6316	hair cells
+T310	CL_GO_EXT:cell 6311 6316	cells
+T311	UBERON:0002824 6348 6366	vestibular ganglia
+T312	SO_EXT:sequence_altered_entity_or_alteration_process 6382 6388	mutant
+T313	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 6401 6408	labeled
+T314	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 6401 6408	labeled
+T315	CHEBI:52029 6414 6417	DiI
+T316	PATO_UBERON_EXT:neonate_or_newborn 6422 6429	newborn
+T317	NCBITaxon:33208 6430 6437	animals
+T318	UBERON:0002824 6443 6462	vestibular ganglion
+T319	PR_EXT:000013043 6493 6498	Brn3c
+T320	SO_EXT:sequence_nullness 6499 6503	null
+T321	SO_EXT:sequence_altered_entity 6504 6511	mutants
+T322	UBERON:2000468 6595 6597	AC
+T323	UBERON:2000468 6599 6614	anterior crista
+T324	UBERON:0000045 6616 6619	ggl
+T325	UBERON:0000045 6621 6629	ganglion
+T326	UBERON:0001982 6631 6632	c
+T327	UBERON:0001982 6641 6650	capillary
+T328	UBERON:0001700 6652 6663	Genic. ggl.
+T329	UBERON:0001700 6665 6684	geniculate ganglion
+T330	UBERON:0000483 6699 6709	epithelial
+T331	UBERON:0004721 6732 6738	crista
+T332	CL:0000855 6740 6743	HaC
+T333	UBERON_EXT:vestibule_or_vestibular_system 6745 6755	vestibular
+T334	CL:0000609 6745 6765	vestibular hair cell
+T335	CL_GO_EXT:cell 6761 6765	cell
+T336	CL:0000589 6767 6770	IHC
+T337	CL:0000589 6772 6787	inner hair cell
+T338	CL_GO_EXT:cell 6783 6787	cell
+T339	CL:0000855 6803 6812	hair cell
+T340	CL_GO_EXT:cell 6808 6812	cell
+T341	UBERON:0000045 6825 6835	ganglionic
+T342	CL:0000601 6851 6854	OHC
+T343	CL:0000601 6856 6871	outer hair cell
+T344	CL_GO_EXT:cell 6867 6871	cell
+T345	UBERON:0004721 6887 6893	crista
+T346	UBERON:0001854 6895 6896	S
+T347	UBERON:0001854 6898 6905	saccule
+T348	UBERON:0000395 6907 6909	SG
+T349	UBERON:0000395 6911 6926	spiral ganglion
+T350	UBERON:0002233 6928 6930	TM
+T351	UBERON:0002233 6932 6950	tectorial membrane
+T352	UBERON:0001853 6952 6953	U
+T353	UBERON:0001853 6955 6962	utricle
+T354	UBERON:0002828 6964 6967	VCN
+T355	UBERON:0002828 6969 6993	ventral cochlear nucleus
+T356	UBERON:0002824 6995 6997	VG
+T357	UBERON:0002824 6999 7018	vestibular ganglion
+T358	PR_EXT:000013043 7057 7062	Brn3c
+T359	SO_EXT:sequence_nullness 7063 7067	null
+T360	SO_EXT:sequence_altered_entity 7068 7075	mutants
+T361	UBERON:0006798 7120 7128	efferent
+T362	UBERON:0006932 7143 7171	vestibular sensory epithelia
+T363	GO_EXT:detection_or_sensing_of_stimulus 7154 7161	sensory
+T364	UBERON:0006798 7219 7227	efferent
+T365	GO_UBERON_EXT:innervation_entity_or_process 7228 7239	innervation
+T366	GO_UBERON_EXT:innervation_entity_or_process 7228 7239	innervation
+T367	UBERON:0000025 7247 7252	canal
+T368	UBERON:0004721 7253 7259	crista
+T369	PR_EXT:000004716 7290 7294	BDNF
+T370	PR_EXT:000011470 7299 7303	trkB
+T371	SO_EXT:sequence_nullness 7304 7308	null
+T372	SO_EXT:sequence_alteration_entity_or_process 7309 7318	mutations
+T373	GO_EXT:detection_or_sensing_of_stimulus 7407 7414	sensory
+T374	UBERON:0006934 7407 7425	sensory epithelium
+T375	UBERON:0004721 7435 7441	crista
+T376	GO_UBERON_EXT:innervation_entity_or_process 7442 7453	innervation
+T377	GO_UBERON_EXT:innervation_entity_or_process 7442 7453	innervation
+T378	GO_UBERON_EXT:innervation_entity_or_process 7499 7510	innervation
+T379	GO_UBERON_EXT:innervation_entity_or_process 7499 7510	innervation
+T380	UBERON:0001853 7518 7525	utricle
+T381	UBERON:0001854 7530 7537	saccule
+T382	PR_EXT:000004716 7588 7592	BDNF
+T383	SO_EXT:sequence_nullness 7593 7597	null
+T384	SO_EXT:sequence_altered_entity_or_alteration_process 7598 7604	mutant
+T385	NCBITaxon:10088 7605 7609	mice
+T386	UBERON:0001854 7630 7637	saccule
+T387	UBERON:0001853 7641 7648	utricle
+T388	PR_EXT:000013043 7652 7657	Brn3c
+T389	SO_EXT:sequence_nullness 7658 7662	null
+T390	NCBITaxon:10088 7663 7667	mice
+T391	GO_UBERON_EXT:innervation_entity_or_process 7689 7700	innervation
+T392	GO_UBERON_EXT:innervation_entity_or_process 7689 7700	innervation
+T393	MOP:0000030 7720 7730	acteylated
+T394	PR_EXT:000028799 7731 7738	tubulin
+T395	GO_UBERON_EXT:innervation_entity_or_process 7781 7792	Innervation
+T396	GO_UBERON_EXT:innervation_entity_or_process 7781 7792	Innervation
+T397	PR_EXT:000013043 7796 7801	Brn3c
+T398	SO_EXT:sequence_nullness 7802 7806	null
+T399	UBERON:0001690 7819 7823	ears
+T400	PATO_UBERON_EXT:neonate_or_newborn 7838 7845	newborn
+T401	NCBITaxon:10088 7846 7850	mice
+T402	UBERON:0006585 7895 7914	vestibular endorgan
+T403	CHEBI:52029 7933 7936	DiI
+T404	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 7937 7945	labeling
+T405	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 7937 7945	labeling
+T406	MOP:0000030 7953 7963	acetylated
+T407	PR_EXT:000028799 7964 7971	tubulin
+T408	UBERON:0001844 8079 8086	cochlea
+T409	PR_EXT:000013043 8090 8095	Brn3c
+T410	SO_EXT:sequence_nullness 8096 8100	null
+T411	SO_EXT:sequence_altered_entity 8101 8108	mutants
+T412	CL:0000601 8213 8229	outer hair cells
+T413	CL_GO_EXT:cell 8224 8229	cells
+T414	UBERON:0006798 8238 8246	Efferent
+T415	UBERON:0001690 8261 8264	ear
+T416	UBERON:0000045 8292 8302	ganglionic
+T417	CL:0011113 8474 8480;8489 8496	spiral ... neurons
+T418	GO_EXT:detection_or_sensing_of_stimulus 8481 8488	sensory
+T419	CL:0000101 8481 8496	sensory neurons
+T420	GO_UBERON_EXT:innervation_entity_or_process 8554 8565	innervation
+T421	GO_UBERON_EXT:innervation_entity_or_process 8554 8565	innervation
+T422	UBERON:0001844 8573 8580	cochlea
+T423	PR_EXT:000013043 8587 8592	Brn3c
+T424	SO_EXT:sequence_nullness 8593 8597	null
+T425	SO_EXT:sequence_altered_entity 8598 8605	mutants
+T426	CL:0011113 8641 8655	spiral neurons
+T427	PR_EXT:000013043 8671 8676	Brn3c
+T428	SO_EXT:sequence_nullness 8677 8681	null
+T429	SO_EXT:sequence_altered_entity 8682 8689	mutants
+T430	PR_EXT:000011459 8729 8733	NT-3
+T431	PR_EXT:000011471 8737 8741	trkC
+T432	GO_UBERON_EXT:innervation_entity_or_process 8771 8782	innervation
+T433	GO_UBERON_EXT:innervation_entity_or_process 8771 8782	innervation
+T434	GO_UBERON_EXT:innervation_entity_or_process 8859 8870	innervation
+T435	GO_UBERON_EXT:innervation_entity_or_process 8859 8870	innervation
+T436	NCBITaxon:33208 8891 8898	animals
+T437	PR_EXT:000004716 8936 8940	BDNF
+T438	GO:0010467 8950 8959	expressed
+T439	UBERON:0006798 9005 9013	efferent
+T440	GO_UBERON_EXT:innervation_entity_or_process 9014 9025	innervation
+T441	GO_UBERON_EXT:innervation_entity_or_process 9014 9025	innervation
+T442	PR_EXT:000021998 9140 9152	neurotrophin
+T443	SO_EXT:sequence_nullness 9153 9157	null
+T444	SO_EXT:sequence_altered_entity 9158 9165	mutants
+T445	CL:0011113 9200 9206;9215 9222	spiral ... neurons
+T446	GO_EXT:detection_or_sensing_of_stimulus 9207 9214	sensory
+T447	CL:0000101 9207 9222	sensory neurons
+T448	UBERON:0006798 9312 9321	efferents
+T449	PR_EXT:000004716 9423 9427	BDNF
+T450	SO_EXT:sequence_nullness 9428 9432	null
+T451	SO_EXT:sequence_altered_entity 9433 9440	mutants
+T452	PR_EXT:000021998 9524 9536	neurotrophin
+T453	SO_EXT:sequence_nullness 9537 9541	null
+T454	SO_EXT:sequence_altered_entity 9542 9548	mutant
+T455	CL:0000601 9584 9600	outer hair cells
+T456	CL_GO_EXT:cell 9595 9600	cells
+T457	SO_EXT:wild_type_entity_or_quality 9630 9638	wildtype
+T458	UBERON:0006798 9684 9692	efferent
+T459	CL:0000601 9722 9738	outer hair cells
+T460	CL_GO_EXT:cell 9733 9738	cells
+T461	PR_EXT:000013043 9742 9747	Brn3c
+T462	SO_EXT:sequence_nullness 9748 9752	null
+T463	SO_EXT:sequence_altered_entity 9753 9760	mutants
+T464	CL:0000601 9893 9908	outer hair cell
+T465	CL_GO_EXT:cell 9904 9908	cell
+T466	CL:0000601 9967 9982	outer hair cell
+T467	CL_GO_EXT:cell 9978 9982	cell
+T468	PR_EXT:000013043 10013 10018	Brn3c
+T469	SO_EXT:sequence_nullness 10019 10023	null
+T470	SO_EXT:sequence_altered_entity 10024 10030	mutant
+T471	PR_EXT:000013043 10033 10038	Brn3c
+T472	SO_EXT:sequence_nullness 10039 10043	null
+T473	SO_EXT:sequence_altered_entity 10044 10051	mutants
+T474	UBERON_EXT:vestibule_or_vestibular_system 10074 10084	vestibular
+T475	GO_UBERON_EXT:innervation_entity_or_process 10085 10096	innervation
+T476	GO_UBERON_EXT:innervation_entity_or_process 10085 10096	innervation
+T477	UBERON:0006798 10172 10181	efferents
+T478	UBERON:0001853 10209 10216	utricle
+T479	UBERON:0001854 10234 10241	saccule
+T480	GO_UBERON_EXT:innervation_entity_or_process 10277 10288	innervation
+T481	GO_UBERON_EXT:innervation_entity_or_process 10277 10288	innervation
+T482	UBERON:0000025 10296 10301	canal
+T483	UBERON:0004721 10302 10309	cristae
+T484	UBERON:0001843 10372 10388	horizontal canal
+T485	UBERON:0006798 10426 10434	efferent
+T486	GO_UBERON_EXT:innervation_entity_or_process 10435 10446	innervation
+T487	GO_UBERON_EXT:innervation_entity_or_process 10435 10446	innervation
+T488	PR_EXT:000013043 10450 10455	Brn3c
+T489	SO_EXT:sequence_nullness 10456 10460	null
+T490	SO_EXT:sequence_altered_entity 10461 10468	mutants
+T491	GO_UBERON_EXT:innervation_entity_or_process 10494 10505	innervation
+T492	GO_UBERON_EXT:innervation_entity_or_process 10494 10505	innervation
+T493	UBERON:0001690 10513 10516	ear
+T494	NCBITaxon:10088 10539 10543	mice
+T495	UBERON:0006932 10555 10583	vestibular sensory epithelia
+T496	GO_EXT:detection_or_sensing_of_stimulus 10566 10573	sensory
+T497	UBERON:0006798 10613 10621	efferent
+T498	GO_UBERON_EXT:innervation_entity_or_process 10626 10637	innervation
+T499	GO_UBERON_EXT:innervation_entity_or_process 10626 10637	innervation
+T500	UBERON:0006798 10694 10702	efferent
+T501	UBERON:0001853 10718 10725	utricle
+T502	UBERON:0000025 10751 10757	canals
+T503	UBERON:0001844 10766 10773	cochlea
+T504	CL:0000601 10925 10941	outer hair cells
+T505	CL_GO_EXT:cell 10936 10941	cells
+T506	SO_EXT:sequence_altered_entity_or_alteration_process 10945 10951	mutant
+T507	CL:0000601 11050 11066	outer hair cells
+T508	CL_GO_EXT:cell 11061 11066	cells
+T509	CL:0000855 11140 11150	hair cells
+T510	CL_GO_EXT:cell 11145 11150	cells
+T511	CHEBI:52029 11186 11189	DiI
+T512	MOP:0000030 11231 11241	acetylated
+T513	PR_EXT:000028799 11242 11249	tubulin
+T514	UBERON:0001844 11322 11329	cochlea
+T515	GO_UBERON_EXT:innervation_entity_or_process 11397 11408	innervation
+T516	GO_UBERON_EXT:innervation_entity_or_process 11397 11408	innervation
+T517	CL:0000601 11441 11457	outer hair cells
+T518	CL_GO_EXT:cell 11452 11457	cells
+T519	UBERON:0006798 11488 11496	efferent
+T520	GO_UBERON_EXT:innervation_entity_or_process 11497 11508	innervation
+T521	GO_UBERON_EXT:innervation_entity_or_process 11497 11508	innervation
+T522	CL:0000601 11588 11603	outer hair cell
+T523	CL_GO_EXT:cell 11599 11603	cell
+T524	PR_EXT:000013043 11614 11619	Brn3c
+T525	SO_EXT:sequence_nullness 11620 11624	null
+T526	SO_EXT:sequence_altered_entity 11625 11632	mutants
+T527	NCBITaxon:33208 11662 11669	animals
+T528	GO_UBERON_EXT:innervation_entity_or_process 11685 11696	innervation
+T529	GO_UBERON_EXT:innervation_entity_or_process 11685 11696	innervation
+T530	CL:0000589 11700 11716	inner hair cells
+T531	CL_GO_EXT:cell 11711 11716	cells
+T532	PR_EXT:000013043 11726 11731	Brn3c
+T533	SO_EXT:sequence_nullness 11732 11736	null
+T534	SO_EXT:sequence_altered_entity 11737 11744	mutants
+T535	UBERON:0006798 11937 11946	efferents
+T536	CL:0000601 11971 11986	outer hair cell
+T537	CL_GO_EXT:cell 11982 11986	cell
+T538	GO_EXT:cell_communication_or_signaling_or_signal_transduction 12040 12053	communicating
+T539	UBERON:0006798 12073 12082	efferents
+T540	PATO_UBERON_EXT:neonate_or_newborn 12187 12194	newborn
+T541	NCBITaxon:33208 12195 12202	animals
+T542	UBERON:0006798 12204 12212	efferent
+T543	GO_UBERON_EXT:innervation_entity_or_process 12250 12261	innervation
+T544	GO_UBERON_EXT:innervation_entity_or_process 12250 12261	innervation
+T545	PR_EXT:000013043 12338 12343	Brn3c
+T546	SO_EXT:sequence_nullness 12344 12348	null
+T547	SO_EXT:sequence_alteration_entity_or_process 12349 12358	mutations
+T548	PR_EXT:000013043 12407 12412	Brn3c
+T549	SO_EXT:sequence_nullness 12413 12417	null
+T550	SO_EXT:sequence_altered_entity_or_alteration_process 12418 12424	mutant
+T551	CL:0000855 12531 12541	hair cells
+T552	CL_GO_EXT:cell 12536 12541	cells
+T553	UBERON:0001844 12549 12556	cochlea
+T554	CL:0000855 12627 12636	hair cell
+T555	CL_GO_EXT:cell 12632 12636	cell
+T556	UBERON:0002819 12650 12657;12662 12669	apex of ... cochlea
+T557	CL:0000855 12698 12708	hair cells
+T558	CL_GO_EXT:cell 12703 12708	cells
+T559	CL:0000855 12750 12760	hair cells
+T560	CL_GO_EXT:cell 12755 12760	cells
+T561	UBERON:0006585 12768 12788	vestibular endorgans
+T562	UBERON:0006585 12813 12834	vestibular end organs
+T563	CL:0000855 12920 12930	hair cells
+T564	CL_GO_EXT:cell 12925 12930	cells
+T565	UBERON:0006134 12932 12944	Nerve fibers
+T566	GO_EXT:detection_or_sensing_of_stimulus 12968 12975	sensory
+T567	UBERON:0006934 12968 12986	sensory epithelium
+T568	PR_EXT:000013043 13000 13005	Brn3c
+T569	SO_EXT:sequence_nullness 13006 13010	null
+T570	SO_EXT:sequence_altered_entity 13011 13018	mutants
+T571	CL:0011113 13081 13087;13096 13103	spiral ... neurons
+T572	GO_EXT:detection_or_sensing_of_stimulus 13088 13095	sensory
+T573	CL:0000101 13088 13103	sensory neurons
+T574	UBERON:0006106 13107 13124	Rosenthal's canal
+T575	PR_EXT:000013043 13143 13148	Brn3c
+T576	SO_EXT:sequence_nullness 13149 13153	null
+T577	SO_EXT:sequence_altered_entity 13154 13161	mutants
+T578	UBERON:0001844 13180 13187	cochlea
+T579	UBERON:0001982 13241 13250	capillary
+T580	UBERON:0002227 13279 13293	organ of Corti
+T581	CL:0000855 13357 13367	hair cells
+T582	CL_GO_EXT:cell 13362 13367	cells
+T583	GO:0048468 13393 13405;13413 13418	formation of ... cells
+T584	CL:1000191 13406 13418	pillar cells
+T585	CL_GO_EXT:cell 13413 13418	cells
+T586	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 13422 13436	differentiated
+T587	UBERON:0001844 13459 13466	cochlea
+T588	CL:0000635 13480 13494	Deiters' cells
+T589	CL_GO_EXT:cell 13489 13494	cells
+T590	CHEBI_EXT:polyatomic_entity_or_group 13577 13586	molecular
+T591	CL:0000855 13614 13624	hair cells
+T592	CL_GO_EXT:cell 13619 13624	cells
+T593	CL:0000630 13629 13645	supporting cells
+T594	CL_GO_EXT:cell 13640 13645	cells
+T595	CL:0000855 13686 13696	hair cells
+T596	CL_GO_EXT:cell 13691 13696	cells
+T597	PR_EXT:myosin_VII 13716 13722	MyoVII
+T598	UBERON:0001844 13780 13787	cochlea
+T599	CL_GO_EXT:cell 13816 13827	cytological
+T600	GO:0030154 13816 13843	cytological differentiation
+T601	CHEBI_EXT:cyclic_ether_or_epoxy_group 13870 13875	epoxy
+T602	PR_EXT:000013043 13950 13955	Brn3c
+T603	SO_EXT:sequence_altered_entity_or_alteration_process 13956 13962	mutant
+T604	UBERON:0001844 13963 13971	cochleae
+T605	GO:0042571 14019 14027	antibody
+T606	CL:0000601 14049 14065	outer hair cells
+T607	CL_GO_EXT:cell 14060 14065	cells
+T608	CL:0000601 14067 14070	OHC
+T609	CL:0000589 14094 14110	inner hair cells
+T610	CL_GO_EXT:cell 14105 14110	cells
+T611	CL:0000589 14112 14115	IHC
+T612	SO_EXT:wild_type_entity 14124 14132	wildtype
+T613	CL:0000855 14171 14181	hair cells
+T614	CL_GO_EXT:cell 14176 14181	cells
+T615	SO_EXT:sequence_altered_entity_or_alteration_process 14223 14229	mutant
+T616	CL_GO_EXT:cell 14268 14272	cell
+T617	CL_GO_EXT:cell 14268 14272	cell
+T618	PR_EXT:myosin_VII 14276 14282	MyoVII
+T619	PR_EXT:myosin_VII 14325 14331	MyoVII
+T620	CL:0000855 14350 14360	hair cells
+T621	CL_GO_EXT:cell 14355 14360	cells
+T622	GO:0030154 14408 14426;14432 14437	differentiation of ... cells
+T623	CL:0000855 14427 14437	hair cells
+T624	CL_GO_EXT:cell 14432 14437	cells
+T625	GO:0060384 14448 14459	innervating
+T626	PR_EXT:000028799 14480 14487	tubulin
+T627	UBERON:0001982 14552 14561	capillary
+T628	UBERON:0001982 14563 14564	C
+T629	UBERON:0005972 14576 14591	tunnel of Corti
+T630	CL:0000589 14607 14612;14623 14633	inner ... hair cells
+T631	CL:0000601 14617 14633	outer hair cells
+T632	CL_GO_EXT:cell 14628 14633	cells
+T633	SO_EXT:wild_type_entity 14644 14652	wildtype
+T634	UBERON:0002227 14715 14729	organ of Corti
+T635	SO_EXT:sequence_altered_entity 14733 14740	mutants
+T636	UBERON:0005972 14754 14769	tunnel of Corti
+T637	UBERON:0002233 14789 14807	tectorial membrane
+T638	UBERON:0002233 14815 14817	TM
+T639	CL_GO_EXT:cell 14849 14861	cyotological
+T640	GO:0030154 14849 14877	cyotological differentiation
+T641	PR_EXT:000028799 14889 14896	tubulin
+T642	CL_GO_EXT:cell 14943 14948	cells
+T643	CL_GO_EXT:cell 14943 14948	cells
+T644	CL:0000855 15017 15027	hair cells
+T645	CL_GO_EXT:cell 15022 15027	cells
+T646	GO_EXT:detection_or_sensing_of_stimulus 15032 15039	sensory
+T647	CL:0000101 15032 15047	sensory neurons
+T648	SO_EXT:wild_type_entity_or_quality 15054 15062	wildtype
+T649	PR_EXT:000013043 15067 15072	Brn3c
+T650	SO_EXT:sequence_altered_entity_or_alteration_process 15073 15079	mutant
+T651	SO_EXT:wild_type_entity 15113 15121	wildtype
+T652	SO_EXT:sequence_altered_entity 15126 15133	mutants
+T653	CL:0000855 15197 15207	hair cells
+T654	CL_GO_EXT:cell 15202 15207	cells
+T655	UBERON_EXT:vestibule_or_vestibular_system 15215 15225	vestibular
+T656	UBERON:0001844 15230 15238	cochlear
+T657	UBERON_EXT:vestibule_or_vestibular_system 15284 15294	vestibular
+T658	CL:0000609 15284 15294;15308 15323	vestibular ... sensory neurons
+T659	UBERON:0001844 15299 15307	cochlear
+T660	CL:0000202 15299 15323	cochlear sensory neurons
+T661	GO_EXT:detection_or_sensing_of_stimulus 15308 15315	sensory
+T662	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 15386 15400	differentiated
+T663	CL:0000855 15401 15411	hair cells
+T664	CL_GO_EXT:cell 15406 15411	cells
+T665	PR_EXT:000010869 15429 15436	MyoVIIa
+T666	UBERON:0014626 15468 15483;15488 15495	basal region of ... cochlea
+T667	UBERON:0001844 15523 15531	cochlear
+T668	CL:0000202 15523 15547	cochlear sensory neurons
+T669	GO_EXT:detection_or_sensing_of_stimulus 15532 15539	sensory
+T670	CL:0000855 15643 15653	hair cells
+T671	CL_GO_EXT:cell 15648 15653	cells
+T672	PR_EXT:000010869 15659 15666	MyoVIIa
+T673	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 15741 15755	differentiated
+T674	CL:0000855 15756 15766	hair cells
+T675	CL_GO_EXT:cell 15761 15766	cells
+T676	GO_EXT:detection_or_sensing_of_stimulus 15834 15841	sensory
+T677	CL:0000101 15834 15849	sensory neurons
+T678	CL:0000855 15863 15873	hair cells
+T679	CL_GO_EXT:cell 15868 15873	cells
+T680	SO_EXT:wild_type_entity_or_quality 15901 15909	wildtype
+T681	PR_EXT:000013043 15914 15919	Brn3c
+T682	SO_EXT:sequence_nullness 15920 15924	null
+T683	SO_EXT:sequence_altered_entity_or_alteration_process 15925 15931	mutant
+T684	UBERON:0001844 15983 15991	cochlear
+T685	CL:0000855 16001 16011	hair cells
+T686	CL_GO_EXT:cell 16006 16011	cells
+T687	CL:0011113 16029 16035;16044 16051	spiral ... neurons
+T688	GO_EXT:detection_or_sensing_of_stimulus 16036 16043	sensory
+T689	CL:0000101 16036 16051	sensory neurons
+T690	CL:0000855 16114 16124	hair cells
+T691	CL_GO_EXT:cell 16119 16124	cells
+T692	UBERON:0006932 16148 16176	vestibular sensory epithelia
+T693	GO_EXT:detection_or_sensing_of_stimulus 16159 16166	sensory
+T694	UBERON:0001854 16178 16185	saccule
+T695	UBERON_EXT:vestibule_or_vestibular_system 16244 16254	vestibular
+T696	GO_EXT:detection_or_sensing_of_stimulus 16255 16262	sensory
+T697	CL:0000101 16255 16270	sensory neurons
+T698	CHEBI:52029 16366 16369	DiI
+T699	CHEBI:52024 16374 16377	DiA
+T700	UBERON:0001720 16399 16414	cochlear nuclei
+T701	UBERON:0004727 16561 16575	cochlear nerve
+T702	UBERON:0002828 16594 16618	ventral cochlear nucleus
+T703	UBERON:0002828 16620 16623	VCN
+T704	GO:0042995 16667 16678	projections
+T705	SO_EXT:wild_type_entity_or_quality 16692 16700	wildtype
+T706	GO:0042995 16767 16777	projection
+T707	UBERON:0001720 16781 16796	cochlear nuclei
+T708	NCBITaxon:10088 16821 16825	mice
+T709	GO:0007605 16854 16862	auditory
+T710	CL:0000855 16884 16893	hair cell
+T711	CL_GO_EXT:cell 16889 16893	cell
+T712	PR_EXT:000013043 17029 17034	Brn3c
+T713	SO_EXT:sequence_nullness 17035 17039	null
+T714	SO_EXT:sequence_altered_entity_or_alteration_process 17040 17046	mutant
+T715	NCBITaxon:10088 17047 17052	mouse
+T716	CHEBI:52029 17054 17057	DiI
+T717	CHEBI:52024 17098 17101	DiA
+T718	UBERON:0004727 17201 17215	cochlear nerve
+T719	UBERON:0002211 17255 17259	root
+T720	UBERON:2000280 17284 17290;17303 17312	medial ... divisions
+T721	UBERON:2000532 17295 17312	lateral divisions
+T722	UBERON:0002828 17320 17344	ventral cochlear nucleus
+T723	GO:0042995 17395 17405	projection
+T724	GO_EXT:cell_communication_or_signaling_or_signal_transduction 17436 17445	signaling
+T725	CL:0000855 17464 17474	hair cells
+T726	CL_GO_EXT:cell 17469 17474	cells
+T727	UBERON:0001844 17482 17489	cochlea
+T728	UBERON:0006798 17511 17519	efferent
+T729	UBERON:0001018 17559 17564	tract
+T730	PR_EXT:000013043 17598 17603	Brn3c
+T731	SO_EXT:sequence_nullness 17604 17608	null
+T732	SO_EXT:sequence_altered_entity 17609 17616	mutants
+T733	UBERON:0006798 17653 17661	efferent
+T734	UBERON:0006932 17670 17690	vestibular epithelia
+T735	GO_UBERON_EXT:innervation_entity_or_process 17763 17774	innervation
+T736	GO_UBERON_EXT:innervation_entity_or_process 17763 17774	innervation
+T737	PR_EXT:000013043 17787 17792	Brn3c
+T738	SO_EXT:sequence_nullness 17793 17797	null
+T739	SO_EXT:sequence_altered_entity 17798 17805	mutants
+T740	UBERON_EXT:vestibule_or_vestibular_system 17879 17889	vestibular
+T741	GO_EXT:detection_or_sensing_of_stimulus 17890 17897	sensory
+T742	CL:0000101 17890 17905	sensory neurons
+T743	UBERON:0000025 17913 17918	canal
+T744	UBERON:0000483 17919 17928	epithelia
+T745	UBERON:0001843 17948 17964	horizontal canal
+T746	UBERON:0001853 18014 18021	utricle
+T747	UBERON:0001854 18026 18033	saccule
+T748	UBERON:0006798 18056 18065	efferents
+T749	UBERON:0000483 18075 18084	epithelia
+T750	NCBITaxon:10088 18159 18163	mice
+T751	CL_GO_EXT:cell 18184 18192	cellular
+T752	CL_GO_EXT:cell 18184 18192	cellular
+T753	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 18193 18201	labeling
+T754	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 18193 18201	labeling
+T755	CHEBI:52029 18207 18210	DiI
+T756	CL_GO_EXT:cell 18214 18219	cells
+T757	CL_GO_EXT:cell 18214 18219	cells
+T758	PR_EXT:000013043 18271 18276	Brn3c
+T759	SO_EXT:sequence_nullness 18277 18281	null
+T760	SO_EXT:sequence_altered_entity_or_alteration_process 18282 18288	mutant
+T761	UBERON:0001853 18289 18296	utricle
+T762	CL_GO_EXT:cell 18323 18328	cells
+T763	CL_GO_EXT:cell 18323 18328	cells
+T764	CL:0000855 18373 18383	hair cells
+T765	CL_GO_EXT:cell 18378 18383	cells
+T766	GO_UBERON_EXT:innervation_entity_or_process 18426 18437	innervation
+T767	GO_UBERON_EXT:innervation_entity_or_process 18426 18437	innervation
+T768	GO_EXT:detection_or_sensing_of_stimulus 18441 18448	sensory
+T769	UBERON:0006934 18441 18458	sensory epithelia
+T770	PR_EXT:000013043 18483 18488	Brn3c
+T771	SO_EXT:sequence_nullness 18489 18493	null
+T772	SO_EXT:sequence_altered_entity_or_alteration_process 18494 18500	mutant
+T773	NCBITaxon:10088 18501 18505	mice
+T774	NCBITaxon:33208 18522 18529	animals
+T775	UBERON:0006932 18579 18607	vestibular sensory epithelia
+T776	GO_EXT:detection_or_sensing_of_stimulus 18590 18597	sensory
+T777	GO_EXT:detection_or_sensing_of_stimulus 18641 18648	sensory
+T778	UBERON:0006934 18641 18658	sensory epithelia
+T779	CL_GO_EXT:cell 18671 18679	cellular
+T780	CL_GO_EXT:cell 18671 18679	cellular
+T781	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 18680 18688	labeling
+T782	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 18680 18688	labeling
+T783	CHEBI:52029 18694 18697	DiI
+T784	CL:0000855 18756 18766	hair cells
+T785	CL_GO_EXT:cell 18761 18766	cells
+T786	UBERON:0001844 18772 18779	cochlea
+T787	CL:0011113 18861 18867;18876 18883	spiral ... neurons
+T788	GO_EXT:detection_or_sensing_of_stimulus 18868 18875	sensory
+T789	CL:0000101 18868 18883	sensory neurons
+T790	UBERON:0006106 18899 18916	Rosenthal's canal
+T791	UBERON:0002227 18948 18962	organ of Corti
+T792	UBERON:0001018 18992 18998	tracts
+T793	UBERON:0000483 19015 19025	epithelium
+T794	UBERON:0001844 19054 19061	cochlea
+T795	GO_EXT:myelin_assembly_or_myelination 19215 19225	myelinated
+T796	CL:0000601 19322 19338	outer hair cells
+T797	CL_GO_EXT:cell 19333 19338	cells
+T798	GO_PATO_EXT:biological_maturation 19377 19387	maturation
+T799	CL:0011113 19413 19427	spiral neurons
+T800	CL:0000855 19514 19524	hair cells
+T801	CL_GO_EXT:cell 19519 19524	cells
+T802	GO_EXT:biological_direction_or_guidance 19546 19552	direct
+T803	UBERON:0002819 19628 19635;19640 19647	apex of ... cochlea
+T804	GO_UBERON_EXT:innervation_entity_or_process 19690 19701	innervation
+T805	GO_UBERON_EXT:innervation_entity_or_process 19690 19701	innervation
+T806	PR_EXT:000021998 19749 19761	neurotrophin
+T807	PR_EXT:000021998 19766 19778	neurotrophin
+T808	GO_EXT:0005030 19766 19787	neurotrophin receptor
+T809	SO_EXT:sequence_nullness 19788 19792	null
+T810	SO_EXT:sequence_alteration_entity_or_process 19793 19802	mutations
+T811	PR_EXT:000013043 19819 19824	Brn3c
+T812	SO_EXT:sequence_altered_entity_or_alteration_process 19825 19831	mutant
+T813	NCBITaxon:10088 19832 19836	mice
+T814	GO:0007567 19843 19848	birth
+T815	GO:0097617 19859 19872	hybridization
+T816	PATO_UBERON_EXT:neonate_or_newborn 19882 19890	neonatal
+T817	PR_EXT:000021998 19891 19903	neurotrophin
+T818	GO:0010467 19904 19914	expression
+T819	UBERON:0001690 19934 19938	ears
+T820	PR_EXT:000013043 19952 19957	Brn3c
+T821	SO_EXT:sequence_nullness 19958 19962	null
+T822	GO:0010467 19991 20001	expression
+T823	PR_EXT:000004716 20005 20009	BDNF
+T824	PR_EXT:000011459 20014 20018	NT-3
+T825	CHEBI_SO_EXT:riboprobe 20029 20039	riboprobes
+T826	CHEBI_SO_EXT:riboprobe 20029 20039	riboprobes
+T827	PR_EXT:000021998 20085 20097	neurotrophin
+T828	GO:0010467 20098 20108	expression
+T829	NCBITaxon:33208 20124 20131	animals
+T830	PR_EXT:000021998 20135 20148	neurotrophins
+T831	GO_EXT:negative_regulation 20153 20166	downregulated
+T832	PATO_UBERON_EXT:neonate_or_newborn 20170 20178	neonates
+T833	GO:0010467 20191 20201	expression
+T834	NCBITaxon:33208 20230 20237	animals
+T835	UBERON:0000025 20250 20255	canal
+T836	UBERON:0004721 20256 20263	cristae
+T837	PR_EXT:000004716 20295 20299	BDNF
+T838	CL:0000855 20341 20351	hair cells
+T839	CL_GO_EXT:cell 20346 20351	cells
+T840	NCBITaxon:33208 20370 20377	animals
+T841	PR_EXT:000013043 20442 20447	Brn3c
+T842	SO_EXT:sequence_nullness 20448 20452	null
+T843	SO_EXT:sequence_altered_entity 20453 20459	mutant
+T844	CHEBI_EXT:silver 20482 20488	silver
+T845	CL:0000855 20553 20563	hair cells
+T846	CL_GO_EXT:cell 20558 20563	cells
+T847	PR_EXT:000004716 20569 20573	BDNF
+T848	UBERON:0001853 20588 20595	utricle
+T849	CL:0000855 20624 20634	hair cells
+T850	CL_GO_EXT:cell 20629 20634	cells
+T851	NCBITaxon:33208 20650 20656	animal
+T852	CHEBI_EXT:silver 20681 20687	silver
+T853	PR_EXT:000013043 20716 20721	Brn3c
+T854	SO_EXT:sequence_nullness 20722 20726	null
+T855	SO_EXT:sequence_altered_entity 20727 20734	mutants
+T856	GO:0010467 20768 20778	expression
+T857	PR_EXT:000004716 20782 20786	BDNF
+T858	PR_EXT:000011459 20791 20795	NT-3
+T859	CHEBI_SO_EXT:mRNA 20796 20800	mRNA
+T860	CHEBI_SO_EXT:mRNA 20796 20800	mRNA
+T861	UBERON:0006932 20820 20848	vestibular sensory epithelia
+T862	GO_EXT:detection_or_sensing_of_stimulus 20831 20838	sensory
+T863	CHEBI_EXT:silver 20850 20856	Silver
+T864	UBERON:0000025 20954 20959	Canal
+T865	UBERON:0004721 20960 20967	cristae
+T866	PR_EXT:000004716 20981 20985	BDNF
+T867	UBERON:0001854 21028 21035	saccule
+T868	UBERON:0001853 21040 21047	utricle
+T869	PR_EXT:000004716 21062 21066	BDNF
+T870	PR_EXT:000011459 21071 21075	NT-3
+T871	PR_EXT:000004716 21102 21106	BDNF
+T872	GO:0010467 21107 21117	expression
+T873	CL:0000855 21125 21134	hair cell
+T874	CL_GO_EXT:cell 21130 21134	cell
+T875	UBERON:0000025 21159 21164	canal
+T876	UBERON:0001854 21173 21180	saccule
+T877	GO:0010467 21203 21213	expression
+T878	PR_EXT:000013043 21221 21226	Brn3c
+T879	SO_EXT:sequence_nullness 21227 21231	null
+T880	NCBITaxon:10088 21232 21236	mice
+T881	CL:0000855 21257 21267	hair cells
+T882	CL_GO_EXT:cell 21262 21267	cells
+T883	PR_EXT:000011459 21279 21283	NT-3
+T884	GO:0010467 21284 21294	expression
+T885	PR_EXT:000013043 21336 21341	Brn3c
+T886	SO_EXT:sequence_altered_entity_or_alteration_process 21342 21348	mutant
+T887	UBERON:0001854 21392 21399	saccule
+T888	PR_EXT:000004716 21426 21430	BDNF
+T889	PR_EXT:000011459 21448 21452	NT-3
+T890	PR_EXT:000013043 21480 21485	Brn3c
+T891	SO_EXT:sequence_nullness 21486 21490	null
+T892	SO_EXT:sequence_altered_entity_or_alteration_process 21491 21497	mutant
+T893	PR_EXT:000004716 21558 21562	BDNF
+T894	CL:0000855 21589 21599	hair cells
+T895	CL_GO_EXT:cell 21594 21599	cells
+T896	NCBITaxon:33208 21611 21618	animals
+T897	CL:0000855 21646 21655	hair cell
+T898	CL_GO_EXT:cell 21651 21655	cell
+T899	PR_EXT:000004716 21670 21674	BDNF
+T900	PR_EXT:000013043 21689 21694	Brn3c
+T901	SO_EXT:sequence_nullness 21695 21699	null
+T902	SO_EXT:sequence_altered_entity 21700 21707	mutants
+T903	PR_EXT:000011459 21713 21717	NT-3
+T904	PR_EXT:000013043 21770 21775	Brn3c
+T905	SO_EXT:sequence_nullness 21776 21780	null
+T906	GO_EXT:detection_or_sensing_of_stimulus 21861 21868	sensory
+T907	UBERON:0006934 21861 21879	sensory epithelium
+T908	PR_EXT:000013043 21892 21897	Brn3c
+T909	SO_EXT:sequence_nullness 21898 21902	null
+T910	SO_EXT:sequence_altered_entity 21903 21909	mutant
+T911	UBERON:0001844 21919 21926	cochlea
+T912	PR_EXT:000004716 21932 21936	BDNF
+T913	PR_EXT:000013043 22008 22013	Brn3c
+T914	SO_EXT:sequence_nullness 22014 22018	null
+T915	PR_EXT:000011459 22083 22087	NT-3
+T916	UBERON:0002227 22104 22118	organ of Corti
+T917	PR_EXT:000013043 22134 22139	Brn3c
+T918	SO_EXT:sequence_nullness 22140 22144	null
+T919	PR_EXT:000011459 22247 22251	NT-3
+T920	UBERON:0001844 22278 22285	cochlea
+T921	CL:0000589 22310 22315	IHC's
+T922	PR_EXT:000013043 22359 22364	Brn3c
+T923	SO_EXT:sequence_nullness 22365 22369	null
+T924	NCBITaxon:10088 22370 22374	mice
+T925	PR_EXT:000004716 22400 22404	BDNF
+T926	PR_EXT:000011459 22409 22413	NT-3
+T927	CHEBI_SO_EXT:mRNA 22414 22418	mRNA
+T928	CHEBI_SO_EXT:mRNA 22414 22418	mRNA
+T929	GO:0010467 22419 22429	expression
+T930	UBERON:0001844 22446 22453	cochlea
+T931	PR_EXT:000013043 22479 22484	Brn3c
+T932	SO_EXT:sequence_nullness 22485 22489	null
+T933	GO:0010467 22532 22542	expression
+T934	PR_EXT:000004716 22546 22550	BDNF
+T935	SO_EXT:wild_type_entity_or_quality 22577 22585	wildtype
+T936	SO_EXT:sequence_altered_entity_or_alteration_process 22590 22596	mutant
+T937	GO:0010467 22637 22647	expression
+T938	PR_EXT:000011459 22651 22655	NT-3
+T939	CL:0000589 22691 22707	inner hair cells
+T940	CL_GO_EXT:cell 22702 22707	cells
+T941	SO_EXT:wild_type_entity_or_quality 22716 22724	wildtype
+T942	PR_EXT:000011459 22756 22760	NT-3
+T943	GO:0010467 22761 22771	expression
+T944	PR_EXT:000013043 22814 22819	Brn3c
+T945	SO_EXT:sequence_nullness 22820 22824	null
+T946	NCBITaxon:10088 22825 22829	mice
+T947	CL:0000589 22876 22892	inner hair cells
+T948	CL_GO_EXT:cell 22887 22892	cells
+T949	NCBITaxon:33208 22904 22911	animals
+T950	GO:0010467 23026 23036	expression
+T951	PR_EXT:000021998 23040 23053	neurotrophins
+T952	CL:0000530 23090 23105	primary neurons
+T953	CL:0000855 23148 23158	hair cells
+T954	CL_GO_EXT:cell 23153 23158	cells
+T955	PR_EXT:000021998 23176 23189	neurotrophins
+T956	CL:0011113 23253 23267	spiral neurons
+T957	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 23284 23298	differentiated
+T958	CL:0000855 23299 23309	hair cells
+T959	CL_GO_EXT:cell 23304 23309	cells
+T960	UBERON:0006798 23331 23339	efferent
+T961	SO_EXT:sequence_altered_entity_or_alteration_process 23395 23401	mutant
+T962	NCBITaxon:33208 23402 23409	animals
+T963	NCBITaxon_UBERON_EXT:child 23417 23425	children
+T964	NCBITaxon_UBERON_EXT:child 23417 23425	children
+T965	GO:0007567 23426 23430	born
+T966	GO:0007605 23445 23452	hearing
+T967	CL:0000855 23469 23479	hair cells
+T968	CL_GO_EXT:cell 23474 23479	cells
+T969	GO:0010467 23492 23502	expression
+T970	PR_EXT:000021998 23506 23519	neurotrophins
+T971	SO_EXT:sequence_rescue_process 23520 23526	rescue
+T972	PR_EXT:000021998 23561 23574	neurotrophins
+T973	CL_GO_EXT:cell 23638 23642	cell
+T974	CL_GO_EXT:cell 23638 23642	cell
+T975	GO:0008219 23638 23648	cell death
+T976	GO:0065007 23677 23687	regulation
+T977	CL:0000540 23691 23699	neuronal
+T978	GO_EXT:neuron_development_or_generation 23716 23728	neurotrophic
+T979	PR_EXT:000021998 23777 23790	neurotrophins
+T980	GO_EXT:biological_release 23795 23803	released
+T981	UBERON:0000479 23818 23824	tissue
+T982	GO_EXT:detection_or_sensing_of_stimulus 23860 23867	sensory
+T983	CL:0000101 23860 23875	sensory neurons
+T984	PR_EXT:000021998 23926 23939	neurotrophins
+T985	PR_EXT:000021998 23993 24006	neurotrophins
+T986	PR_EXT:000004716 24100 24104	BDNF
+T987	NCBITaxon:33208 24119 24126	animals
+T988	GO_EXT:detection_or_sensing_of_stimulus 24170 24177	sensory
+T989	CL:0000101 24170 24185	sensory neurons
+T990	UBERON:0001690 24193 24196	ear
+T991	GO_UBERON_EXT:innervation_entity_or_process 24242 24253	innervation
+T992	GO_UBERON_EXT:innervation_entity_or_process 24242 24253	innervation
+T993	PR_EXT:000021998 24276 24288	neurotrophin
+T994	PR_EXT:000021998 24289 24301	neurotrophin
+T995	GO_EXT:0005030 24289 24310	neurotrophin receptor
+T996	SO_EXT:sequence_nullness 24311 24315	null
+T997	SO_EXT:sequence_altered_entity 24316 24323	mutants
+T998	GO:0010467 24350 24360	expression
+T999	UBERON:0000955 24399 24404	brain
+T1000	UBERON:0000922 24454 24461	embryos
+T1001	PR_EXT:000013043 24476 24481	Brn3c
+T1002	GO:0010467 24492 24501	expressed
+T1003	GO:0009790 24509 24522	embryogenesis
+T1004	UBERON:0001017 24530 24533	CNS
+T1005	UBERON:0001690 24573 24576	ear
+T1006	CL:0000530 24577 24592	primary neurons
+T1007	GO:0010467 24654 24664	expression
+T1008	PR_EXT:000021998 24668 24681	neurotrophins
+T1009	CL:0000530 24727 24742	primary neurons
+T1010	PATO_UBERON_EXT:neonate_or_newborn 24772 24779	newborn
+T1011	GO:0007567 24794 24799	natal
+T1012	PR_EXT:000013043 24800 24805	Brn3c
+T1013	SO_EXT:sequence_nullness 24806 24810	null
+T1014	NCBITaxon:10088 24811 24815	mice
+T1015	GO:0010467 24896 24906	expression
+T1016	PR_EXT:000004716 24910 24914	BDNF
+T1017	CHEBI_GO_EXT:biological_process_or_quality_or_role 24970 24982	biologically
+T1018	CHEBI_GO_EXT:biological_process_or_quality_or_role 24970 24982	biologically
+T1019	PR_EXT:000021998 25009 25022	neurotrophins
+T1020	GO:0010467 25038 25047	expressed
+T1021	GO_EXT:detection_or_sensing_of_stimulus 25055 25062	sensory
+T1022	UBERON:0006934 25055 25072	sensory epithelia
+T1023	UBERON:0000922 25076 25085	embryonic
+T1024	PR_EXT:000013043 25086 25091	Brn3c
+T1025	SO_EXT:sequence_nullness 25092 25096	null
+T1026	SO_EXT:sequence_altered_entity 25097 25104	mutants
+T1027	PR_EXT:000021998 25147 25160	neurotrophins
+T1028	UBERON:0006932 25168 25196	vestibular sensory epithelia
+T1029	GO_EXT:detection_or_sensing_of_stimulus 25179 25186	sensory
+T1030	PR_EXT:000011459 25300 25304	NT-3
+T1031	GO:0010467 25305 25315	expression
+T1032	PR_EXT:000013043 25319 25324	Brn3c
+T1033	SO_EXT:sequence_nullness 25325 25329	null
+T1034	SO_EXT:sequence_altered_entity_or_alteration_process 25330 25336	mutant
+T1035	UBERON:0001844 25337 25344	cochlea
+T1036	PR_EXT:000021998 25377 25389	neurotrophin
+T1037	CL:0011113 25418 25424;25433 25440	spiral ... neurons
+T1038	GO_EXT:detection_or_sensing_of_stimulus 25425 25432	sensory
+T1039	CL:0000101 25425 25440	sensory neurons
+T1040	UBERON:0001844 25498 25506	cochlear
+T1041	GO_UBERON_EXT:innervation_entity_or_process 25507 25518	innervation
+T1042	GO_UBERON_EXT:innervation_entity_or_process 25507 25518	innervation
+T1043	PATO_UBERON_EXT:neonate_or_newborn 25522 25529	newborn
+T1044	PR_EXT:000013043 25530 25535	Brn3c
+T1045	SO_EXT:sequence_nullness 25536 25540	null
+T1046	SO_EXT:sequence_altered_entity 25541 25548	mutants
+T1047	PR_EXT:000004716 25557 25561	BDNF
+T1048	CL:0000855 25600 25610	hair cells
+T1049	CL_GO_EXT:cell 25605 25610	cells
+T1050	GO:0030154 25642 25660;25666 25671	differentiation of ... cells
+T1051	CL:0000855 25661 25671	hair cells
+T1052	CL_GO_EXT:cell 25666 25671	cells
+T1053	GO:0010467 25714 25724	expression
+T1054	PR_EXT:000004716 25728 25732	BDNF
+T1055	UBERON:0000025 25756 25761	canal
+T1056	UBERON:0004721 25762 25769	cristae
+T1057	PR_EXT:000004716 25812 25816	BDNF
+T1058	PR_EXT:000011470 25821 25825	trkB
+T1059	SO_EXT:sequence_nullness 25826 25830	null
+T1060	SO_EXT:sequence_altered_entity 25831 25838	mutants
+T1061	GO_UBERON_EXT:innervation_entity_or_process 25844 25855	innervation
+T1062	GO_UBERON_EXT:innervation_entity_or_process 25844 25855	innervation
+T1063	UBERON:0000025 25859 25864	canal
+T1064	UBERON:0004721 25865 25872	cristae
+T1065	GO:0007567 25888 25893	birth
+T1066	GO:0010467 25932 25942	expression
+T1067	UBERON:0000025 25991 25996	canal
+T1068	GO_EXT:detection_or_sensing_of_stimulus 25997 26004	sensory
+T1069	UBERON:0006934 25997 26014	sensory epithelia
+T1070	GO_UBERON_EXT:innervation_entity_or_process 26026 26037	innervation
+T1071	GO_UBERON_EXT:innervation_entity_or_process 26026 26037	innervation
+T1072	UBERON:0006798 26060 26069	efferents
+T1073	GO:0007567 26073 26078	birth
+T1074	UBERON:0001853 26124 26131	utricle
+T1075	UBERON:0001854 26133 26140	saccule
+T1076	UBERON:0001844 26145 26152	cochlea
+T1077	PR_EXT:000004716 26175 26179	BDNF
+T1078	PR_EXT:000011459 26184 26188	NT-3
+T1079	GO:0010467 26193 26202	expressed
+T1080	PR_EXT:000011459 26249 26253	NT-3
+T1081	GO:0010467 26254 26264	expression
+T1082	UBERON:0002819 26369 26376;26381 26388	apex of ... cochlea
+T1083	UBERON:0001844 26406 26413	cochlea
+T1084	UBERON:0000922 26417 26424	embryos
+T1085	PATO_UBERON_EXT:neonate_or_newborn 26429 26437	neonates
+T1086	UBERON:0001854 26456 26463	saccule
+T1087	UBERON:0001853 26468 26475	utricle
+T1088	UBERON:0000922 26479 26486	embryos
+T1089	PR_EXT:000011459 26488 26492	NT-3
+T1090	GO:0010467 26510 26519	expressed
+T1091	CL:0000630 26523 26539	supporting cells
+T1092	CL_GO_EXT:cell 26534 26539	cells
+T1093	GO:0010467 26550 26560	expression
+T1094	PR_EXT:000011459 26564 26568	NT-3
+T1095	CL:0000630 26572 26588	supporting cells
+T1096	CL_GO_EXT:cell 26583 26588	cells
+T1097	UBERON:0000922 26592 26599	embryos
+T1098	PATO_UBERON_EXT:neonate_or_newborn 26604 26612	neonates
+T1099	PR_EXT:000013043 26634 26639	Brn3c
+T1100	SO_EXT:sequence_nullness 26640 26644	null
+T1101	SO_EXT:sequence_altered_entity 26645 26652	mutants
+T1102	CL:0011113 26666 26672;26681 26688	spiral ... neurons
+T1103	GO_EXT:detection_or_sensing_of_stimulus 26673 26680	sensory
+T1104	CL:0000101 26673 26688	sensory neurons
+T1105	NCBITaxon:33208 26714 26721	animals
+T1106	GO_EXT:detection_or_sensing_of_stimulus 26766 26773	sensory
+T1107	CL:0000101 26766 26781	sensory neurons
+T1108	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 26798 26812	differentiated
+T1109	CL:0000855 26813 26823	hair cells
+T1110	CL_GO_EXT:cell 26818 26823	cells
+T1111	PR_EXT:000021998 26853 26866	neurotrophins
+T1112	PR_EXT:000004716 26893 26897	BDNF
+T1113	PR_EXT:000011459 26902 26906	NT-3
+T1114	GO:0010467 26932 26942	expression
+T1115	CL:0000589 26948 26964	inner hair cells
+T1116	CL_GO_EXT:cell 26959 26964	cells
+T1117	GO:0007567 26972 26977	birth
+T1118	UBERON:0001690 26997 27000	ear
+T1119	UBERON:0001016 27024 27038	nervous system
+T1120	PR_EXT:000021998 27086 27099	neurotrophins
+T1121	UBERON:0001690 27126 27129	ear
+T1122	PR_EXT:000013043 27157 27162	Brn3c
+T1123	SO_EXT:sequence_nullness 27163 27167	null
+T1124	SO_EXT:sequence_altered_entity 27168 27175	mutants
+T1125	CL:0011113 27203 27216	spiral neuron
+T1126	GO:0048468 27248 27260;27273 27278	formation of ... cells
+T1127	CL:0000855 27268 27278	hair cells
+T1128	CL_GO_EXT:cell 27273 27278	cells
+T1129	GO_EXT:biological_release 27349 27357	released
+T1130	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 27361 27375	differentiated
+T1131	CL:0000855 27376 27386	hair cells
+T1132	CL_GO_EXT:cell 27381 27386	cells
+T1133	GO:0010467 27441 27451	expression
+T1134	PR_EXT:000021998 27455 27468	neurotrophins
+T1135	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 27492 27506	differentiated
+T1136	UBERON:0000483 27507 27516	epithelia
+T1137	PR_EXT:000021998 27533 27546	neurotrophins
+T1138	UBERON:0007023 27573 27578	adult
+T1139	UBERON:0001844 27579 27587	cochleae
+T1140	PR_EXT:000021998 27619 27631	neurotrophin
+T1141	GO:0010467 27632 27642	expression
+T1142	GO:0007567 27673 27678	natal
+T1143	NCBITaxon:33208 27679 27686	animals
+T1144	UBERON:0001017 27694 27697	CNS
+T1145	GO:0010467 27709 27719	expression
+T1146	UBERON:0001017 27727 27730	CNS
+T1147	PR_EXT:000021998 27791 27802	neutrophins
+T1148	SO_EXT:sequence_nullness 27815 27819	null
+T1149	SO_EXT:sequence_altered_entity 27820 27827	mutants
+T1150	CL:0000530 27880 27895	primary neurons
+T1151	GO:0007567 27939 27944	birth
+T1152	UBERON:0001690 27967 27970	ear
+T1153	PR_EXT:000013043 28061 28066	Brn3c
+T1154	SO_EXT:sequence_nullness 28067 28071	null
+T1155	SO_EXT:sequence_altered_entity 28072 28079	mutants
+T1156	GO_EXT:neuron_development_or_generation 28132 28144	neurotrophic
+T1157	CHEBI_EXT:chemical_substance_or_polyatomic_entity 28145 28155	substances
+T1158	GO_EXT:neuron_development_or_generation 28159 28171	neurotrophic
+T1159	UBERON:0001017 28196 28199	CNS
+T1160	CL:0011113 28242 28248;28257 28264	spiral ... neurons
+T1161	GO_EXT:detection_or_sensing_of_stimulus 28249 28256	sensory
+T1162	CL:0000101 28249 28264	sensory neurons
+T1163	NCBITaxon:9685 28298 28301	cat
+T1164	NCBITaxon:9606 28335 28341	humans
+T1165	GO_EXT:biological_growth_entity_or_process 28369 28375	Growth
+T1166	UBERON:0001844 28393 28400	cochlea
+T1167	CL:0000855 28425 28435	hair cells
+T1168	CL_GO_EXT:cell 28430 28435	cells
+T1169	GO:0043005 28486 28498;28506 28513	processes of ... neurons
+T1170	CL:0011113 28499 28513	spiral neurons
+T1171	UBERON:0002227 28521 28535	organ of Corti
+T1172	UBERON:0002819 28575 28582;28587 28594	apex of ... cochlea
+T1173	CL:0000855 28632 28642	hair cells
+T1174	CL_GO_EXT:cell 28637 28642	cells
+T1175	PR_EXT:000010869 28659 28667	Myo VIIa
+T1176	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 28707 28721	differentiated
+T1177	CL:0000855 28722 28731	hair cell
+T1178	CL_GO_EXT:cell 28727 28731	cell
+T1179	GO:0016265 28794 28798	died
+T1180	GO:0007567 28806 28811	birth
+T1181	GO_EXT:biological_growth_entity_or_process 28832 28838	growth
+T1182	CL:0000601 28842 28858	outer hair cells
+T1183	CL_GO_EXT:cell 28853 28858	cells
+T1184	PR_EXT:000013043 28879 28884	Brn3c
+T1185	SO_EXT:sequence_nullness 28885 28889	null
+T1186	SO_EXT:sequence_altered_entity_or_alteration_process 28890 28896	mutant
+T1187	UBERON:0001844 28897 28905	cochleae
+T1188	UBERON:0005972 28949 28964	tunnel of Corti
+T1189	CL:0000601 28968 28984	outer hair cells
+T1190	CL_GO_EXT:cell 28979 28984	cells
+T1191	GO:0030154 29115 29133;29141 29146	differentiation of ... cells
+T1192	CL:1000191 29134 29146	pillar cells
+T1193	CL_GO_EXT:cell 29141 29146	cells
+T1194	PR_EXT:000001450 29172 29177	Fgfr3
+T1195	PR_EXT:000007499 29202 29206	Fgf8
+T1196	CL:0000589 29251 29267	inner hair cells
+T1197	CL_GO_EXT:cell 29262 29267	cells
+T1198	GO:0048468 29281 29293;29305 29310	formation of ... cells
+T1199	CL:0000630 29294 29310	supporting cells
+T1200	CL_GO_EXT:cell 29305 29310	cells
+T1201	GO:0010467 29348 29358	expression
+T1202	PR_EXT:000008515 29391 29396	Hes 1
+T1203	PR_EXT:000008519 29391 29394;29401 29402	Hes ... 5
+T1204	GO:0065007 29422 29431	regulated
+T1205	PR_EXT:Notch 29439 29444	Notch
+T1206	GO:0007219 29439 29462	Notch signaling pathway
+T1207	CL:0000601 29544 29560	outer hair cells
+T1208	CL_GO_EXT:cell 29555 29560	cells
+T1209	GO:0030154 29587 29605;29617 29622	differentiation of ... cells
+T1210	CL:0000630 29606 29622	supporting cells
+T1211	CL_GO_EXT:cell 29617 29622	cells
+T1212	CL:0000855 29648 29658	hair cells
+T1213	CL_GO_EXT:cell 29653 29658	cells
+T1214	GO:0010467 29683 29693	expression
+T1215	CL:0000630 29697 29712	supporting cell
+T1216	CL_GO_EXT:cell 29708 29712	cell
+T1217	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 29722 29729	markers
+T1218	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 29722 29729	markers
+T1219	PR_EXT:000013043 29733 29738	Brn3c
+T1220	SO_EXT:sequence_nullness 29739 29743	null
+T1221	SO_EXT:sequence_altered_entity 29744 29751	mutants
+T1222	UBERON:0006798 29838 29846	efferent
+T1223	UBERON:0001456 29868 29874	facial
+T1224	CL:0000100 29885 29896	motoneurons
+T1225	UBERON:0006798 30069 30077	efferent
+T1226	CHEBI_EXT:polyatomic_entity_or_group 30119 30130	molecularly
+T1227	GO_EXT:neuron_development_or_generation 30139 30151	neurotrophic
+T1228	UBERON:0006798 30261 30269	efferent
+T1229	CHEBI_EXT:polyatomic_entity_or_group 30389 30398	molecular
+T1230	UBERON:0006798 30410 30418	efferent
+T1231	UBERON:0001690 30433 30436	ear
+T1232	GO:0042995 30527 30538	projections
+T1233	NCBITaxon:40674 30588 30595	mammals
+T1234	GO:0042995 30641 30651	projection
+T1235	GO:0007605 30677 30684	hearing
+T1236	GO:0042995 30729 30739	projection
+T1237	UBERON:0004727 30747 30761	cochlear nerve
+T1238	UBERON:0002610 30770 30785	cochlear nuclei
+T1239	PR_EXT:000013043 30803 30809	Brn 3c
+T1240	SO_EXT:sequence_nullness 30810 30814	null
+T1241	SO_EXT:sequence_altered_entity 30815 30822	mutants
+T1242	GO:0042995 30907 30917	projection
+T1243	PR_EXT:000011459 30921 30925	NT-3
+T1244	SO_EXT:sequence_nullness 30926 30930	null
+T1245	SO_EXT:sequence_altered_entity 30931 30938	mutants
+T1246	SO_EXT:sequence_altered_entity 30953 30960	mutants
+T1247	GO_UBERON_EXT:innervation_entity_or_process 31006 31017	innervation
+T1248	GO_UBERON_EXT:innervation_entity_or_process 31006 31017	innervation
+T1249	UBERON:0001844 31036 31043	cochlea
+T1250	PR_EXT:000013043 31082 31087	Brn3c
+T1251	SO_EXT:sequence_nullness 31088 31092	null
+T1252	SO_EXT:sequence_altered_entity 31093 31100	mutants
+T1253	SO_EXT:transgenic_entity 31187 31197	transgenic
+T1254	NCBITaxon:10088 31198 31203	mouse
+T1255	PR_EXT:000004716 31213 31217	BDNF
+T1256	GO:0010467 31221 31230	expressed
+T1257	PR_EXT:000011459 31237 31241	NT-3
+T1258	SO_EXT:0000167 31242 31250	promoter
+T1259	GO:0065007 31251 31258	control
+T1260	SO_EXT:sequence_rescue_process 31311 31317	rescue
+T1261	PR_EXT:000013043 31323 31328	Brn3c
+T1262	SO_EXT:sequence_nullness 31329 31333	null
+T1263	SO_EXT:sequence_altered_entity_or_alteration_process 31334 31340	mutant
+T1264	SO_EXT:sequence_alteration_entity_or_process 31389 31398	mutations
+T1265	CL:0000855 31404 31413	hair cell
+T1266	CL_GO_EXT:cell 31409 31413	cell
+T1267	SO_EXT:sequence_alteration_entity_or_process 31486 31494	mutation
+T1268	NCBITaxon:9606 31507 31512	human
+T1269	SO_EXT:0001023 31513 31519	allele
+T1270	PR_EXT:000013043 31523 31529	Pou4f3
+T1271	PR_EXT:000013043 31531 31536	Brn3c
+T1272	GO:0007605 31580 31587	hearing
+T1273	GO:0007605 31658 31665	hearing
+T1274	UBERON:0001844 31705 31712	cochlea
+T1275	PR_EXT:000013043 31743 31748	Brn3c
+T1276	NCBITaxon:10088 31763 31767	mice
+T1277	GO:0007605 31799 31806	hearing
+T1278	NCBITaxon:10088 31847 31851	mice
+T1279	PR_EXT:000013043 31870 31875	Brn3c
+T1280	SO_EXT:sequence_nullness 31876 31880	null
+T1281	NCBITaxon:10088 31881 31886	mouse
+T1282	SO_EXT:sequence_altered_entity 31887 31894	mutants
+T1283	GO:0007605 31959 31966	hearing
+T1284	NCBITaxon:9606 31975 31981	humans
+T1285	CL:0011113 32043 32056	spiral neuron
+T1286	UBERON:0000113 32071 32080	adulthood
+T1287	NCBITaxon:9606 32103 32108	human
+T1288	PR_EXT:000013043 32109 32115	Pou4f3
+T1289	UBERON:0001844 32116 32124	cochleae
+T1290	CL:0011113 32150 32163	spiral neuron
+T1291	GO:0007605 32231 32238	hearing
+T1292	NCBITaxon_UBERON_EXT:child 32316 32324	children
+T1293	NCBITaxon_UBERON_EXT:child 32316 32324	children
+T1294	NCBITaxon:9685 32352 32355	cat
+T1295	SO_EXT:sequence_altered_entity_or_alteration_process 32401 32407	mutant
+T1296	NCBITaxon:10088 32408 32412	mice
+T1297	CL:0000855 32442 32452	hair cells
+T1298	CL_GO_EXT:cell 32447 32452	cells
+T1299	CL:0000601 32459 32475	outer hair cells
+T1300	CL_GO_EXT:cell 32470 32475	cells
+T1301	CL:0000855 32548 32558	hair cells
+T1302	CL_GO_EXT:cell 32553 32558	cells
+T1303	UBERON:0006798 32599 32607	efferent
+T1304	GO_UBERON_EXT:innervation_entity_or_process 32608 32619	innervation
+T1305	GO_UBERON_EXT:innervation_entity_or_process 32608 32619	innervation
+T1306	NCBITaxon:10088 32635 32639	mice
+T1307	UBERON:0006798 32691 32699	efferent
+T1308	GO_UBERON_EXT:innervation_entity_or_process 32700 32711	innervation
+T1309	GO_UBERON_EXT:innervation_entity_or_process 32700 32711	innervation
+T1310	PR_EXT:000013043 32715 32720	Brn3c
+T1311	SO_EXT:sequence_nullness 32721 32725	null
+T1312	SO_EXT:sequence_altered_entity 32726 32733	mutants
+T1313	PR_EXT:000004716 32826 32830	BDNF
+T1314	PR_EXT:000011459 32834 32838	NT-3
+T1315	SO_EXT:sequence_nullness 32839 32843	null
+T1316	SO_EXT:sequence_alteration_entity_or_process 32844 32853	mutations
+T1317	SO_EXT:sequence_nullness 32859 32863	Null
+T1318	SO_EXT:sequence_altered_entity 32864 32871	mutants
+T1319	UBERON:0001690 32875 32878	ear
+T1320	PR_EXT:000021998 32888 32901	neurotrophins
+T1321	GO_EXT:detection_or_sensing_of_stimulus 32929 32936	sensory
+T1322	CL:0000101 32929 32944	sensory neurons
+T1323	GO:0007567 32952 32957	birth
+T1324	UBERON:0006798 33020 33028	efferent
+T1325	GO_UBERON_EXT:innervation_entity_or_process 33029 33040	innervation
+T1326	GO_UBERON_EXT:innervation_entity_or_process 33029 33040	innervation
+T1327	GO_EXT:detection_or_sensing_of_stimulus 33085 33092	sensory
+T1328	CL:0000101 33085 33099	sensory neuron
+T1329	PR_EXT:000021998 33136 33148	neurotrophin
+T1330	GO:0038179 33136 33158	neurotrophin signaling
+T1331	PATO_UBERON_EXT:neonate_or_newborn 33184 33192	neonatal
+T1332	SO_EXT:wild_type_entity_or_quality 33193 33201	wildtype
+T1333	NCBITaxon:33208 33202 33209	animals
+T1334	PR_EXT:000007928 33234 33238	GDNF
+T1335	GO:0010467 33280 33290	expression
+T1336	SO_EXT:sequence_altered_entity 33300 33307	mutants
+T1337	UBERON:0002819 33377 33390	cochlear apex
+T1338	UBERON:0002819 33437 33450	cochlear apex
+T1339	GO:0030154 33482 33500;33506 33511	differentiation of ... cells
+T1340	CL:0000855 33501 33511	hair cells
+T1341	CL_GO_EXT:cell 33506 33511	cells
+T1342	UBERON:0001844 33529 33537	cochlear
+T1343	GO:0007567 33555 33559	born
+T1344	NCBITaxon_UBERON_EXT:child 33560 33568	children
+T1345	NCBITaxon_UBERON_EXT:child 33560 33568	children
+T1346	NCBITaxon:9685 33643 33646	cat
+T1347	UBERON:0000922 33703 33712	embryonic
+T1348	CL:0002321 33703 33712;33731 33735	embryonic ... cell
+T1349	PATO_UBERON_EXT:neonate_or_newborn 33717 33725	neonatal
+T1350	CL:0000855 33726 33735	hair cell
+T1351	CL_GO_EXT:cell 33731 33735	cell
+T1352	GO_EXT:breeding 33760 33768	Breeding
+T1353	PR_EXT:000013043 33785 33790	Brn3c
+T1354	NCBITaxon:10088 33791 33795	mice
+T1355	GO_EXT:breeding 33801 33805	bred
+T1356	NCBITaxon:10088 33836 33840	Mice
+T1357	PR_EXT:000013043 33860 33865	Brn3c
+T1358	SO_EXT:sequence_nullness 33866 33870	null
+T1359	SO_EXT:sequence_altered_entity 33871 33878	mutants
+T1360	NCBITaxon:33208 33969 33976	animals
+T1361	CHEBI_EXT:anaesthetic_process 33989 34001	anesthetized
+T1362	CHEBI:7983 34007 34020	pentobarbital
+T1363	UBERON:0000948 34030 34039	cardially
+T1364	CHEBI_EXT:paraformaldehye 34057 34073	paraformaldehyde
+T1365	CHEBI_EXT:phosphate 34083 34092	phosphate
+T1366	CHEBI_CHMO_EXT:buffer_solution 34093 34099	buffer
+T1367	UBERON:0001690 34110 34114	Ears
+T1368	CHEBI_EXT:50913 34142 34150	fixative
+T1369	UBERON:0006134 34205 34217	nerve fibers
+T1370	CHEBI:52029 34219 34222	DiI
+T1371	UBERON:0002298 34240 34249	brainstem
+T1372	CHEBI:52029 34337 34340	DiI
+T1373	UBERON:0006798 34365 34373	efferent
+T1374	UBERON:0003079 34396 34407	floor plate
+T1375	CHEBI_EXT:37958 34518 34521	dye
+T1376	UBERON:0001690 34527 34531	ears
+T1377	UBERON:0001690 34754 34758	Ears
+T1378	MOP:0000030 34789 34799	acetylated
+T1379	PR_EXT:000028799 34800 34807	tubulin
+T1380	GO_UBERON_EXT:innervation_entity_or_process 34833 34844	innervation
+T1381	GO_UBERON_EXT:innervation_entity_or_process 34833 34844	innervation
+T1382	CHEBI:52029 34864 34867	DiI
+T1383	UBERON:0001690 34952 34956	ears
+T1384	MOP:0000030 34988 34998	acetylated
+T1385	PR_EXT:000028799 34999 35006	tubulin
+T1386	GO:0042571 35007 35017	antibodies
+T1387	GO:0042571 35059 35069	antibodies
+T1388	MOP:0000779 35070 35080	conjugated
+T1389	UBERON:0001690 35105 35109	ears
+T1390	CHEBI:16240 35136 35140	H2O2
+T1391	UBERON:0001690 35245 35249	ears
+T1392	CHEBI_EXT:cyclic_ether_or_epoxy_group 35267 35272	epoxy
+T1393	GO_EXT:detection_or_sensing_of_stimulus 35341 35348	sensory
+T1394	UBERON:0006934 35341 35358	sensory epithelia
+T1395	CHEBI:52029 35427 35430	DiI
+T1396	CHEBI:52024 35470 35473	DiA
+T1397	PR_EXT:000013043 35533 35538	Brn3c
+T1398	SO_EXT:sequence_nullness 35539 35543	null
+T1399	SO_EXT:sequence_altered_entity 35544 35551	mutants
+T1400	SO_EXT:wild_type_entity_or_quality 35576 35584	wildtype
+T1401	UBERON:0000955 35641 35647	brains
+T1402	UBERON:0004727 35666 35680	cochlear nerve
+T1403	CHEBI:5291 35698 35705	gelatin
+T1404	CHEBI_EXT:paraformaldehye 35722 35725	PFA
+T1405	GO:0042995 35938 35948	projection
+T1406	GO:0097617 35993 36006	hybridization
+T1407	UBERON:0001690 36013 36017	ears
+T1408	PR_EXT:000013043 36026 36031	Brn3c
+T1409	SO_EXT:sequence_nullness 36032 36036	null
+T1410	SO_EXT:sequence_altered_entity 36037 36044	mutants
+T1411	PR_EXT:000004716 36149 36153	BDNF
+T1412	PR_EXT:000011459 36158 36162	NT-3
+T1413	CHEBI_SO_EXT:mRNA 36163 36167	mRNA
+T1414	CHEBI_SO_EXT:mRNA 36163 36167	mRNA
+T1415	CL:0000855 36438 36448	hair cells
+T1416	CL_GO_EXT:cell 36443 36448	cells
+T1417	CL:0000855 36471 36481	hair cells
+T1418	CL_GO_EXT:cell 36476 36481	cells
+T1419	CL:0000540 36486 36493	neurons
+T1420	UBERON:0001844 36516 36524	cochlear
+T1421	CL:0000855 36548 36557	hair cell
+T1422	CL_GO_EXT:cell 36553 36557	cell
+T1423	PR_EXT:myosin_VII 36567 36577	myosin VII
+T1424	PR_EXT:000010869 36579 36586	MyoVIIa
+T1425	GO:0042571 36588 36596	antibody
+T1426	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 36650 36657	labeled
+T1427	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 36650 36657	labeled
+T1428	UBERON:0002227 36658 36673	organs of Corti
+T1429	CL:0000855 36769 36779	hair cells
+T1430	CL_GO_EXT:cell 36774 36779	cells
+T1431	CL:0000855 36840 36850	hair cells
+T1432	CL_GO_EXT:cell 36845 36850	cells
+T1433	CL:0000540 36854 36861	neurons
+T1434	UBERON:0006585 36865 36885	vestibular endorgans
+T1435	GO_EXT:detection_or_sensing_of_stimulus 36889 36896	sensory
+T1436	UBERON:0001800 36889 36904	sensory ganglia
+T1437	CHEBI:52815 36940 36953	Cresyl Violet
+T1438	GO_EXT:detection_or_sensing_of_stimulus 37041 37048	sensory
+T1439	UBERON:0006934 37041 37059	sensory epithelium
+T1440	UBERON:0000045 37104 37112	ganglion
+T1441	CL:0000540 37119 37126	neurons
+T1442	CL_GO_EXT:cell 37130 37135	cells
+T1443	CL_GO_EXT:cell 37130 37135	cells
+T1444	GO:0005634 37149 37156	nucleus
+T1445	GO:0005730 37161 37169	nucleoli
+T1446	UBERON:0000483 37221 37231	epithelium
+T1447	UBERON:0000045 37236 37244	ganglion
+T1448	SO_EXT:sequence_nullness 37384 37388	null
+T1449	SO_EXT:sequence_alteration_entity_or_process 37389 37397	mutation
+T1450	GO_EXT:breeding 37399 37403	bred
+T1451	NCBITaxon:10088 37412 37416	mice
+T1452	PR_EXT:myosin_VII 37509 37515	MyoVII
+T1453	UBERON:0001018 37534 37539	tract
+T1454	UBERON:0001844 37559 37567	cochlear
+T1455	GO:0097617 37677 37690	hybridization
+T1456	PR_EXT:000021998 37695 37708	neurotrophins
+T1457	CL:0000540 37799 37807	neuronal
+T1458	MOP:0000030 37844 37854	acetylated
+T1459	PR_EXT:000028799 37855 37862	tubulin
+T1460	UBERON:0000970 37983 37986	Eye
+T1461	GO:0007567 38031 38036	Birth
+R1	NULL^SLOT Arg1:T343 Arg2:T342
+R2	NULL^SLOT Arg1:T336 Arg2:T337
+R3	NULL^SLOT Arg1:T606 Arg2:T608
+R4	NULL^SLOT Arg1:T342 Arg2:T343
+R5	NULL^SLOT Arg1:T337 Arg2:T336
+R6	NULL^SLOT Arg1:T608 Arg2:T606

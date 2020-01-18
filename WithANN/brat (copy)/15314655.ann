@@ -1,0 +1,1965 @@
+T1	NCBITaxon:7955 4 13	Zebrafish
+T2	PR_EXT:Q6E2N3 14 23	moonshine
+T3	SO_EXT:0000704 24 28	Gene
+T4	SO_EXT:sequence_coding_function 29 36	Encodes
+T5	GO_EXT:transcription 37 52	Transcriptional
+T6	PR_EXT:000016655 37 75	Transcriptional Intermediary Factor 1γ
+T7	GO_EXT:regulator 90 99	Regulator
+T8	GO:0030097 103 116	Hematopoiesis
+T9	GO:0030097 128 141	Hematopoiesis
+T10	CHEBI_SO_EXT:DNA 188 191	DNA
+T11	CHEBI_SO_EXT:DNA 188 191	DNA
+T12	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 192 199	binding
+T13	CHEBI_PR_EXT:protein 200 208	proteins
+T14	CHEBI_PR_EXT:protein 200 208	proteins
+T15	GO:0065007 214 222	regulate
+T16	GO_EXT:transcription 223 236	transcription
+T17	SO_EXT:sequence_alteration_entity_or_process 284 293	Mutations
+T18	NCBITaxon:7955 301 310	zebrafish
+T19	PR_EXT:Q6E2N3 311 320	moonshine
+T20	PR_EXT:Q6E2N3 322 325	mon
+T21	SO_EXT:0000704 327 331	gene
+T22	UBERON:0000922 358 367	embryonic
+T23	GO:0035162 358 367;378 391	embryonic ... hematopoiesis
+T24	UBERON:0007023 372 377	adult
+T25	CL:0000232 413 427	red blood cell
+T26	UBERON:0000178 417 422	blood
+T27	CL_GO_EXT:cell 423 427	cell
+T28	PR_EXT:Q6E2N3 452 455	mon
+T29	SO_EXT:sequence_coding_function 456 463	encodes
+T30	NCBITaxon:7955 468 477	zebrafish
+T31	SO_EXT:0000855 478 486	ortholog
+T32	NCBITaxon:40674 490 499	mammalian
+T33	GO_EXT:transcription 500 515	transcriptional
+T34	PR_EXT:000016655 500 538	transcriptional intermediary factor 1γ
+T35	PR_EXT:000016655 540 545	TIF1γ
+T36	PR_EXT:000016655 551 557	TRIM33
+T37	PR_EXT:TIF1 576 580	TIF1
+T38	GO:0030097 642 655	hematopoietic
+T39	CL:0008001 642 672	hematopoietic progenitor cells
+T40	CL_GO_EXT:cell 667 672	cells
+T41	PR_EXT:Q6E2N3 676 679	mon
+T42	SO_EXT:sequence_altered_entity 680 687	mutants
+T43	GO:0010467 696 703	express
+T44	GO:0030097 721 734	hematopoietic
+T45	GO_EXT:transcription 735 748	transcription
+T46	GO_EXT:transcription_factor 735 756	transcription factors
+T47	PR_EXT:000007857 768 773	gata1
+T48	GO:0006915 787 796	apoptosis
+T49	PR_EXT:Q6E2N3 814 817	mon
+T50	SO_EXT:sequence_altered_entity_or_alteration_process 818 824	mutant
+T51	SO_EXT:0001023 825 832	alleles
+T52	SO_EXT:sequence_coding_function 838 844	encode
+T53	SO_EXT:0001587 845 866	premature stop codons
+T54	GO:0010467 881 891	expression
+T55	SO_EXT:wild_type_entity_or_quality 895 904	wild-type
+T56	PR_EXT:000016655 905 910	tif1γ
+T57	CHEBI_SO_EXT:mRNA 911 915	mRNA
+T58	CHEBI_SO_EXT:mRNA 911 915	mRNA
+T59	SO_EXT:sequence_rescue_process 916 923	rescues
+T60	UBERON:0000922 924 933	embryonic
+T61	GO:0035162 924 947	embryonic hematopoiesis
+T62	PR_EXT:Q6E2N3 962 965	mon
+T63	SO_EXT:sequence_altered_entity 966 973	mutants
+T64	CL:0000365 1005 1012	zygotic
+T65	PR_EXT:000016655 1013 1018	tif1γ
+T66	CHEBI_SO_EXT:mRNA 1019 1023	mRNA
+T67	CHEBI_SO_EXT:mRNA 1019 1023	mRNA
+T68	GO:0010467 1024 1034	expression
+T69	UBERON:2000083 1046 1062	ventral mesoderm
+T70	GO:0030097 1070 1083	hematopoietic
+T71	CL:0000037 1070 1093	hematopoietic stem cell
+T72	CL_GO_EXT:cell 1089 1093	cell
+T73	GO:0048468 1089 1093;1109 1118	cell ... formation
+T74	PR_EXT:000007857 1128 1133	gata1
+T75	GO:0010467 1134 1144	expression
+T76	PR_EXT:000016655 1182 1187	tif1γ
+T77	CL_GO_EXT:cell 1203 1207	cell
+T78	CL_GO_EXT:cell 1203 1207	cell
+T79	GO_RO_EXT:developmental_differentiation_process 1237 1252	differentiation
+T80	CL:0000764 1256 1265	erythroid
+T81	NCBITaxon:39107 1289 1295	murine
+T82	CL:0000764 1296 1310	erythroid cell
+T83	CL_GO_EXT:cell 1306 1310	cell
+T84	PR_EXT:000016655 1334 1339	Tif1γ
+T85	CHEBI_PR_EXT:protein 1340 1347	protein
+T86	CHEBI_PR_EXT:protein 1340 1347	protein
+T87	GO_PATO_EXT:biological_localization_process_or_quality 1351 1360	localized
+T88	GO:0005634 1374 1381	nuclear
+T89	GO:0010467 1392 1402	expression
+T90	CL:0000764 1420 1434	erythroid cell
+T91	CL_GO_EXT:cell 1430 1434	cell
+T92	GO:0048469 1430 1445	cell maturation
+T93	GO_EXT:transcription 1491 1506	transcriptional
+T94	GO:0030154 1534 1552;1567 1572	differentiation of ... cells
+T95	GO:0030097 1553 1566	hematopoietic
+T96	CL:0000988 1553 1572	hematopoietic cells
+T97	CL_GO_EXT:cell 1567 1572	cells
+T98	NCBITaxon:7742 1576 1587	vertebrates
+T99	GO:0030097 1604 1617	Hematopoiesis
+T100	CL_GO_EXT:cell 1656 1660	cell
+T101	CL_GO_EXT:cell 1656 1660	cell
+T102	GO:0008283 1656 1674	cell proliferation
+T103	GO:0030154 1679 1697;1738 1743	differentiation of ... cells
+T104	CL_GO_EXT:cell 1738 1743	cells
+T105	CL_GO_EXT:cell 1738 1743	cells
+T106	CL:0000080 1761 1772;1793 1798	circulating ... cells
+T107	CL:0000232 1773 1776;1787 1798	red ... blood cells
+T108	CL:0000738 1781 1798	white blood cells
+T109	UBERON:0000178 1787 1792	blood
+T110	CL_GO_EXT:cell 1793 1798	cells
+T111	GO:0030097 1822 1835	Hematopoiesis
+T112	NCBITaxon:7742 1839 1850	vertebrates
+T113	NCBITaxon:7955 1857 1866	zebrafish
+T114	NCBITaxon:9606 1870 1876	humans
+T115	SO_EXT:biological_conservation_process_or_quality 1884 1908	evolutionarily conserved
+T116	CL:0000034 1944 1948;1963 1968	stem ... cells
+T117	CL_GO_EXT:cell 1963 1968	cells
+T118	UBERON:0000922 1995 2004	embryonic
+T119	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 2036 2050	differentiated
+T120	UBERON:0000178 2051 2056	blood
+T121	CL:0000081 2051 2062	blood cells
+T122	CL_GO_EXT:cell 2057 2062	cells
+T123	GO:0030097 2172 2185	hematopoiesis
+T124	UBERON:2000083 2202 2218	ventral mesoderm
+T125	CL_GO_EXT:cell 2248 2253	cells
+T126	CL_GO_EXT:cell 2248 2253	cells
+T127	GO_RO_EXT:developmental_differentiation_process 2259 2272	differentiate
+T128	UBERON:0000922 2276 2285	embryonic
+T129	UBERON:0003061 2286 2299	blood islands
+T130	GO:0030097 2323 2336	hematopoiesis
+T131	UBERON:0000922 2357 2366	embryonic
+T132	CL:0000232 2367 2379	erythrocytes
+T133	CL:0000235 2384 2395	macrophages
+T134	GO:0030097 2432 2445	hematopoiesis
+T135	CL:0000034 2472 2482	stem cells
+T136	CL_GO_EXT:cell 2477 2482	cells
+T137	UBERON:0000922 2518 2527	embryonic
+T138	UBERON:0000947 2528 2533	aorta
+T139	UBERON:0000991 2534 2539	gonad
+T140	UBERON:0000080 2540 2551	mesonephros
+T141	GO:0060216 2566 2590	definitive hematopoietic
+T142	CL:0000037 2577 2601	hematopoietic stem cells
+T143	CL_GO_EXT:cell 2596 2601	cells
+T144	UBERON:0007023 2670 2675	adult
+T145	UBERON:0000178 2676 2681	blood
+T146	CL:0000081 2676 2687	blood cells
+T147	CL_GO_EXT:cell 2682 2687	cells
+T148	CL:0000232 2710 2722	erythrocytes
+T149	CL:0000763 2724 2737	myeloid cells
+T150	CL_GO_EXT:cell 2732 2737	cells
+T151	CL:0000542 2743 2754	lymphocytes
+T152	SO_EXT:0000704 2778 2785	genetic
+T153	SO_EXT:0000704 2811 2816	genes
+T154	GO:0065007 2822 2829	control
+T155	GO:0030097 2830 2843	hematopoiesis
+T156	NCBITaxon:7955 2854 2863	zebrafish
+T157	SO_EXT:0000704 2938 2945	genetic
+T158	UBERON:0000178 2979 2984	blood
+T159	NCBITaxon:7955 2989 2998	zebrafish
+T160	SO_EXT:sequence_altered_entity 2999 3006	mutants
+T161	GO:0010467 3022 3029	express
+T162	CL:0000764 3034 3043	erythroid
+T163	GO_EXT:transcription 3044 3057	transcription
+T164	GO_EXT:transcription_factor 3044 3064	transcription factor
+T165	PR_EXT:000007857 3065 3070	gata1
+T166	UBERON:0000922 3083 3092	embryonic
+T167	GO:0035162 3083 3106	embryonic hematopoietic
+T168	NCBITaxon:7955 3162 3171	zebrafish
+T169	SO_EXT:0000704 3172 3177	genes
+T170	PR_EXT:Q6E2N3 3178 3187	moonshine
+T171	PR_EXT:Q6E2N3 3189 3192	mon
+T172	SO_EXT:0001023 3238 3244	allele
+T173	SO_EXT:sequence_alteration_entity_or_process 3309 3318	mutations
+T174	PR_EXT:Q6E2N3 3326 3329	mon
+T175	SO_EXT:0000704 3330 3334	gene
+T176	GO:0060215 3362 3381;3403 3416	primitive embryonic ... hematopoiesis
+T177	UBERON:0000922 3372 3381	embryonic
+T178	GO:0060216 3386 3396;3403 3416	definitive ... hematopoiesis
+T179	UBERON:0007023 3397 3402	adult
+T180	CL:0000764 3448 3463	erythroid cells
+T181	CL_GO_EXT:cell 3458 3463	cells
+T182	CL:0000038 3465 3491	Erythroid progenitor cells
+T183	CL_GO_EXT:cell 3486 3491	cells
+T184	PR_EXT:Q6E2N3 3495 3498	mon
+T185	SO_EXT:sequence_altered_entity 3499 3506	mutants
+T186	GO:0010467 3542 3549	express
+T187	GO:0030097 3567 3580	hematopoietic
+T188	GO_EXT:transcription 3581 3594	transcription
+T189	GO_EXT:transcription_factor 3581 3602	transcription factors
+T190	GO:0006915 3615 3624	apoptosis
+T191	SO_EXT:sequence_cloning_process 3638 3645	cloning
+T192	PR_EXT:Q6E2N3 3661 3664	mon
+T193	SO_EXT:0000704 3665 3669	gene
+T194	NCBITaxon:7955 3677 3686	zebrafish
+T195	SO_EXT:0000855 3687 3695	ortholog
+T196	NCBITaxon:40674 3699 3708	mammalian
+T197	GO_EXT:transcription 3709 3724	transcriptional
+T198	PR_EXT:000016655 3709 3747	transcriptional intermediary factor 1γ
+T199	PR_EXT:000016655 3749 3754	TIF1γ
+T200	PR_EXT:TIF1 3773 3777	TIF1
+T201	GO_EXT:transcription 3788 3803	transcriptional
+T202	GO_EXT:0003713 3788 3816	transcriptional coactivators
+T203	GO_EXT:0003714 3788 3803;3821 3833	transcriptional ... corepressors
+T204	NCBITaxon:7742 3965 3975	vertebrate
+T205	PR_EXT:TIF1 3976 3980	TIF1
+T206	PR_EXT:000016649 3989 3990	α
+T207	PR_EXT:000016652 3992 3993	β
+T208	PR_EXT:000016655 3999 4000	γ
+T209	GO:0005634 4012 4019	nuclear
+T210	CHEBI_PR_EXT:protein 4020 4028	proteins
+T211	CHEBI_PR_EXT:protein 4020 4028	proteins
+T212	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 4050 4060	N-terminal
+T213	CHEBI_SO_EXT:N_terminus_or_N_terminal_region 4050 4060	N-terminal
+T214	SO_EXT:0000417 4074 4080	domain
+T215	SO_EXT:0001080 4149 4160	coiled-coil
+T216	SO_EXT:0000417 4161 4167	domain
+T217	PR_EXT:TIF1 4169 4173	TIF1
+T218	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 4204 4214	C-terminal
+T219	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 4204 4214	C-terminal
+T220	NCBITaxon:3193 4215 4220	plant
+T221	GO:0000785 4283 4292	chromatin
+T222	GO:0006338 4283 4303	chromatin remodeling
+T223	PR_EXT:000016649 4313 4318	TIF1α
+T224	CHEBI_GO_EXT:ligand 4365 4371	ligand
+T225	CHEBI_GO_EXT:ligand 4365 4371	ligand
+T226	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4372 4377	bound
+T227	GO:0005634 4378 4385	nuclear
+T228	CHEBI_GO_EXT:hormone 4386 4393	hormone
+T229	CHEBI_GO_EXT:hormone 4386 4393	hormone
+T230	GO_EXT:0004872 4394 4403	receptors
+T231	CHEBI:26536 4463 4476	retinoic acid
+T232	GO_EXT:0003708 4463 4486	retinoic acid receptors
+T233	PR_EXT:000016652 4507 4512	TIF1β
+T234	SO_EXT:0000417 4606 4612	domain
+T235	CHEBI_EXT:zinc 4613 4617	zinc
+T236	GO_EXT:transcription 4625 4638	transcription
+T237	GO_EXT:transcription_factor 4625 4646	transcription factors
+T238	PR_EXT:000016655 4704 4709	TIF1γ
+T239	GO:0005634 4750 4757	nuclear
+T240	GO_EXT:0004872 4758 4767	receptors
+T241	SO_EXT:0000417 4776 4783	domains
+T242	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 4789 4793	bind
+T243	PR_EXT:TIF1 4807 4811	TIF1
+T244	CHEBI_EXT:biochemical 4872 4883	Biochemical
+T245	PR_EXT:000016655 4914 4919	TIF1γ
+T246	GO_EXT:oligomeric_macromolecular_complex 4936 4945	oligomers
+T247	GO_EXT:oligomeric_macromolecular_complex 4957 4966	oligomers
+T248	PR_EXT:000016649 4972 4977	TIF1α
+T249	PR_EXT:000016652 4991 4996	TIF1β
+T250	NCBITaxon:39107 5021 5027	murine
+T251	PR_EXT:000016649 5028 5033	Tif1α
+T252	PR_EXT:000016655 5038 5043	Tif1γ
+T253	SO_EXT:0000704 5044 5049	genes
+T254	SO_EXT:0000704 5081 5085	gene
+T255	NCBITaxon:10088 5129 5134	mouse
+T256	SO_EXT:sequence_altered_entity 5135 5142	mutants
+T257	PR_EXT:000016652 5161 5166	Tif1β
+T258	GO:0007566 5187 5199	implantation
+T259	GO:0009790 5200 5213	embryogenesis
+T260	UBERON:0000926 5218 5226	mesoderm
+T261	PR_EXT:TIF1 5336 5340	TIF1
+T262	CHEBI_SO_EXT:DNA 5367 5370	DNA
+T263	CHEBI_SO_EXT:DNA 5367 5370	DNA
+T264	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 5371 5378	binding
+T265	CHEBI_PR_EXT:protein 5379 5387	proteins
+T266	CHEBI_PR_EXT:protein 5379 5387	proteins
+T267	PR_EXT:000016655 5476 5481	tif1γ
+T268	GO_EXT:regulator 5508 5517	regulator
+T269	UBERON:0000922 5521 5530	embryonic
+T270	GO:0035162 5521 5530;5541 5554	embryonic ... hematopoiesis
+T271	UBERON:0007023 5535 5540	adult
+T272	NCBITaxon:7742 5558 5569	vertebrates
+T273	CL_GO_EXT:cell 5571 5575	Cell
+T274	CL_GO_EXT:cell 5571 5575	Cell
+T275	PR_EXT:000016655 5617 5622	tif1γ
+T276	CL_GO_EXT:cell 5633 5637	cell
+T277	CL_GO_EXT:cell 5633 5637	cell
+T278	UBERON:0000922 5663 5672	embryonic
+T279	GO:0035162 5663 5686	embryonic hematopoiesis
+T280	PR_EXT:000016655 5692 5697	tif1γ
+T281	SO_EXT:0000704 5698 5702	gene
+T282	GO:0010467 5706 5715	expressed
+T283	UBERON:2000083 5732 5748	ventral mesoderm
+T284	GO:0030097 5753 5766	hematopoietic
+T285	GO_EXT:negative_regulation 5785 5798	downregulated
+T286	CL:0000764 5802 5811	erythroid
+T287	GO_PATO_EXT:biological_maturation 5812 5822	maturation
+T288	PR_EXT:000016655 5831 5836	Tif1γ
+T289	CHEBI_PR_EXT:protein 5837 5844	protein
+T290	CHEBI_PR_EXT:protein 5837 5844	protein
+T291	GO_PATO_EXT:biological_localization_process_or_quality 5845 5854	localizes
+T292	GO:0016604 5875 5889	nuclear bodies
+T293	NCBITaxon:10088 5906 5911	mouse
+T294	UBERON:0000922 5912 5918	embryo
+T295	CL:0000057 5919 5930	fibroblasts
+T296	CL_GO_EXT:cell 5951 5955	cell
+T297	CL_GO_EXT:cell 5951 5955	cell
+T298	PR_EXT:000016655 6008 6013	Tif1γ
+T299	CL:0000764 6037 6051	erythroid cell
+T300	CL_GO_EXT:cell 6047 6051	cell
+T301	GO:0048468 6047 6063	cell development
+T302	NCBITaxon:7955 6092 6101	Zebrafish
+T303	PR_EXT:Q6E2N3 6102 6105	mon
+T304	SO_EXT:0000704 6106 6110	Gene
+T305	GO:0060319 6133 6142;6158 6172	Primitive ... Erythropoiesis
+T306	GO:0060318 6147 6172	Definitive Erythropoiesis
+T307	PR_EXT:Q6E2N3 6205 6208	mon
+T308	SO_EXT:0000704 6209 6213	gene
+T309	GO:0030097 6260 6273	hematopoietic
+T310	SO_EXT:0000704 6274 6278	gene
+T311	GO:0010467 6274 6289	gene expression
+T312	GO:0006915 6294 6303	apoptosis
+T313	NCBITaxon:7955 6307 6316	zebrafish
+T314	PR_EXT:Q6E2N3 6328 6331	mon
+T315	SO_EXT:sequence_altered_entity_or_alteration_process 6332 6338	mutant
+T316	UBERON:0000922 6339 6346	embryos
+T317	GO:0009790 6355 6368	embryogenesis
+T318	NCBITaxon:7955 6381 6390	zebrafish
+T319	PR_EXT:Q6E2N3 6391 6394	mon
+T320	SO_EXT:sequence_altered_entity 6395 6402	mutants
+T321	CL:0000232 6411 6426	red blood cells
+T322	UBERON:0000178 6415 6420	blood
+T323	CL_GO_EXT:cell 6421 6426	cells
+T324	CL:0000232 6428 6432	RBCs
+T325	PR_EXT:Q6E2N3 6506 6509	mon
+T326	SO_EXT:sequence_altered_entity 6510 6517	mutants
+T327	GO:0010467 6527 6537	expression
+T328	PR_EXT:000007857 6541 6546	gata1
+T329	GO:0030097 6550 6563	hematopoietic
+T330	CL:0000988 6550 6569	hematopoietic cells
+T331	CL_GO_EXT:cell 6564 6569	cells
+T332	UBERON:0002329 6586 6592	somite
+T333	SO_EXT:wild_type_entity_or_quality 6611 6620	wild-type
+T334	UBERON:0000922 6621 6628	embryos
+T335	GO_RO_EXT:developmental_differentiation_process 6685 6700	differentiating
+T336	CL:0000764 6701 6716	erythroid cells
+T337	CL_GO_EXT:cell 6711 6716	cells
+T338	GO:0012501 6725 6746	programmed cell death
+T339	CL_GO_EXT:cell 6736 6740	cell
+T340	CL_GO_EXT:cell 6736 6740	cell
+T341	UBERON:0002329 6759 6765	somite
+T342	GO:0009566 6784 6797	fertilization
+T343	UBERON:0002329 6838 6845	somites
+T344	PR_EXT:000007857 6847 6852	gata1
+T345	GO:0010467 6853 6863	expression
+T346	GO:0030097 6904 6917	hematopoietic
+T347	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 6927 6934	markers
+T348	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 6927 6934	markers
+T349	PR_EXT:000007857 6943 6948	gata1
+T350	PR_EXT:000016043 6950 6953	scl
+T351	PR_EXT:000007858 6955 6960	gata2
+T352	PR_EXT:000001811 6966 6972	ikaros
+T353	UBERON:0000922 6997 7006	embryonic
+T354	UBERON:0003061 7007 7019	blood island
+T355	GO:0030097 7062 7075	hematopoietic
+T356	CL:0000988 7062 7081	hematopoietic cells
+T357	CL_GO_EXT:cell 7076 7081	cells
+T358	GO:0009790 7128 7142;7154 7161	development of ... embryos
+T359	PR_EXT:Q6E2N3 7143 7146	mon
+T360	SO_EXT:sequence_altered_entity_or_alteration_process 7147 7153	mutant
+T361	UBERON:0000922 7154 7161	embryos
+T362	CL_GO_EXT:cell 7192 7196	cell
+T363	CL_GO_EXT:cell 7192 7196	cell
+T364	GO:0008219 7192 7202	cell death
+T365	GO:0010467 7213 7223	expression
+T366	PR_EXT:000010799 7227 7232	c-myb
+T367	PR_EXT:000003457 7237 7241	rag1
+T368	PR_EXT:Q6E2N3 7263 7266	mon
+T369	SO_EXT:sequence_altered_entity 7267 7274	mutants
+T370	CL:0000763 7287 7294	myeloid
+T371	CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue 7299 7307	lymphoid
+T372	CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue 7299 7307	lymphoid
+T373	CL:0000232 7365 7369	RBCs
+T374	PR_EXT:Q6E2N3 7373 7376	mon
+T375	SO_EXT:sequence_altered_entity 7377 7384	mutants
+T376	UBERON:0008897 7415 7418	fin
+T377	UBERON:0002415 7428 7432	tail
+T378	UBERON:0003104 7433 7443	mesenchyme
+T379	PR_EXT:Q6E2N3 7484 7487	mon
+T380	SO_EXT:sequence_altered_entity 7488 7495	mutants
+T381	GO:0097152 7519 7549	apoptosis of mesenchymal cells
+T382	UBERON:0003104 7532 7543	mesenchymal
+T383	CL:0000134 7532 7549	mesenchymal cells
+T384	CL_GO_EXT:cell 7544 7549	cells
+T385	UBERON:0002100 7557 7562	trunk
+T386	UBERON:0002533 7567 7575	tail bud
+T387	PR_EXT:Q6E2N3 7616 7619	mon
+T388	SO_EXT:0000704 7620 7624	gene
+T389	GO:0048468 7653 7664;7678 7680;7717 7722	development ... of ... cells
+T390	GO:0014031 7653 7664;7678 7680;7737 7754	development ... of ... mesenchymal cells
+T391	CL:0000038 7696 7722	erythroid progenitor cells
+T392	CL_GO_EXT:cell 7717 7722	cells
+T393	UBERON:0003104 7737 7748	mesenchymal
+T394	CL:0000134 7737 7754	mesenchymal cells
+T395	CL_GO_EXT:cell 7749 7754	cells
+T396	GO:0060216 7774 7798	definitive hematopoiesis
+T397	UBERON:0007023 7828 7833	adult
+T398	NCBITaxon:7955 7834 7843	zebrafish
+T399	PR_EXT:Q6E2N3 7844 7847	mon
+T400	SO_EXT:sequence_altered_entity 7848 7855	mutants
+T401	SO_EXT:sequence_alteration_entity_or_process 7857 7866	Mutations
+T402	PR_EXT:Q6E2N3 7870 7873	mon
+T403	GO_EXT:fatality_or_lethality 7888 7894	lethal
+T404	PR_EXT:Q6E2N3 7960 7963	mon
+T405	SO_EXT:sequence_altered_entity 7975 7982	mutants
+T406	UBERON:0000178 8007 8012	blood
+T407	UBERON:0000922 8017 8024	embryos
+T408	SO_EXT:0001023 8040 8047	alleles
+T409	UBERON:0000113 8059 8068	adulthood
+T410	UBERON:0007023 8070 8075	Adult
+T411	PR_EXT:Q6E2N3 8076 8079	mon
+T412	SO_EXT:sequence_altered_entity 8080 8087	mutants
+T413	UBERON:0000948 8093 8100	cardiac
+T414	SO_EXT:wild_type_entity_or_quality 8196 8205	wild-type
+T415	NCBITaxon:7955 8206 8215	zebrafish
+T416	UBERON:0007023 8221 8226	adult
+T417	GO:0030097 8235 8248	hematopoiesis
+T418	UBERON:0002113 8256 8262	kidney
+T419	CL:0000764 8305 8314	erythroid
+T420	CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue 8316 8324	lymphoid
+T421	CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue 8316 8324	lymphoid
+T422	CL:0000763 8330 8337	myeloid
+T423	GO_RO_EXT:developmental_differentiation_process 8371 8386	differentiation
+T424	PR_EXT:Q6E2N3 8413 8416	mon
+T425	SO_EXT:sequence_altered_entity 8428 8435	mutants
+T426	GO_PATO_EXT:biological_maturation 8464 8474	maturation
+T427	CL:0000547 8482 8497	proerythroblast
+T428	GO:0030154 8528 8546;8555 8560	differentiation of ... cells
+T429	CL:0000763 8547 8560	myeloid cells
+T430	CL_GO_EXT:cell 8555 8560	cells
+T431	PR_EXT:Q6E2N3 8618 8621	mon
+T432	SO_EXT:gene_product 8622 8634	gene product
+T433	GO:0060319 8652 8661;8677 8691	primitive ... erythropoiesis
+T434	GO:0060318 8666 8691	definitive erythropoiesis
+T435	SO_EXT:sequence_cloning_process 8705 8712	Cloning
+T436	PR_EXT:Q6E2N3 8724 8727	mon
+T437	NCBITaxon:7955 8735 8744	Zebrafish
+T438	SO_EXT:0000855 8745 8753	Ortholog
+T439	NCBITaxon:40674 8757 8766	Mammalian
+T440	PR_EXT:000016655 8767 8772	TIF1γ
+T441	PR_EXT:Q6E2N3 8792 8795	mon
+T442	SO_EXT:0000704 8796 8800	gene
+T443	SO_EXT:sequence_cloning_process 8815 8822	cloning
+T444	SO_EXT:sequence_altered_entity 8854 8861	mutants
+T445	PR_EXT:Q6E2N3 8941 8944	mon
+T446	SO_EXT:0001023 8950 8956	allele
+T447	PR_EXT:Q6E2N3 8962 8965	mon
+T448	SO_EXT:sequence_altered_entity_or_alteration_process 8966 8972	mutant
+T449	SO_EXT:0000704 8973 8977	gene
+T450	GO_SO_EXT:chromosome 8996 9006	Chromosome
+T451	GO_SO_EXT:chromosome 8996 9006	Chromosome
+T452	SO_EXT:microsatellite_unit_or_region 9017 9031	microsatellite
+T453	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9032 9039	markers
+T454	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9032 9039	markers
+T455	SO_EXT:sequence_cloning_process 9105 9112	cloning
+T456	SO_EXT:polymorphism 9135 9146	polymorphic
+T457	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9147 9154	markers
+T458	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9147 9154	markers
+T459	SO_EXT:0001830 9175 9213	amplified fragment length polymorphism
+T460	SO_EXT:0001830 9215 9219	AFLP
+T461	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9251 9258	markers
+T462	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9251 9258	markers
+T463	SO_EXT:0000704 9345 9349	gene
+T464	GO_SO_EXT:chromosome 9406 9417	chromosomal
+T465	GO_SO_EXT:chromosome 9406 9417	chromosomal
+T466	SO_EXT:0000154 9435 9469	P1 bacterial artificial chromosome
+T467	NCBITaxon:2 9438 9447	bacterial
+T468	GO_SO_EXT:chromosome 9459 9469	chromosome
+T469	SO_EXT:sequence_cloned_entity 9470 9475	clone
+T470	SO_EXT:0000154 9477 9480	PAC
+T471	SO_EXT:0000704 9521 9528	genetic
+T472	SO_EXT:biological_sequence 9550 9558	sequence
+T473	SO_EXT:polymorphism 9572 9584	polymorphism
+T474	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9592 9599	markers
+T475	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9592 9599	markers
+T476	SO_EXT:0000154 9614 9617	PAC
+T477	SO_EXT:sequence_cloned_entity 9618 9623	clone
+T478	SO:0000357 9624 9629	flank
+T479	SO_EXT:0000704 9643 9650	genetic
+T480	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9665 9671	marker
+T481	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9665 9671	marker
+T482	SO_EXT:sequence_recombinant_entity 9690 9702	recombinants
+T483	GO:0007126 9716 9723	meioses
+T484	GO_SO_EXT:telomere_or_telomeric_region_or_telomeric_orientation 9724 9733	telomeric
+T485	GO_SO_EXT:telomere_or_telomeric_region_or_telomeric_orientation 9724 9733	telomeric
+T486	SO_EXT:sequence_alteration_entity_or_process 9741 9749	mutation
+T487	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9759 9765	marker
+T488	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9759 9765	marker
+T489	SO_EXT:sequence_recombinant_entity 9785 9796	recombinant
+T490	GO_SO_EXT:centromere_or_centromeric_region_or_centromeric_orientation 9797 9806	centromic
+T491	SO_EXT:sequence_alteration_entity_or_process 9814 9822	mutation
+T492	SO_EXT:biological_sequence 9844 9853	sequences
+T493	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9863 9870	markers
+T494	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 9863 9870	markers
+T495	SO_EXT:0000154 9874 9877	PAC
+T496	NCBITaxon:7955 9902 9911	zebrafish
+T497	SO_EXT:0001026 9912 9919	genomic
+T498	SO_EXT:biological_sequence 9920 9928	sequence
+T499	SO_EXT:0000149 9929 9935	contig
+T500	SO_EXT:0000996 9996 10005;10028 10032	predicted ... gene
+T501	NCBITaxon:7955 10006 10015	zebrafish
+T502	PR_EXT:TIF1 10016 10020	TIF1
+T503	SO_EXT:0000154 10039 10042	PAC
+T504	GO:0097617 10047 10057	hybridized
+T505	UBERON:0002113 10063 10069	kidney
+T506	SO_EXT:cDNA 10070 10074	cDNA
+T507	SO_EXT:sequence_cloned_entity 10119 10125	clones
+T508	SO_EXT:0000704 10152 10156	gene
+T509	PR_EXT:Q6E2N3 10163 10166	mon
+T510	SO_EXT:0000704 10167 10171	gene
+T511	SO_EXT:sequence_coding_function 10172 10179	encodes
+T512	PR_EXT:TIF1 10196 10200	TIF1
+T513	GO_EXT:transcription 10211 10226	transcriptional
+T514	GO_EXT:0003712 10211 10236	transcriptional cofactors
+T515	CHEBI_EXT:23357 10227 10236	cofactors
+T516	SO_EXT:coding_sequence 10261 10276	coding sequence
+T517	PR_EXT:Q6E2N3 10280 10283	mon
+T518	NCBITaxon:9606 10303 10308	human
+T519	PR_EXT:000016655 10309 10313	TIFγ
+T520	SO_EXT:0000333 10406 10421	exon boundaries
+T521	SO_EXT:biological_conservation_process_or_quality 10426 10435	conserved
+T522	NCBITaxon:7955 10448 10457	zebrafish
+T523	NCBITaxon:9606 10462 10467	human
+T524	SO_EXT:0000704 10468 10473	genes
+T525	PR_EXT:Q6E2N3 10498 10501	mon
+T526	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 10502 10510;10521 10531	locus on ... Chromosome
+T527	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 10502 10510;10521 10531	locus on ... Chromosome
+T528	NCBITaxon:7955 10511 10520	zebrafish
+T529	SO:0000860 10558 10566	syntenic
+T530	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 10574 10583;10590 10600	region of ... Chromosome
+T531	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 10574 10583;10590 10600	region of ... Chromosome
+T532	NCBITaxon:9606 10584 10589	human
+T533	PR_EXT:000016655 10622 10627	TIF1γ
+T534	SO_EXT:0000704 10628 10632	gene
+T535	SO_EXT:biological_conservation_process_or_quality 10646 10655	conserved
+T536	SO:0000858 10678 10689	orthologous
+T537	SO_EXT:0000704 10690 10694	gene
+T538	PR_EXT:000011416 10712 10716	NRAS
+T539	NCBITaxon:9606 10745 10750	human
+T540	NCBITaxon:7955 10755 10764	zebrafish
+T541	SO_EXT:biological_sequence 10809 10817	sequence
+T542	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 10833 10853	chromosomal location
+T543	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 10833 10853	chromosomal location
+T544	NCBITaxon:7955 10859 10868	zebrafish
+T545	PR_EXT:Q6E2N3 10869 10872	mon
+T546	SO_EXT:0000704 10873 10877	gene
+T547	SO_EXT:0000855 10892 10900	ortholog
+T548	NCBITaxon:9606 10908 10913	human
+T549	PR_EXT:000016655 10914 10919	TIF1γ
+T550	SO_EXT:0000704 10920 10924	gene
+T551	CHEBI:23995 10946 10963	ethyl-nitrosourea
+T552	CHEBI:23995 10965 10968	ENU
+T553	SO_EXT:point_mutation_entity_or_process 10978 10993	point mutations
+T554	SO_EXT:0001023 11003 11010	alleles
+T555	PR_EXT:Q6E2N3 11014 11017	mon
+T556	SO_EXT:0001587 11064 11084	premature stop codon
+T557	PR_EXT:Q6E2N3 11090 11093	mon
+T558	PR_EXT:Q6E2N3 11104 11107	mon
+T559	SO_EXT:0001023 11113 11120	alleles
+T560	CL:0000080 11153 11164;11171 11176	circulating ... cells
+T561	UBERON:0000178 11165 11170	blood
+T562	CL:0000081 11165 11176	blood cells
+T563	CL_GO_EXT:cell 11171 11176	cells
+T564	PR_EXT:Q6E2N3 11195 11198	mon
+T565	SO_EXT:0001023 11203 11209	allele
+T566	CL:0000080 11221 11232;11239 11244	circulating ... cells
+T567	UBERON:0000178 11233 11238	blood
+T568	CL:0000081 11233 11244	blood cells
+T569	CL_GO_EXT:cell 11239 11244	cells
+T570	CL:0000232 11297 11301	RBCs
+T571	SO_EXT:wild_type_entity_or_quality 11324 11333	wild-type
+T572	UBERON:0000922 11350 11357	embryos
+T573	PR_EXT:Q6E2N3 11386 11389	mon
+T574	SO_EXT:0001023 11394 11400	allele
+T575	SO_EXT:sequence_coding_function 11414 11420	encode
+T576	SO_EXT:0001587 11423 11443	premature stop codon
+T577	SO_EXT:sequence_coding_function 11473 11479	encode
+T578	CHEBI_PR_EXT:protein 11491 11498	protein
+T579	CHEBI_PR_EXT:protein 11491 11498	protein
+T580	CHEBI_SO_EXT:amino_acid 11510 11521	amino acids
+T581	CHEBI_SO_EXT:amino_acid 11510 11521	amino acids
+T582	SO_EXT:sequence_alteration_entity_or_process 11537 11545	mutation
+T583	PR_EXT:Q6E2N3 11594 11597	mon
+T584	SO_EXT:gene_product 11598 11610	gene product
+T585	CHEBI_SO_EXT:methionine 11620 11630	methionine
+T586	CHEBI_SO_EXT:methionine 11620 11630	methionine
+T587	SO_EXT:sequence_downstreamness 11640 11650	downstream
+T588	CHEBI_SO_EXT:amino_acid 11654 11664	amino acid
+T589	CHEBI_SO_EXT:amino_acid 11654 11664	amino acid
+T590	GO:0006412 11688 11699	translation
+T591	CL:0000558 11715 11727	reticulocyte
+T592	GO:0006412 11764 11775	translation
+T593	CHEBI_SO_EXT:methionine 11786 11796	methionine
+T594	CHEBI_SO_EXT:methionine 11786 11796	methionine
+T595	UBERON:0002548 11844 11850	larval
+T596	PR_EXT:Q6E2N3 11868 11871	mon
+T597	SO_EXT:0001023 11876 11882	allele
+T598	PR_EXT:Q6E2N3 11916 11919	mon
+T599	GO:0010467 11932 11942	expression
+T600	SO_EXT:sequence_alteration_entity_or_process 11960 11969	mutations
+T601	PR_EXT:Q6E2N3 11985 11988	mon
+T602	SO_EXT:0001023 11989 11996	alleles
+T603	PR_EXT:000016655 12022 12027	Tif1γ
+T604	PR_EXT:Q6E2N3 12057 12060	mon
+T605	PR_EXT:000016655 12103 12108	tif1γ
+T606	GO:0010467 12112 12121	expressed
+T607	GO:0030097 12125 12138	hematopoietic
+T608	UBERON:0000926 12139 12147	mesoderm
+T609	NCBITaxon:7955 12166 12175	zebrafish
+T610	UBERON:0000922 12176 12183	embryos
+T611	GO:0097617 12207 12220	hybridization
+T612	PR_EXT:000016655 12234 12239	tif1γ
+T613	CHEBI_SO_EXT:mRNA 12240 12244	mRNA
+T614	CHEBI_SO_EXT:mRNA 12240 12244	mRNA
+T615	GO:0010467 12248 12257	expressed
+T616	UBERON:0000922 12297 12303	embryo
+T617	UBERON:0000108 12311 12326	blastula stages
+T618	GO:0007369 12335 12347	gastrulation
+T619	GO:0090504 12352 12359	epiboly
+T620	CL:0000365 12368 12375	zygotic
+T621	GO:0010467 12376 12386	expression
+T622	PR_EXT:Q6E2N3 12390 12393	mon
+T623	UBERON:0002541 12431 12440	germ ring
+T624	UBERON:0002533 12445 12453	tail bud
+T625	UBERON:0002329 12464 12470	somite
+T626	PR_EXT:000016655 12494 12499	tif1γ
+T627	GO:0010467 12500 12510	expression
+T628	UBERON:2000083 12555 12562;12571 12579	ventral ... mesoderm
+T629	UBERON:0003081 12563 12579	lateral mesoderm
+T630	UBERON:0000178 12603 12608	blood
+T631	GO:0010467 12618 12627	expresses
+T632	CL:0000034 12628 12637	stem cell
+T633	PR_EXT:000016043 12628 12680	stem cell leukemiahematopoietic transcription factor
+T634	CL_GO_EXT:cell 12633 12637	cell
+T635	GO:0030097 12646 12659	hematopoietic
+T636	GO_EXT:transcription 12660 12673	transcription
+T637	GO_EXT:transcription_factor 12660 12680	transcription factor
+T638	PR_EXT:000016043 12682 12685	scl
+T639	UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population 12712 12726	group of cells
+T640	CL_GO_EXT:cell 12721 12726	cells
+T641	CL_GO_EXT:cell 12721 12726	cells
+T642	GO:0010467 12740 12747	express
+T643	PR_EXT:000016655 12748 12753	tif1γ
+T644	PR_EXT:000016043 12758 12761	scl
+T645	UBERON:0000922 12795 12804	embryonic
+T646	UBERON:0003061 12805 12817	blood island
+T647	PR_EXT:000016655 12845 12850	tif1γ
+T648	SO_EXT:0000704 12851 12855	gene
+T649	GO:0010467 12871 12880	expressed
+T650	UBERON:0001017 12888 12910	central nervous system
+T651	UBERON:0005256 12926 12939;12944 12949	mesenchyme of ... trunk
+T652	UBERON:0002415 12954 12958	tail
+T653	PR_EXT:Q6E2N3 12971 12974	mon
+T654	SO_EXT:sequence_altered_entity 12980 12987	mutants
+T655	PR_EXT:000016655 13021 13026	tif1γ
+T656	CHEBI_SO_EXT:mRNA 13027 13031	mRNA
+T657	CHEBI_SO_EXT:mRNA 13027 13031	mRNA
+T658	UBERON:0000479 13039 13046	tissues
+T659	SO_EXT:nonsense_quality_or_entity 13063 13071	nonsense
+T660	GO:0000184 13063 13094	nonsense-mediated message decay
+T661	SO_EXT:0000673 13081 13088	message
+T662	CHEBI:33695 13081 13088	message
+T663	NCBITaxon:7955 13102 13111	zebrafish
+T664	PR_EXT:000016655 13112 13117	tif1γ
+T665	GO:0010467 13134 13143	expressed
+T666	UBERON:2000083 13147 13163	ventral mesoderm
+T667	UBERON_EXT:embryonic_stage_or_stage_part 13216 13232	embryonic stages
+T668	GO:0030097 13238 13251	hematopoietic
+T669	GO:0006915 13279 13288	apoptosis
+T670	PR_EXT:Q6E2N3 13292 13295	mon
+T671	SO_EXT:sequence_altered_entity 13296 13303	mutants
+T672	GO:0010467 13326 13336	expression
+T673	NCBITaxon:7955 13340 13349	zebrafish
+T674	PR_EXT:Q6E2N3 13350 13353	mon
+T675	NCBITaxon:10088 13357 13362	mouse
+T676	PR_EXT:000016655 13363 13368	Tif1γ
+T677	NCBITaxon:10088 13389 13394	Mouse
+T678	PR_EXT:000016655 13395 13400	Tif1γ
+T679	GO:0010467 13411 13420	expressed
+T680	CL:0000764 13424 13433	erythroid
+T681	UBERON:0011919 13434 13450;13455 13463	blood islands of ... yolk sac
+T682	GO:0010467 13488 13497	expressed
+T683	UBERON:0002107 13511 13516	liver
+T684	UBERON:0000479 13547 13554	tissues
+T685	UBERON:0001017 13570 13592	central nervous system
+T686	NCBITaxon:7955 13645 13654	zebrafish
+T687	PR_EXT:Q6E2N3 13655 13658	mon
+T688	NCBITaxon:10088 13663 13668	mouse
+T689	PR_EXT:000016655 13669 13674	Tif1γ
+T690	SO_EXT:0000855 13679 13688	orthologs
+T691	GO:0030097 13710 13723	hematopoiesis
+T692	NCBITaxon:40674 13737 13746	mammalian
+T693	PR_EXT:000016655 13747 13752	TIF1γ
+T694	GO_EXT:oligomeric_macromolecular_complex 13783 13792	oligomers
+T695	PR_EXT:000016649 13798 13803	Tif1α
+T696	PR_EXT:TIF1 13851 13855	TIF1
+T697	NCBITaxon:7955 13874 13883	zebrafish
+T698	PR_EXT:000016655 13900 13905	tif1γ
+T699	NCBITaxon:7955 13913 13922	zebrafish
+T700	GO:0010467 13923 13932	expressed
+T701	SO_EXT:0000345 13923 13945	expressed sequence tag
+T702	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 13942 13945	tag
+T703	SO_EXT:0000345 13947 13950	EST
+T704	SO_EXT:biological_sequence 13952 13961	sequences
+T705	SO_EXT:0000112 13975 13982	primers
+T706	GO_EXT:reverse_transcription_or_reverse_transcriptase 13986 13988	RT
+T707	GO_EXT:reverse_transcription_or_reverse_transcriptase 13986 13988	RT
+T708	PR_EXT:TIF1 14003 14007	TIF1
+T709	SO_EXT:cDNA 14016 14020	cDNA
+T710	UBERON:0000922 14026 14035	embryonic
+T711	CHEBI_SO_EXT:RNA 14054 14057	RNA
+T712	CHEBI_SO_EXT:RNA 14054 14057	RNA
+T713	SO_EXT:cDNA 14064 14068	cDNA
+T714	SO_EXT:sequence_coding_function 14069 14076	encodes
+T715	NCBITaxon:7955 14089 14098	zebrafish
+T716	SO_EXT:0000855 14099 14107	ortholog
+T717	NCBITaxon:9606 14111 14116	human
+T718	PR_EXT:000016649 14117 14122	TIF1α
+T719	CHEBI_SO_EXT:amino_acid 14142 14152	amino acid
+T720	CHEBI_SO_EXT:amino_acid 14142 14152	amino acid
+T721	SO_EXT:biological_sequence 14153 14162	sequences
+T722	NCBITaxon:7955 14193 14202	zebrafish
+T723	PR_EXT:000016649 14203 14208	tif1α
+T724	SO_EXT:0000345 14209 14213	ESTs
+T725	SO:0000860 14253 14261	syntenic
+T726	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14269 14278;14285 14295	region of ... Chromosome
+T727	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 14269 14278;14285 14295	region of ... Chromosome
+T728	NCBITaxon:9606 14279 14284	human
+T729	PR_EXT:000016649 14316 14321	TIF1α
+T730	SO_EXT:0000704 14322 14326	gene
+T731	SO_EXT:biological_conservation_process_or_quality 14340 14349	conserved
+T732	SO:0000858 14375 14386	orthologous
+T733	SO_EXT:0000704 14387 14391	gene
+T734	PR_EXT:000014615 14409 14415	SEMA3A
+T735	NCBITaxon:9606 14444 14449	human
+T736	NCBITaxon:7955 14454 14463	zebrafish
+T737	UBERON:0000922 14509 14518	embryonic
+T738	GO:0010467 14519 14529	expression
+T739	PR_EXT:000016649 14541 14546	tif1α
+T740	CHEBI_SO_EXT:mRNA 14547 14551	mRNA
+T741	CHEBI_SO_EXT:mRNA 14547 14551	mRNA
+T742	PR_EXT:000016655 14555 14560	tif1γ
+T743	GO:0097617 14572 14585	hybridization
+T744	NCBITaxon:40674 14592 14601	mammalian
+T745	PR_EXT:000016649 14602 14607	TIF1α
+T746	SO_EXT:0000996 14665 14674;14691 14695	predicted ... gene
+T747	NCBITaxon:7955 14675 14684	zebrafish
+T748	PR_EXT:000016655 14685 14690	tif1γ
+T749	GO:0010467 14707 14716	expressed
+T750	UBERON:0002329 14742 14749	somites
+T751	NCBITaxon:7955 14751 14760	zebrafish
+T752	PR_EXT:000016649 14761 14766	tif1α
+T753	GO:0010467 14804 14814	expression
+T754	GO:0030097 14849 14862	hematopoietic
+T755	UBERON:0000926 14863 14871	mesoderm
+T756	PR_EXT:000016655 14882 14887	tif1γ
+T757	PR_EXT:000016649 14906 14911	tif1α
+T758	GO:0010467 14922 14931	expressed
+T759	UBERON:0000922 14955 14961	embryo
+T760	UBERON:0003061 14988 15001	blood islands
+T761	PR_EXT:000016649 15014 15019	tif1α
+T762	GO:0010467 15025 15034	expressed
+T763	CL_GO_EXT:cell 15047 15052	cells
+T764	CL_GO_EXT:cell 15047 15052	cells
+T765	PR_EXT:000016655 15058 15063	tif1γ
+T766	GO_EXT:oligomeric_macromolecular_complex 15110 15119	oligomers
+T767	GO:0010467 15137 15147	Expression
+T768	PR_EXT:000016655 15151 15156	tif1γ
+T769	SO_EXT:sequence_rescue_process 15157 15164	Rescues
+T770	GO:0030097 15165 15178	Hematopoiesis
+T771	PR_EXT:Q6E2N3 15182 15185	mon
+T772	SO_EXT:sequence_altered_entity 15186 15193	Mutants
+T773	SO_EXT:sequence_alteration_entity_or_process 15221 15229	mutation
+T774	NCBITaxon:7955 15237 15246	zebrafish
+T775	PR_EXT:000016655 15247 15252	tif1γ
+T776	SO_EXT:0000704 15253 15257	gene
+T777	PR_EXT:Q6E2N3 15281 15284	mon
+T778	SO_EXT:sequence_altered_entity_or_alteration_process 15285 15291	mutant
+T779	UBERON:0000922 15315 15321	embryo
+T780	SO_EXT:sequence_rescue_process 15322 15328	rescue
+T781	SO_EXT:wild_type_entity_or_quality 15391 15400	wild-type
+T782	PR_EXT:Q6E2N3 15401 15404	mon
+T783	CHEBI_SO_EXT:mRNA 15405 15409	mRNA
+T784	CHEBI_SO_EXT:mRNA 15405 15409	mRNA
+T785	CL_GO_EXT:cell 15421 15425	cell
+T786	CL_GO_EXT:cell 15421 15425	cell
+T787	SO_EXT:sequence_rescue_process 15432 15439	rescues
+T788	GO:0048821 15444 15456;15467 15479	formation of ... erythrocytes
+T789	UBERON:0000922 15457 15466	embryonic
+T790	CL:0000232 15467 15479	erythrocytes
+T791	SO_EXT:sequence_altered_entity_or_alteration_process 15493 15499	mutant
+T792	UBERON:0000922 15500 15507	embryos
+T793	UBERON:0000922 15543 15552	embryonic
+T794	GO:0048568 15543 15552;15567 15580	embryonic ... organogenesis
+T795	GO_PATO_EXT:biological_patterning_process_or_quality 15553 15563	patterning
+T796	PR_EXT:Q6E2N3 15621 15624	mon
+T797	SO_EXT:sequence_altered_entity 15630 15637	mutants
+T798	CL_GO_EXT:cell 15673 15678	cells
+T799	CL_GO_EXT:cell 15673 15678	cells
+T800	SO_EXT:wild_type_entity_or_quality 15698 15707	wild-type
+T801	CL_GO_EXT:cell 15726 15731	cells
+T802	CL_GO_EXT:cell 15726 15731	cells
+T803	SO_EXT:sequence_rescue_process 15733 15739	rescue
+T804	GO_EXT:hemoglobin_biosynthetic_process_or_import 15755 15769	hemoglobinized
+T805	CL:0000232 15770 15774	RBCs
+T806	SO_EXT:sequence_altered_entity 15808 15815	mutants
+T807	UBERON:0008897 15864 15867	fin
+T808	UBERON:0003104 15909 15920	mesenchymal
+T809	CL:0000134 15909 15926	mesenchymal cells
+T810	CL_GO_EXT:cell 15921 15926	cells
+T811	SO_EXT:sequence_rescue_process 15931 15938	rescued
+T812	GO:0010467 15997 16007	expression
+T813	PR_EXT:Q6E2N3 16011 16014	mon
+T814	UBERON:0000178 16042 16047	blood
+T815	CL:0000081 16042 16052	blood cell
+T816	CL_GO_EXT:cell 16048 16052	cell
+T817	SO_EXT:wild_type_entity_or_quality 16064 16073	wild-type
+T818	UBERON:0000922 16074 16081	embryos
+T819	SO_EXT:sequence_rescue_process 16114 16120	rescue
+T820	PR_EXT:Q6E2N3 16138 16141	mon
+T821	SO_EXT:sequence_altered_entity 16142 16149	mutants
+T822	UBERON:0000178 16210 16215	blood
+T823	UBERON:0000922 16235 16242	embryos
+T824	SO_EXT:sequence_rescue_process 16250 16256	rescue
+T825	PR_EXT:Q6E2N3 16282 16285	mon
+T826	GO:0030097 16332 16345	hematopoiesis
+T827	SO_EXT:sequence_rescue_process 16371 16378	Rescues
+T828	GO:0030218 16379 16393	Erythropoiesis
+T829	PR_EXT:Q6E2N3 16397 16400	mon
+T830	SO_EXT:sequence_altered_entity 16401 16408	Mutants
+T831	PR_EXT:000016655 16429 16434	tif1γ
+T832	GO:0010467 16435 16445	expression
+T833	CL:0000764 16449 16464	erythroid cells
+T834	CL_GO_EXT:cell 16459 16464	cells
+T835	CL_GO_EXT:cell 16496 16500	cell
+T836	CL_GO_EXT:cell 16496 16500	cell
+T837	GO_EXT:regulator 16512 16521	regulator
+T838	SO_EXT:0000704 16525 16529	gene
+T839	GO:0010467 16525 16540	gene expression
+T840	GO:0030097 16544 16557	hematopoietic
+T841	CL:0000988 16544 16563	hematopoietic cells
+T842	CL_GO_EXT:cell 16558 16563	cells
+T843	SO_EXT:wild_type_entity_or_quality 16615 16624	wild-type
+T844	UBERON:0007023 16625 16630	adult
+T845	NCBITaxon:7955 16631 16640	zebrafish
+T846	UBERON:0007132 16641 16654	kidney marrow
+T847	CL_GO_EXT:cell 16655 16660	cells
+T848	CL_GO_EXT:cell 16655 16660	cells
+T849	PR_EXT:000007857 16672 16677	gata1
+T850	CHEBI_PR_EXT:protein 16696 16703	protein
+T851	CHEBI_PR_EXT:protein 16696 16703	protein
+T852	SO_EXT:0000902 16710 16719	transgene
+T853	PR_EXT:Q6E2N3 16732 16735	mon
+T854	SO_EXT:sequence_altered_entity_or_alteration_process 16736 16742	mutant
+T855	UBERON:0000922 16743 16750	embryos
+T856	PR_EXT:000007857 16777 16782	gata1
+T857	SO_EXT:0000902 16787 16796	transgene
+T858	PR_EXT:000007857 16814 16819	gata1
+T859	SO_EXT:0000167 16820 16828	promoter
+T860	GO:0010467 16842 16852	expression
+T861	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 16877 16881	mark
+T862	CHEBI_SO_EXT:molecular_label_or_mark_or_tag_process 16877 16881	mark
+T863	CL:0000764 16896 16911	erythroid cells
+T864	CL_GO_EXT:cell 16906 16911	cells
+T865	SO_EXT:sequence_altered_entity_or_alteration_process 16947 16953	mutant
+T866	UBERON:0000922 16954 16961	embryos
+T867	UBERON:0000922 16970 16979	embryonic
+T868	CL:0002321 16970 16979;16986 16991	embryonic ... cells
+T869	UBERON:0000178 16980 16985	blood
+T870	CL:0000081 16980 16991	blood cells
+T871	CL_GO_EXT:cell 16986 16991	cells
+T872	CL:0000080 16986 17006	cells in circulation
+T873	SO_EXT:sequence_altered_entity_or_alteration_process 17035 17041	mutant
+T874	GO:0018995 17042 17046	host
+T875	UBERON:0000922 17047 17054	embryos
+T876	SO_EXT:sequence_altered_entity_or_alteration_process 17092 17098	mutant
+T877	UBERON:0000922 17099 17106	embryos
+T878	CL_GO_EXT:cell 17139 17144	cells
+T879	CL:0000080 17139 17159	cells in circulation
+T880	CL_GO_EXT:cell 17228 17233	cells
+T881	CL_GO_EXT:cell 17228 17233	cells
+T882	CL_GO_EXT:cell 17326 17331	cells
+T883	CL_GO_EXT:cell 17326 17331	cells
+T884	CL:0000764 17409 17424	erythroid cells
+T885	CL_GO_EXT:cell 17419 17424	cells
+T886	CL_GO_EXT:cell 17445 17450	cells
+T887	CL:0000080 17445 17465	cells in circulation
+T888	UBERON:0000922 17507 17514	embryos
+T889	CL_GO_EXT:cell 17542 17547	cells
+T890	CL:0000080 17542 17562	cells in circulation
+T891	UBERON:0000178 17589 17594	blood
+T892	CL:0000081 17589 17600	blood cells
+T893	CL_GO_EXT:cell 17595 17600	cells
+T894	UBERON:0000922 17611 17618	embryos
+T895	UBERON:0000178 17653 17658	blood
+T896	CL:0000081 17653 17664	blood cells
+T897	CL_GO_EXT:cell 17659 17664	cells
+T898	SO_EXT:sequence_altered_entity_or_alteration_process 17666 17672	mutant
+T899	GO:0036268 17706 17710	swim
+T900	UBERON:0006860 17706 17719	swim bladders
+T901	GO:0016265 17797 17802	dying
+T902	PR_EXT:Q6E2N3 17857 17860	mon
+T903	UBERON:0000113 17896 17905	adulthood
+T904	SO_EXT:wild_type_entity_or_quality 17930 17939	wild-type
+T905	CL_GO_EXT:cell 17940 17945	cells
+T906	CL_GO_EXT:cell 17940 17945	cells
+T907	SO_EXT:sequence_rescue_process 17956 17962	rescue
+T908	PR_EXT:000007857 17975 17980	gata1
+T909	SO_EXT:sequence_altered_entity 17982 17989	mutants
+T910	CL_GO_EXT:cell 18038 18042	cell
+T911	CL_GO_EXT:cell 18038 18042	cell
+T912	PR_EXT:000016655 18074 18079	tif1γ
+T913	CL_GO_EXT:cell 18088 18092	cell
+T914	CL_GO_EXT:cell 18088 18092	cell
+T915	CL:0000764 18112 18127	erythroid cells
+T916	CL_GO_EXT:cell 18122 18127	cells
+T917	GO:0030097 18148 18161	hematopoietic
+T918	UBERON:0000479 18162 18169	tissues
+T919	UBERON:0005256 18179 18195	trunk mesenchyme
+T920	UBERON:0001016 18203 18217	nervous system
+T921	UBERON:0000922 18240 18246	embryo
+T922	PR_EXT:000016655 18258 18263	Tif1γ
+T923	GO:0005634 18276 18283	Nuclear
+T924	GO:0065007 18308 18317	Regulated
+T925	GO_UBERON_EXT:cellular_component_or_cell_part 18343 18354	subcellular
+T926	GO_UBERON_EXT:cellular_component_or_cell_part 18343 18354	subcellular
+T927	CL_GO_EXT:cell 18346 18354	cellular
+T928	PR_EXT:000016655 18371 18376	Tif1γ
+T929	CHEBI_PR_EXT:protein 18377 18384	protein
+T930	CHEBI_PR_EXT:protein 18377 18384	protein
+T931	NCBITaxon:9986 18420 18426	rabbit
+T932	UBERON:0001977 18442 18447	serum
+T933	GO_EXT:biological_direction_or_guidance 18448 18456	directed
+T934	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 18469 18479	C-terminal
+T935	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 18469 18479	C-terminal
+T936	CHEBI_SO_EXT:amino_acid 18483 18494	amino acids
+T937	CHEBI_SO_EXT:amino_acid 18483 18494	amino acids
+T938	SO_EXT:biological_conservation_process_or_quality 18495 18504	conserved
+T939	NCBITaxon:9606 18508 18513	human
+T940	PR_EXT:000016655 18514 18519	TIF1γ
+T941	NCBITaxon:10088 18524 18529	mouse
+T942	PR_EXT:000016655 18530 18535	Tif1γ
+T943	NCBITaxon:10088 18559 18564	mouse
+T944	UBERON:0000922 18565 18571	embryo
+T945	CL:0000057 18572 18582	fibroblast
+T946	GO:0005634 18583 18589	nuclei
+T947	PR_EXT:000016655 18604 18609	Tif1γ
+T948	UBERON:0001977 18614 18619	serum
+T949	PR_EXT:000016655 18638 18643	Tif1γ
+T950	GO_PATO_EXT:biological_localization_process_or_quality 18647 18656	localized
+T951	GO:0005634 18666 18673	nuclear
+T952	GO_PATO_EXT:biological_localization_process_or_quality 18696 18708	localization
+T953	PR_EXT:000016655 18712 18717	Tif1γ
+T954	CHEBI_PR_EXT:protein 18718 18725	protein
+T955	CHEBI_PR_EXT:protein 18718 18725	protein
+T956	GO:0005634 18766 18773	nuclear
+T957	PR_EXT:000016649 18812 18817	Tif1α
+T958	PR_EXT:000016652 18847 18852	TIF1β
+T959	PR_EXT:000016652 18909 18914	TIF1β
+T960	GO:0000792 18931 18946	heterochromatin
+T961	CHEBI:26536 18969 18982	retinoic acid
+T962	UBERON:0001977 18996 19001	serum
+T963	GO_PATO_EXT:biological_localization_process_or_quality 19041 19053	localization
+T964	GO:0010467 19057 19067	expression
+T965	PR_EXT:TIF1 19075 19079	TIF1
+T966	CHEBI_PR_EXT:protein 19080 19088	proteins
+T967	CHEBI_PR_EXT:protein 19080 19088	proteins
+T968	GO:0065007 19096 19105	regulated
+T969	GO:0005634 19176 19183	nuclear
+T970	PR_EXT:000016655 19202 19207	Tif1γ
+T971	GO_PATO_EXT:biological_localization_process_or_quality 19217 19225	localize
+T972	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 19235 19242	markers
+T973	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 19235 19242	markers
+T974	GO:0000792 19246 19261	heterochromatin
+T975	PR_EXT:000005086 19263 19267	HP1α
+T976	CHEBI_PR_EXT:protein 19268 19275	protein
+T977	CHEBI_PR_EXT:protein 19268 19275	protein
+T978	CHEBI:51231 19280 19284	DAPI
+T979	CHEBI_SO_EXT:DNA 19297 19300	DNA
+T980	CHEBI_SO_EXT:DNA 19297 19300	DNA
+T981	PR_EXT:000016655 19327 19332	Tif1γ
+T982	GO_PATO_EXT:biological_localization_process_or_quality 19344 19352	localize
+T983	CL:0000836 19358 19371	promyelocytic
+T984	PR_EXT:000026474 19358 19380	promyelocytic leukemia
+T985	GO:0016605 19358 19393;19400 19414	promyelocytic leukemia gene product ... nuclear bodies
+T986	SO_EXT:gene_product 19381 19393	gene product
+T987	PR_EXT:000026474 19395 19398	PML
+T988	GO:0016605 19395 19398;19400 19414	PML ... nuclear bodies
+T989	CHEBI_SO_EXT:DNA 19416 19419	DNA
+T990	CHEBI_SO_EXT:DNA 19416 19419	DNA
+T991	GO:0006281 19416 19426	DNA repair
+T992	GO:1990391 19416 19436	DNA repair complexes
+T993	PR_EXT:000010562 19450 19455	Mre11
+T994	GO_EXT:transcription 19460 19475	transcriptional
+T995	GO:0032991 19476 19485	complexes
+T996	PR_EXT:000008313 19497 19503	TFII-B
+T997	GO:0010467 19545 19555	expression
+T998	PR_EXT:000016655 19559 19564	Tif1γ
+T999	CHEBI_PR_EXT:protein 19565 19572	protein
+T1000	CHEBI_PR_EXT:protein 19565 19572	protein
+T1001	GO:0030154 19584 19602;19607 19612	differentiation of ... cells
+T1002	CL_GO_EXT:cell 19607 19612	cells
+T1003	CL_GO_EXT:cell 19607 19612	cells
+T1004	NCBITaxon:39107 19616 19622	murine
+T1005	CL_GO_EXT:cell 19639 19643	cell
+T1006	CL_GO_EXT:cell 19639 19643	cell
+T1007	GO_RO_EXT:developmental_differentiation_process 19669 19682	differentiate
+T1008	CL:0000232 19688 19700	erythrocytes
+T1009	PR_EXT:000007857 19708 19713	Gata1
+T1010	CHEBI_EXT:50114 19714 19722	estrogen
+T1011	GO_PR_EXT:estrogen_receptor 19714 19731	estrogen receptor
+T1012	GO_PR_EXT:estrogen_receptor 19714 19731	estrogen receptor
+T1013	SO_EXT:sequence_fusion_entity_or_process 19732 19738	fusion
+T1014	CHEBI_PR_EXT:protein 19739 19746	protein
+T1015	CHEBI_PR_EXT:protein 19739 19746	protein
+T1016	GO_EXT:reaction_or_response 19764 19772	response
+T1017	CHEBI_EXT:50114 19776 19784	estrogen
+T1018	PR_EXT:000016655 19855 19860	Tif1γ
+T1019	CHEBI_PR_EXT:protein 19861 19868	protein
+T1020	CHEBI_PR_EXT:protein 19861 19868	protein
+T1021	GO:0010467 19869 19879	expression
+T1022	CL:0000764 19904 19913	erythroid
+T1023	GO_RO_EXT:developmental_differentiation_process 19914 19929	differentiation
+T1024	NCBITaxon:7955 19987 19996	zebrafish
+T1025	PR_EXT:Q6E2N3 19997 20000	mon
+T1026	CHEBI_SO_EXT:mRNA 20001 20005	mRNA
+T1027	CHEBI_SO_EXT:mRNA 20001 20005	mRNA
+T1028	GO:0010467 20006 20016	expression
+T1029	GO:0048469 20043 20056;20081 20086	maturation of ... cells
+T1030	CL:0000764 20071 20086	erythroid cells
+T1031	CL_GO_EXT:cell 20081 20086	cells
+T1032	NCBITaxon:39107 20124 20130	murine
+T1033	CL_GO_EXT:cell 20147 20151	cell
+T1034	CL_GO_EXT:cell 20147 20151	cell
+T1035	PR_EXT:000016655 20173 20178	Tif1γ
+T1036	GO:0010467 20187 20196	expressed
+T1037	GO:0005634 20200 20207	nuclear
+T1038	PR_EXT:000016655 20242 20247	Tif1γ
+T1039	CHEBI_PR_EXT:protein 20248 20255	protein
+T1040	CHEBI_PR_EXT:protein 20248 20255	protein
+T1041	GO:0005634 20279 20286	nuclear
+T1042	GO_PATO_EXT:biological_localization_process_or_quality 20292 20304	localization
+T1043	GO_RO_EXT:developmental_differentiation_process 20326 20341	differentiation
+T1044	PR_EXT:000016655 20416 20421	Tif1γ
+T1045	GO:0005634 20440 20447	nuclear
+T1046	CL:0000764 20461 20470	erythroid
+T1047	GO_RO_EXT:developmental_differentiation_process 20471 20486	differentiation
+T1048	NCBITaxon:7955 20505 20514	zebrafish
+T1049	CHEBI_EXT:polyatomic_entity_or_group 20561 20570	molecular
+T1050	GO:0065007 20581 20592	controlling
+T1051	SO_EXT:0000704 20593 20597	gene
+T1052	GO:0010467 20593 20608	gene expression
+T1053	GO:0030097 20616 20629	hematopoiesis
+T1054	SO_EXT:0000704 20709 20716	genetic
+T1055	SO_EXT:sequence_altered_entity_or_alteration_process 20789 20795	mutant
+T1056	SO_EXT:0001023 20796 20803	alleles
+T1057	NCBITaxon:7955 20811 20820	zebrafish
+T1058	SO_EXT:0000704 20821 20825	gene
+T1059	PR_EXT:Q6E2N3 20840 20849	moonshine
+T1060	SO_EXT:sequence_cloning_process 20883 20890	cloning
+T1061	PR_EXT:Q6E2N3 20916 20919	mon
+T1062	SO_EXT:0000704 20920 20924	gene
+T1063	GO_EXT:transcription 20961 20976	transcriptional
+T1064	PR_EXT:000016655 20998 21003	Tif1γ
+T1065	GO:0030097 21012 21025	hematopoietic
+T1066	PR_EXT:Q6E2N3 21044 21047	mon
+T1067	SO_EXT:0000704 21048 21052	Gene
+T1068	SO_EXT:sequence_coding_function 21053 21060	Encodes
+T1069	NCBITaxon:7955 21065 21074	Zebrafish
+T1070	SO_EXT:0000855 21075 21083	Ortholog
+T1071	NCBITaxon:40674 21087 21096	Mammalian
+T1072	PR_EXT:000016655 21097 21102	TIF1γ
+T1073	SO_EXT:sequence_cloning_process 21174 21180	cloned
+T1074	NCBITaxon:7955 21185 21194	zebrafish
+T1075	PR_EXT:Q6E2N3 21195 21198	mon
+T1076	SO_EXT:0000704 21199 21203	gene
+T1077	SO_EXT:0000855 21229 21237	ortholog
+T1078	NCBITaxon:40674 21241 21250	mammalian
+T1079	PR_EXT:000016655 21251 21256	Tif1γ
+T1080	PR_EXT:000016655 21258 21263	Tif1γ
+T1081	SO_EXT:0000704 21291 21298	genetic
+T1082	CHEBI_SO_EXT:base 21348 21349	b
+T1083	CHEBI_SO_EXT:base 21348 21349	b
+T1084	SO_EXT:0000154 21350 21353	PAC
+T1085	SO_EXT:sequence_cloned_entity 21354 21359	clone
+T1086	SO_EXT:biological_sequence 21404 21412	Sequence
+T1087	NCBITaxon:7955 21437 21446	zebrafish
+T1088	PR_EXT:000016655 21447 21452	tif1γ
+T1089	CHEBI_SO_EXT:amino_acid 21482 21492	amino acid
+T1090	CHEBI_SO_EXT:amino_acid 21482 21492	amino acid
+T1091	SO_EXT:biological_sequence 21493 21501	sequence
+T1092	SO_EXT:0000188 21506 21512	intron
+T1093	SO_EXT:0000147 21513 21517	exon
+T1094	SO_EXT:0000996 21544 21553;21582 21587	predicted ... genes
+T1095	SO:0000858 21554 21565	orthologous
+T1096	NCBITaxon:9606 21566 21571	human
+T1097	NCBITaxon:10088 21576 21581	mouse
+T1098	NCBITaxon:7955 21589 21598	Zebrafish
+T1099	PR_EXT:000016655 21599 21604	tif1γ
+T1100	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 21621 21630;21641 21651	region of ... Chromosome
+T1101	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 21621 21630;21641 21651	region of ... Chromosome
+T1102	NCBITaxon:7955 21631 21640	zebrafish
+T1103	SO:0000860 21654 21662	syntenic
+T1104	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 21670 21679;21686 21696	region of ... Chromosome
+T1105	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 21670 21679;21686 21696	region of ... Chromosome
+T1106	NCBITaxon:9606 21680 21685	human
+T1107	PR_EXT:000016655 21710 21715	TIF1γ
+T1108	SO_EXT:point_mutation_entity_or_process 21731 21746	point mutations
+T1109	PR_EXT:000016655 21750 21755	tif1γ
+T1110	SO_EXT:0001023 21777 21784	alleles
+T1111	PR_EXT:Q6E2N3 21788 21791	mon
+T1112	SO_EXT:0001587 21812 21833	premature stop codons
+T1113	CHEBI_SO_EXT:mRNA 21838 21842	mRNA
+T1114	CHEBI_SO_EXT:mRNA 21838 21842	mRNA
+T1115	GO:0006402 21838 21848	mRNA decay
+T1116	PR_EXT:000016655 21863 21868	tif1γ
+T1117	PR_EXT:000016655 21869 21874	Tif1γ
+T1118	GO:0010467 21885 21894	expressed
+T1119	GO:0030097 21898 21911	hematopoietic
+T1120	CL:0000988 21898 21917	hematopoietic cells
+T1121	CL_GO_EXT:cell 21912 21917	cells
+T1122	GO:0009790 21929 21942	embryogenesis
+T1123	NCBITaxon:7955 21951 21960	zebrafish
+T1124	NCBITaxon:10088 21965 21970	mouse
+T1125	GO:0010467 22012 22022	expression
+T1126	SO_EXT:wild_type_entity_or_quality 22026 22035	wild-type
+T1127	PR_EXT:000016655 22036 22041	tif1γ
+T1128	CHEBI_SO_EXT:mRNA 22042 22046	mRNA
+T1129	CHEBI_SO_EXT:mRNA 22042 22046	mRNA
+T1130	SO_EXT:sequence_rescue_process 22059 22066	rescues
+T1131	GO:0030097 22067 22080	hematopoiesis
+T1132	PR_EXT:Q6E2N3 22084 22087	mon
+T1133	SO_EXT:sequence_altered_entity 22088 22095	mutants
+T1134	GO:0035162 22117 22133;22144 22151	hematopoiesis in ... embryos
+T1135	SO_EXT:wild_type_entity_or_quality 22134 22143	wild-type
+T1136	UBERON:0000922 22144 22151	embryos
+T1137	SO_EXT:sequence_cloning_process 22181 22187	cloned
+T1138	NCBITaxon:7955 22202 22211	zebrafish
+T1139	SO_EXT:0000855 22212 22220	ortholog
+T1140	PR_EXT:000016649 22224 22229	tif1α
+T1141	GO:0010467 22255 22264	expressed
+T1142	NCBITaxon:7955 22268 22277	zebrafish
+T1143	UBERON:0000922 22278 22285	embryos
+T1144	NCBITaxon:40674 22291 22300	mammalian
+T1145	PR_EXT:000016649 22301 22306	TIF1α
+T1146	GO_EXT:oligomeric_macromolecular_complex 22429 22438	oligomers
+T1147	PR_EXT:000016655 22444 22449	Tif1γ
+T1148	CHEBI_PR_EXT:protein 22450 22457	protein
+T1149	CHEBI_PR_EXT:protein 22450 22457	protein
+T1150	GO:0030097 22472 22485	hematopoietic
+T1151	CL:0000988 22472 22491	hematopoietic cells
+T1152	CL_GO_EXT:cell 22486 22491	cells
+T1153	NCBITaxon:7955 22513 22522	zebrafish
+T1154	NCBITaxon:40674 22527 22536	mammalian
+T1155	PR_EXT:TIF1 22537 22541	TIF1
+T1156	CHEBI_SO_EXT:amino_acid 22552 22562	amino acid
+T1157	CHEBI_SO_EXT:amino_acid 22552 22562	amino acid
+T1158	SO_EXT:biological_sequence 22563 22572	sequences
+T1159	PR_EXT:000016655 22594 22599	Tif1γ
+T1160	SO_EXT:0000855 22600 22609	orthologs
+T1161	SO_EXT:biological_conservation_process_or_quality 22630 22639	conserved
+T1162	PR_EXT:000016649 22665 22670	Tif1α
+T1163	SO_EXT:biological_sequence 22671 22680	sequences
+T1164	PR_EXT:000016652 22732 22737	Tif1β
+T1165	SO_EXT:0000855 22738 22746	ortholog
+T1166	NCBITaxon:7955 22765 22774	zebrafish
+T1167	NCBITaxon:31032 22778 22782	fugu
+T1168	SO_EXT:0001026 22783 22789	genome
+T1169	SO_EXT:0000345 22793 22796	EST
+T1170	SO_EXT:biological_sequence 22797 22806	sequences
+T1171	PR_EXT:000016652 22828 22833	Tif1β
+T1172	SO_EXT:0000417 22849 22855	domain
+T1173	GO_EXT:transcription 22856 22869	transcription
+T1174	GO_EXT:transcription_factor 22856 22877	transcription factors
+T1175	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 22881 22886	binds
+T1176	NCBITaxon:32523 22914 22923	tetrapods
+T1177	SO_EXT:0001026 22963 22969	genome
+T1178	SO_EXT:biological_sequence 22970 22979	sequences
+T1179	NCBITaxon:7955 23048 23057	zebrafish
+T1180	PR_EXT:Q6E2N3 23058 23061	mon
+T1181	SO_EXT:sequence_altered_entity 23062 23069	mutants
+T1182	PR_EXT:000016655 23104 23109	Tif1γ
+T1183	SO_EXT:biological_conservation_process_or_quality 23120 23144	evolutionarily conserved
+T1184	PR_EXT:TIF1 23145 23149	TIF1
+T1185	NCBITaxon:9606 23201 23206	human
+T1186	NCBITaxon:10088 23211 23216	mouse
+T1187	GO:0030097 23217 23230	hematopoiesis
+T1188	SO_EXT:sequence_alteration_entity_or_process 23233 23242	Mutations
+T1189	PR_EXT:000016655 23246 23251	tif1γ
+T1190	GO:0006915 23258 23267	Apoptosis
+T1191	CL:0000764 23271 23280	Erythroid
+T1192	GO:0030097 23313 23326	hematopoietic
+T1193	SO_EXT:0000704 23327 23331	gene
+T1194	GO:0010467 23327 23342	gene expression
+T1195	GO:0006915 23344 23353	apoptosis
+T1196	PR_EXT:Q6E2N3 23379 23382	mon
+T1197	SO_EXT:sequence_altered_entity 23383 23390	mutants
+T1198	CL:0000764 23415 23424	erythroid
+T1199	SO_EXT:sequence_altered_entity 23462 23469	mutants
+T1200	GO_RO_EXT:developmental_differentiation_process 23497 23510	differentiate
+T1201	GO:0012501 23531 23552	programmed cell death
+T1202	CL_GO_EXT:cell 23542 23546	cell
+T1203	CL_GO_EXT:cell 23542 23546	cell
+T1204	GO:0010467 23573 23583	expression
+T1205	PR_EXT:000007857 23587 23592	gata1
+T1206	CL:0000764 23639 23654	erythroid cells
+T1207	CL_GO_EXT:cell 23649 23654	cells
+T1208	PR_EXT:Q6E2N3 23658 23661	mon
+T1209	SO_EXT:sequence_altered_entity 23662 23669	mutants
+T1210	CL_GO_EXT:cell 23684 23689	cells
+T1211	CL_GO_EXT:cell 23684 23689	cells
+T1212	PR_EXT:000007857 23733 23738	gata1
+T1213	GO:0010467 23739 23749	expression
+T1214	GO_PATO_EXT:apoptotic_process_or_quality 23766 23775	apoptotic
+T1215	CL:0000445 23766 23781	apoptotic cells
+T1216	CL_GO_EXT:cell 23776 23781	cells
+T1217	UBERON:0002329 23805 23811	somite
+T1218	GO:0030097 23852 23865	hematopoietic
+T1219	SO_EXT:0000704 23866 23870	gene
+T1220	GO:0010467 23866 23881	gene expression
+T1221	GO:0010467 23903 23913	expression
+T1222	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 23917 23923	marker
+T1223	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 23917 23923	marker
+T1224	SO_EXT:0000704 23924 23929	genes
+T1225	PR_EXT:000016043 23941 23944	scl
+T1226	PR_EXT:000007858 23949 23954	gata2
+T1227	GO:0030097 23974 23987	hematopoietic
+T1228	CL:0000037 23974 23998	hematopoietic stem cells
+T1229	CL_GO_EXT:cell 23993 23998	cells
+T1230	GO:0060215 24003 24026	primitive hematopoietic
+T1231	UBERON:0000922 24069 24078	embryonic
+T1232	UBERON:0003061 24079 24092	blood islands
+T1233	SO_EXT:sequence_altered_entity 24096 24103	mutants
+T1234	SO_EXT:sequence_altered_entity_or_alteration_process 24139 24145	mutant
+T1235	GO:0030097 24146 24159	hematopoietic
+T1236	CL:0000988 24146 24165	hematopoietic cells
+T1237	CL_GO_EXT:cell 24160 24165	cells
+T1238	CL:0000764 24209 24218	erythroid
+T1239	CL:0000764 24260 24275	erythroid cells
+T1240	CL_GO_EXT:cell 24270 24275	cells
+T1241	GO:0006915 24288 24297	apoptosis
+T1242	PR_EXT:000007857 24310 24315	gata1
+T1243	CL:0000764 24326 24341	erythroid cells
+T1244	CL_GO_EXT:cell 24336 24341	cells
+T1245	GO:0030218 24395 24409	erythropoiesis
+T1246	SO_EXT:sequence_altered_entity_or_alteration_process 24476 24482	mutant
+T1247	PR_EXT:Q6E2N3 24483 24486	mon
+T1248	UBERON:0007023 24487 24493	adults
+T1249	PR_EXT:000016655 24514 24519	tif1γ
+T1250	GO:0060216 24540 24564	definitive hematopoiesis
+T1251	CL:0000365 24586 24593	zygotic
+T1252	PR_EXT:Q6E2N3 24608 24611	mon
+T1253	SO_EXT:sequence_altered_entity 24612 24619	mutants
+T1254	PR_EXT:000016655 24672 24677	Tif1γ
+T1255	GO:0010467 24690 24699	expressed
+T1256	NCBITaxon:7955 24700 24709	zebrafish
+T1257	PR_EXT:000016655 24710 24715	Tif1γ
+T1258	GO:0030097 24734 24747	hematopoiesis
+T1259	GO:0048513 24768 24781	organogenesis
+T1260	SO_EXT:wild_type_entity_or_quality 24829 24838	wild-type
+T1261	CHEBI_SO_EXT:mRNA 24839 24843	mRNA
+T1262	CHEBI_SO_EXT:mRNA 24839 24843	mRNA
+T1263	CL:0000025 24847 24851	eggs
+T1264	PR_EXT:Q6E2N3 24922 24925	mon
+T1265	SO_EXT:sequence_altered_entity_or_alteration_process 24926 24932	mutant
+T1266	PATO_UBERON_EXT:female_or_bearer_of_femaleness 24933 24939	female
+T1267	NCBITaxon:7955 24940 24949	zebrafish
+T1268	CHEBI_SO_EXT:mRNA 25001 25005	mRNA
+T1269	CHEBI_SO_EXT:mRNA 25001 25005	mRNA
+T1270	CL:0000365 25031 25038	zygotic
+T1271	PR_EXT:Q6E2N3 25039 25042	mon
+T1272	SO_EXT:sequence_altered_entity 25043 25050	mutants
+T1273	PR_EXT:000016655 25110 25115	tif1γ
+T1274	GO:0030218 25133 25147	erythropoiesis
+T1275	GO:0030097 25197 25210	hematopoietic
+T1276	GO:0030097 25226 25239	hematopoietic
+T1277	PR_EXT:Q6E2N3 25253 25256	mon
+T1278	SO_EXT:sequence_altered_entity 25257 25264	mutants
+T1279	CL:0000764 25287 25302	erythroid cells
+T1280	CL_GO_EXT:cell 25297 25302	cells
+T1281	NCBITaxon:10088 25316 25321	mouse
+T1282	PR_EXT:000007857 25322 25327	Gata1
+T1283	UBERON:0000922 25337 25344	embryos
+T1284	NCBITaxon:7955 25349 25358	zebrafish
+T1285	PR_EXT:000007857 25371 25376	gata1
+T1286	SO_EXT:sequence_altered_entity_or_alteration_process 25378 25384	mutant
+T1287	UBERON:0000922 25385 25392	embryos
+T1288	SO_EXT:0000704 25476 25483	genetic
+T1289	PR_EXT:Q6E2N3 25505 25508	mon
+T1290	PR_EXT:000007857 25513 25518	gata1
+T1291	SO_EXT:sequence_rescue_process 25547 25553	rescue
+T1292	GO:0030218 25554 25568	erythropoiesis
+T1293	PR_EXT:000007857 25588 25593	gata1
+T1294	CHEBI_SO_EXT:mRNA 25594 25598	mRNA
+T1295	CHEBI_SO_EXT:mRNA 25594 25598	mRNA
+T1296	PR_EXT:Q6E2N3 25604 25607	mon
+T1297	SO_EXT:sequence_altered_entity_or_alteration_process 25619 25625	mutant
+T1298	UBERON:0000922 25626 25633	embryos
+T1299	PR_EXT:000016655 25651 25656	tif1γ
+T1300	CHEBI_SO_EXT:mRNA 25657 25661	mRNA
+T1301	CHEBI_SO_EXT:mRNA 25657 25661	mRNA
+T1302	PR_EXT:000007857 25667 25672	gata1
+T1303	UBERON:0000922 25684 25691	embryos
+T1304	SO_EXT:sequence_rescue_process 25702 25708	rescue
+T1305	GO:0030097 25709 25722	hematopoiesis
+T1306	PR_EXT:000016655 25791 25796	Tif1γ
+T1307	PR_EXT:000007857 25801 25806	Gata1
+T1308	CHEBI_PR_EXT:protein 25807 25815	proteins
+T1309	CHEBI_PR_EXT:protein 25807 25815	proteins
+T1310	NCBITaxon_EXT:yeast 25845 25850	yeast
+T1311	SO_EXT:sequence_alteration_entity_or_process 25927 25936	mutations
+T1312	SO_EXT:0000704 25954 25959	genes
+T1313	CL_GO_EXT:cell 25967 25972	cells
+T1314	CL_GO_EXT:cell 25967 25972	cells
+T1315	PR_EXT:000007857 26033 26038	gata1
+T1316	PR_EXT:000016655 26043 26048	tif1γ
+T1317	SO_EXT:0000704 26121 26128	genetic
+T1318	PR_EXT:000007857 26148 26153	gata1
+T1319	PR_EXT:000016655 26158 26163	tif1γ
+T1320	GO:0065007 26185 26193	regulate
+T1321	SO_EXT:0000704 26194 26198	gene
+T1322	GO_EXT:transcription 26199 26212	transcription
+T1323	UBERON:0000178 26220 26225	blood
+T1324	CL:0000081 26220 26231	blood cells
+T1325	CL_GO_EXT:cell 26226 26231	cells
+T1326	PR_EXT:000016655 26246 26251	Tif1γ
+T1327	GO:0060319 26255 26264;26280 26294	Primitive ... Erythropoiesis
+T1328	GO:0060318 26269 26294	Definitive Erythropoiesis
+T1329	PR_EXT:000016655 26334 26339	tif1γ
+T1330	CHEBI_EXT:23357 26368 26376	cofactor
+T1331	CL:0000764 26385 26394	erythroid
+T1332	GO:0010468 26412 26422;26437 26452	control of ... gene expression
+T1333	GO:0030097 26423 26436	hematopoietic
+T1334	SO_EXT:0000704 26437 26441	gene
+T1335	PR_EXT:000016655 26481 26486	Tif1γ
+T1336	CHEBI_PR_EXT:protein 26487 26494	protein
+T1337	CHEBI_PR_EXT:protein 26487 26494	protein
+T1338	GO_EXT:transcription 26510 26525	transcriptional
+T1339	GO:0030097 26549 26562	hematopoietic
+T1340	CL:0008001 26549 26579	hematopoietic progenitor cells
+T1341	CL_GO_EXT:cell 26574 26579	cells
+T1342	PR_EXT:000016649 26596 26601	TIF1α
+T1343	PR_EXT:000016652 26626 26631	TIF1β
+T1344	GO_EXT:positive_regulation 26727 26737;26752 26760	positively ... regulate
+T1345	GO_EXT:negative_regulation 26741 26760	negatively regulate
+T1346	SO_EXT:0000704 26761 26765	gene
+T1347	GO_EXT:transcription 26766 26779	transcription
+T1348	PR_EXT:000016649 26809 26814	TIF1α
+T1349	PR_EXT:000016652 26819 26824	TIF1β
+T1350	GO_EXT:0032947 26832 26841	scaffolds
+T1351	CHEBI_SO_EXT:DNA 26873 26876	DNA
+T1352	CHEBI_SO_EXT:DNA 26873 26876	DNA
+T1353	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 26877 26884	binding
+T1354	CHEBI_PR_EXT:protein 26885 26893	proteins
+T1355	CHEBI_PR_EXT:protein 26885 26893	proteins
+T1356	GO:0000785 26898 26907	chromatin
+T1357	CHEBI_PR_EXT:protein 26919 26927	proteins
+T1358	CHEBI_PR_EXT:protein 26919 26927	proteins
+T1359	GO:0065007 26940 26950	regulatory
+T1360	GO:0032991 26951 26960	complexes
+T1361	PR_EXT:000016655 26962 26967	Tif1γ
+T1362	GO:0005634 26987 26994	nuclear
+T1363	GO:0016604 27115 27129	nuclear bodies
+T1364	PR_EXT:000026474 27141 27144	PML
+T1365	GO:0016605 27141 27151	PML bodies
+T1366	GO_PATO_EXT:biological_localization_process_or_quality 27153 27165	Localization
+T1367	PR_EXT:000016655 27169 27174	Tif1γ
+T1368	GO:0016604 27184 27198	nuclear bodies
+T1369	GO:0065007 27206 27215	regulated
+T1370	GO_SO_EXT:post_translational_modification_entity_or_process 27219 27249	posttranslational modification
+T1371	GO_SO_EXT:post_translational_modification_entity_or_process 27219 27249	posttranslational modification
+T1372	SO_EXT:sequence_alteration_entity_or_process 27263 27275	modification
+T1373	PR_EXT:000026474 27297 27300	PML
+T1374	PR_EXT:000026474 27309 27312	PML
+T1375	GO:0016605 27309 27328	PML nuclear domains
+T1376	PR_EXT:000016655 27422 27427	Tif1γ
+T1377	GO:0032991 27447 27456	complexes
+T1378	CHEBI_SO_EXT:DNA 27462 27465	DNA
+T1379	CHEBI_SO_EXT:DNA 27462 27465	DNA
+T1380	CHEMINF_GO_EXT:chemical_binding_or_bond_formation 27466 27473	binding
+T1381	GO_EXT:transcription 27474 27487	transcription
+T1382	GO_EXT:transcription_factor 27474 27495	transcription factors
+T1383	CL:0000764 27579 27588	erythroid
+T1384	GO_RO_EXT:developmental_differentiation_process 27589 27604	differentiation
+T1385	PR_EXT:000016655 27656 27661	Tif1γ
+T1386	CHEBI_PR_EXT:protein 27674 27682	proteins
+T1387	CHEBI_PR_EXT:protein 27674 27682	proteins
+T1388	GO:0005634 27686 27693	nuclear
+T1389	PR_EXT:000016655 27736 27741	Tif1γ
+T1390	GO:0065007 27745 27753	regulate
+T1391	UBERON:0000178 27754 27759	blood
+T1392	CL:0000081 27754 27764	blood cell
+T1393	CL_GO_EXT:cell 27760 27764	cell
+T1394	GO:0048468 27760 27776	cell development
+T1395	NCBITaxon:7955 27804 27813	Zebrafish
+T1396	NCBITaxon:10088 27818 27823	mouse
+T1397	NCBITaxon:7955 27845 27854	Zebrafish
+T1398	SO_EXT:0001023 27919 27926	alleles
+T1399	PR_EXT:Q6E2N3 27927 27930	mon
+T1400	PR_EXT:Q6E2N3 27941 27944	mon
+T1401	CHEBI:23995 27993 27996	ENU
+T1402	SO_EXT:sequence_alteration_entity_or_process 28005 28014	mutations
+T1403	PR_EXT:Q6E2N3 28059 28062	mon
+T1404	SO_EXT:0001023 28067 28073	allele
+T1405	GO:0007618 28198 28204	mating
+T1406	SO_EXT:polymorphism 28219 28230	polymorphic
+T1407	UBERON:0000922 28293 28300	embryos
+T1408	GO:0097617 28349 28362	hybridization
+T1409	UBERON:0000922 28380 28387	embryos
+T1410	GO:0097617 28461 28474	hybridization
+T1411	NCBITaxon:10088 28478 28483	mouse
+T1412	UBERON:0000922 28484 28491	embryos
+T1413	SO_EXT:genomic_DNA 28543 28554	Genomic DNA
+T1414	CHEBI_SO_EXT:DNA 28551 28554	DNA
+T1415	SO_EXT:0001830 28578 28582	AFLP
+T1416	GO_SO_EXT:chromosome 28597 28608	chromosomal
+T1417	GO_SO_EXT:chromosome 28597 28608	chromosomal
+T1418	SO_EXT:0000112 28725 28732	primers
+T1419	SO_EXT:0000704 28737 28744	genetic
+T1420	GO_EXT:reverse_transcription_or_reverse_transcriptase 28754 28756	RT
+T1421	GO_EXT:reverse_transcription_or_reverse_transcriptase 28754 28756	RT
+T1422	PR_EXT:Q6E2N3 28780 28783	mon
+T1423	CHEBI_SO_EXT:mRNA 28811 28815	mRNA
+T1424	CHEBI_SO_EXT:mRNA 28811 28815	mRNA
+T1425	GO:0010467 28816 28826	expression
+T1426	SO_EXT:engineered_biological_sequence 28827 28837	constructs
+T1427	SO:0001183 28839 28850	morpholinos
+T1428	PR_EXT:Q6E2N3 28888 28891	mon
+T1429	SO_EXT:cDNA 28892 28896	cDNA
+T1430	SO_EXT:0000440 28950 28956	vector
+T1431	CHEBI_SO_EXT:mRNA 28968 28972	mRNA
+T1432	CHEBI_SO_EXT:mRNA 28968 28972	mRNA
+T1433	GO_EXT:transcription 28977 28988	transcribed
+T1434	CL_GO_EXT:cell 29078 29082	Cell
+T1435	CL_GO_EXT:cell 29078 29082	Cell
+T1436	UBERON:0007132 29106 29119	kidney marrow
+T1437	CL_GO_EXT:cell 29120 29125	cells
+T1438	CL_GO_EXT:cell 29120 29125	cells
+T1439	UBERON:0007023 29145 29150	adult
+T1440	PR_EXT:000007857 29151 29156	gata1
+T1441	SO_EXT:transgenic_entity 29162 29172	transgenic
+T1442	CHEBI_EXT:phosphate 29201 29210	phosphate
+T1443	CHEBI_CHMO_EXT:buffer_process 29211 29219	buffered
+T1444	CHEBI_EXT:saline_solution 29220 29226	saline
+T1445	NCBITaxon:27592 29238 29244	bovine
+T1446	UBERON:0001977 29245 29250	serum
+T1447	UBERON:0002063 29274 29287	sinus venosus
+T1448	PR_EXT:Q6E2N3 29299 29302	mon
+T1449	SO_EXT:sequence_nullness_or_absence 29308 29309	−
+T1450	SO_EXT:sequence_nullness_or_absence 29310 29311	−
+T1451	UBERON:0000922 29324 29331	embryos
+T1452	UBERON:0007132 29353 29366	kidney marrow
+T1453	CL_GO_EXT:cell 29367 29372	cells
+T1454	CL_GO_EXT:cell 29367 29372	cells
+T1455	UBERON:0000922 29391 29397	embryo
+T1456	UBERON:0000922 29423 29430	embryos
+T1457	CHEBI_EXT:anaesthetic_process 29436 29448	anesthetized
+T1458	CL_GO_EXT:cell 29555 29560	cells
+T1459	CL_GO_EXT:cell 29555 29560	cells
+T1460	UBERON:0002548 29622 29628	larvae
+T1461	GO:0042571 29692 29702	Antibodies
+T1462	UBERON:0001977 29741 29745	sera
+T1463	NCBITaxon:9606 29758 29763	human
+T1464	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 29764 29774	C-terminal
+T1465	CHEBI_SO_EXT:C_terminus_or_C_terminal_region 29764 29774	C-terminal
+T1466	PR_EXT:000016655 29775 29780	TIF1γ
+T1467	SO_EXT:biological_sequence 29781 29789	sequence
+T1468	NCBITaxon:9986 29823 29830	rabbits
+T1469	NCBITaxon:10088 29922 29927	Mouse
+T1470	UBERON:0000922 29928 29937	embryonic
+T1471	CL:0000057 29938 29949	fibroblasts
+T1472	GO:0040007 29950 29955	grown
+T1473	PR_EXT:000005086 29994 29998	HP1α
+T1474	PR_EXT:000016655 30051 30056	Tif1γ
+T1475	UBERON:0001977 30061 30065	sera
+T1476	CL_GO_EXT:cell 30092 30097	cells
+T1477	CL_GO_EXT:cell 30092 30097	cells
+T1478	CHEBI_EXT:paraformaldehye 30115 30131	paraformaldehyde
+T1479	CHEBI_EXT:phosphate 30155 30164	phosphate
+T1480	CHEBI_CHMO_EXT:buffer_process 30165 30173	buffered
+T1481	CHEBI_EXT:saline_solution 30174 30180	saline
+T1482	UBERON:0001977 30202 30207	serum
+T1483	GO:0042571 30261 30271	antibodies
+T1484	CL_GO_EXT:cell 30287 30292	cells
+T1485	CL_GO_EXT:cell 30287 30292	cells
+T1486	GO:0042571 30356 30366	antibodies
+T1487	CL_GO_EXT:cell 30456 30461	Cells
+T1488	CL_GO_EXT:cell 30456 30461	Cells
+T1489	CHEBI:51231 30493 30497	DAPI
+T1490	CL_GO_EXT:cell 30688 30692	cell
+T1491	CL_GO_EXT:cell 30688 30692	cell
+T1492	GO:0030154 30688 30708	cell differentiation
+T1493	SO_EXT:wild_type_entity_or_quality 30826 30835	wild-type
+T1494	NCBITaxon:7955 30836 30845	zebrafish
+T1495	CL_GO_EXT:cell 30853 30858	cells
+T1496	CL_GO_EXT:cell 30853 30858	cells
+T1497	PR_EXT:000007857 30870 30875	gata1
+T1498	SO_EXT:0000902 30880 30889	transgene
+T1499	UBERON:0000922 30903 30910	embryos
+T1500	GO:0030218 30925 30939	erythropoiesis
+T1501	PR_EXT:Q6E2N3 30963 30966	mon
+T1502	SO_EXT:sequence_altered_entity 30983 30990	mutants
+T1503	UBERON:0000922 31007 31014	embryos
+T1504	CL:0000232 31068 31072	RBCs
+T1505	CL_GO_EXT:cell 31102 31107	cells
+T1506	CL_GO_EXT:cell 31102 31107	cells
+T1507	GO:0008283 31125 31136	proliferate
+T1508	CL:0000232 31178 31190	erythrocytes
+T1509	NCBITaxon:7955 31248 31257	zebrafish
+T1510	UBERON:0002548 31258 31264	larvae
+T1511	PR_EXT:Q6E2N3 31300 31303	mon
+T1512	SO_EXT:sequence_altered_entity 31320 31327	Mutants
+T1513	CL_GO_EXT:cell 31347 31352	Cells
+T1514	CL:0000080 31347 31367	Cells in Circulation
+T1515	CL:0000232 31508 31520	Erythrocytes
+T1516	PR_EXT:Q6E2N3 31562 31565	mon
+T1517	SO_EXT:sequence_altered_entity 31582 31589	Mutants
+T1518	PR_EXT:Q6E2N3 31678 31681	mon
+T1519	SO_EXT:sequence_altered_entity 31698 31705	Mutants
+T1520	CL_GO_EXT:cell 31725 31730	Cells
+T1521	CL:0000080 31725 31745	Cells in Circulation
+T1522	CL:0000232 31896 31908	Erythrocytes
+T1523	PR_EXT:Q6E2N3 31961 31964	mon
+T1524	SO_EXT:sequence_altered_entity 31981 31987	Mutant
+T1525	SO_EXT:0000704 32137 32142	genes
+T1526	SO_EXT:gene_product 32147 32160	gene products
+T1527	NCBITaxon:7147 32189 32192	fly
+T1528	NCBITaxon:9606 32211 32216	human
+T1529	PR_EXT:000016649 32217 32222	TIF1α
+T1530	NCBITaxon:9606 32233 32238	human
+T1531	PR_EXT:000016652 32239 32244	TIF1β
+T1532	NCBITaxon:9606 32255 32260	human
+T1533	PR_EXT:000016655 32261 32265	TIFγ
+T1534	NCBITaxon:9606 32276 32281	human
+T1535	PR_EXT:000016655 32282 32287	TIF1γ
+T1536	PR_EXT:Q6E2N3 32298 32301	mon
+T1537	NCBITaxon:10088 32313 32318	mouse
+T1538	PR_EXT:000016649 32319 32324	Tif1α
+T1539	NCBITaxon:10088 32335 32340	mouse
+T1540	PR_EXT:000016652 32341 32346	Tif1β
+T1541	NCBITaxon:10088 32363 32368	mouse
+T1542	PR_EXT:000016655 32369 32374	Tif1γ
+T1543	SO_EXT:cDNA 32392 32396	cDNA
+T1544	SO_EXT:biological_sequence 32397 32406	sequences
+T1545	NCBITaxon:7955 32410 32419	zebrafish
+T1546	PR_EXT:Q6E2N3 32420 32423	mon
+T1547	PR_EXT:000016655 32424 32429	tif1γ
+T1548	PR_EXT:000016649 32434 32439	tif1α
+T1549	SO_EXT:0001023 32764 32770	allele
+T1550	PR_EXT:Q6E2N3 32774 32777	mon
+T1551	SO_EXT:0001830 33159 33163	AFLP
+T1552	SO_EXT:0001830 33166 33204	amplified fragment length polymorphism
+T1553	CHEBI:23995 33206 33209	ENU
+T1554	CHEBI:23995 33212 33229	ethyl-nitrosourea
+T1555	SO_EXT:0000345 33231 33234	EST
+T1556	GO:0010467 33237 33246	expressed
+T1557	SO_EXT:0000345 33237 33259	expressed sequence tag
+T1558	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 33256 33259	tag
+T1559	CHEBI_PR_EXT:protein 33285 33292	protein
+T1560	CHEBI_PR_EXT:protein 33285 33292	protein
+T1561	GO:0009566 33310 33323	fertilization
+T1562	PR_EXT:Q6E2N3 33356 33359	mon
+T1563	PR_EXT:Q6E2N3 33362 33371	moonshine
+T1564	SO_EXT:0000154 33373 33376	PAC
+T1565	PR_EXT:000026474 33378 33381	PML
+T1566	CL:0000836 33384 33397	promyelocytic
+T1567	PR_EXT:000026474 33384 33406	promyelocytic leukemia
+T1568	SO_EXT:gene_product 33407 33419	gene product
+T1569	CL:0000232 33421 33425	RBCs
+T1570	CL:0000232 33428 33443	red blood cells
+T1571	UBERON:0000178 33432 33437	blood
+T1572	CL_GO_EXT:cell 33438 33443	cells
+T1573	PR_EXT:000016043 33445 33448	scl
+T1574	CL:0000034 33451 33460	stem cell
+T1575	PR_EXT:000016043 33451 33469	stem cell leukemia
+T1576	CL_GO_EXT:cell 33456 33460	cell
+T1577	GO_EXT:transcription 33483 33498	transcriptional
+T1578	NCBITaxon:7955 33576 33585	Zebrafish
+T1579	PR_EXT:Q6E2N3 33586 33589	mon
+T1580	SO_EXT:sequence_altered_entity 33590 33597	Mutants
+T1581	GO:0060215 33621 33644	Primitive Hematopoiesis
+T1582	UBERON:2000083 33687 33694;33705 33715	ventral ... mesodermal
+T1583	CL:0000222 33705 33721	mesodermal cells
+T1584	CL_GO_EXT:cell 33716 33721	cells
+T1585	GO:0006915 33730 33739	apoptosis
+T1586	PR_EXT:Q6E2N3 33754 33757	mon
+T1587	SO_EXT:sequence_altered_entity_or_alteration_process 33763 33769	mutant
+T1588	UBERON:0000922 33770 33777	embryos
+T1589	GO:0097617 33799 33812	hybridization
+T1590	PR_EXT:000007857 33816 33821	gata1
+T1591	UBERON:0002329 33849 33855	somite
+T1592	UBERON:0000105 33856 33861	stage
+T1593	UBERON:0000922 33875 33882	embryos
+T1594	GO:0006915 33938 33947	apoptosis
+T1595	UBERON:0002100 33966 33971	trunk
+T1596	UBERON:0002415 33976 33980	tail
+T1597	GO:0030097 34005 34018	hematopoietic
+T1598	CL:0000988 34005 34024	hematopoietic cells
+T1599	CL_GO_EXT:cell 34019 34024	cells
+T1600	UBERON:0000922 34032 34041	embryonic
+T1601	UBERON:0003061 34042 34054	blood island
+T1602	GO:0097617 34107 34120	hybridization
+T1603	PR_EXT:000016043 34141 34144	scl
+T1604	PR_EXT:000007858 34146 34151	gata2
+T1605	PR_EXT:000007857 34153 34158	gata1
+T1606	PR_EXT:000001811 34160 34166	ikaros
+T1607	PR_EXT:000010799 34172 34175	myb
+T1608	PR_EXT:Q6E2N3 34179 34182	mon
+T1609	SO_EXT:sequence_altered_entity 34188 34195	mutants
+T1610	GO:0010467 34197 34207	Expression
+T1611	PR_EXT:000010799 34211 34214	myb
+T1612	UBERON:0003061 34241 34254	blood islands
+T1613	CL:0000764 34276 34291	erythroid cells
+T1614	CL_GO_EXT:cell 34286 34291	cells
+T1615	UBERON:0000922 34297 34306	embryonic
+T1616	CL:0000235 34307 34318	macrophages
+T1617	GO:0010467 34351 34361	expression
+T1618	PR_EXT:000003457 34365 34369	rag1
+T1619	UBERON:0002370 34373 34379	thymic
+T1620	CL:0000084 34380 34387	T-cells
+T1621	CL_GO_EXT:cell 34382 34387	cells
+T1622	PR_EXT:Q6E2N3 34406 34409	mon
+T1623	SO_EXT:sequence_altered_entity 34410 34417	mutants
+T1624	GO:0009566 34429 34442	fertilization
+T1625	UBERON:0000922 34494 34501	embryos
+T1626	NCBITaxon:7955 34514 34523	Zebrafish
+T1627	PR_EXT:Q6E2N3 34524 34527	mon
+T1628	SO_EXT:sequence_altered_entity 34528 34535	Mutants
+T1629	GO:0060216 34564 34588	Definitive Hematopoiesis
+T1630	UBERON:0007023 34590 34595	Adult
+T1631	SO_EXT:wild_type_entity_or_quality 34609 34618	wild-type
+T1632	PR_EXT:Q6E2N3 34623 34626	mon
+T1633	SO_EXT:sequence_altered_entity 34627 34634	mutants
+T1634	PR_EXT:Q6E2N3 34653 34656	mon
+T1635	UBERON:0007023 34673 34678	adult
+T1636	SO_EXT:wild_type_entity_or_quality 34729 34738	wild-type
+T1637	SO_EXT:wild_type_entity_or_quality 34792 34801	wild-type
+T1638	UBERON:0007023 34802 34807	adult
+T1639	SO_EXT:sequence_altered_entity 34838 34844	mutant
+T1640	GO_PATO_RO_EXT:developmental_differentiation_process_or_quality 34888 34902	differentiated
+T1641	CL:0000764 34903 34918	erythroid cells
+T1642	CL_GO_EXT:cell 34913 34918	cells
+T1643	CL:0000547 34970 34986	proerythroblasts
+T1644	PR_EXT:Q6E2N3 34994 34997	mon
+T1645	SO_EXT:sequence_altered_entity_or_alteration_process 35003 35009	mutant
+T1646	SO_EXT:sequence_cloning_process 35040 35047	Cloning
+T1647	PR_EXT:Q6E2N3 35063 35066	mon
+T1648	SO_EXT:0000704 35067 35071	Gene
+T1649	NCBITaxon:7955 35075 35084	Zebrafish
+T1650	PR_EXT:000016655 35085 35090	tif1γ
+T1651	SO_EXT:0001249 35096 35108	Physical map
+T1652	PR_EXT:Q6E2N3 35116 35119	mon
+T1653	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 35120 35128;35139 35149	locus on ... Chromosome
+T1654	GO_SO_EXT:chromosomal_part_or_position_or_region_or_site 35120 35128;35139 35149	locus on ... Chromosome
+T1655	NCBITaxon:7955 35129 35138	zebrafish
+T1656	SO_EXT:microsatellite_unit_or_region 35153 35167	Microsatellite
+T1657	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 35168 35175	markers
+T1658	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 35168 35175	markers
+T1659	SO_EXT:sequence_recombinant_entity 35224 35236	recombinants
+T1660	PR_EXT:Q6E2N3 35265 35268	mon
+T1661	SO_EXT:sequence_altered_entity 35285 35292	mutants
+T1662	SO_EXT:0001830 35298 35302	AFLP
+T1663	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 35303 35309	marker
+T1664	CHEBI_SO_EXT:molecular_indicator_or_label_or_marker_or_tag 35303 35309	marker
+T1665	GO_SO_EXT:chromosome 35337 35348	chromosomal
+T1666	GO_SO_EXT:chromosome 35337 35348	chromosomal
+T1667	SO_EXT:0000154 35357 35360	PAC
+T1668	SO_EXT:0000154 35385 35389	PACS
+T1669	PR_EXT:Q6E2N3 35426 35429	mon
+T1670	SO_EXT:0000154 35476 35479	PAC
+T1671	PR_EXT:Q6E2N3 35525 35528	mon
+T1672	SO_EXT:0000704 35529 35533	gene
+T1673	SO_EXT:0000154 35540 35543	PAC
+T1674	CHEBI_SO_EXT:molecular_probe 35558 35563	probe
+T1675	CHEBI_SO_EXT:molecular_probe 35558 35563	probe
+T1676	SO_EXT:cDNA 35574 35578	cDNA
+T1677	NCBITaxon:7955 35605 35614	zebrafish
+T1678	PR_EXT:000016655 35615 35620	tif1γ
+T1679	SO_EXT:cDNA 35621 35626	cDNAs
+T1680	SO_EXT:sequence_recombinant_entity 35673 35685	recombinants
+T1681	NCBITaxon:7955 35760 35769	zebrafish
+T1682	NCBITaxon:7955 35771 35782	Danio rerio
+T1683	NCBITaxon:7955 35784 35786	Dr
+T1684	PR_EXT:000016655 35789 35794	Tif1γ
+T1685	PR_EXT:000016649 35799 35804	Tif1α
+T1686	CHEBI_SO_EXT:peptide_or_peptide_region 35805 35812	peptide
+T1687	CHEBI_SO_EXT:peptide_or_peptide_region 35805 35812	peptide
+T1688	SO_EXT:biological_sequence 35813 35822	sequences
+T1689	PR_EXT:TIF1 35840 35844	TIF1
+T1690	NCBITaxon:9606 35861 35866	human
+T1691	NCBITaxon:9606 35868 35870	Hs
+T1692	PR_EXT:000016649 35872 35877	TIF1α
+T1693	PR_EXT:000016652 35879 35884	TIF1β
+T1694	PR_EXT:000016655 35890 35895	TIF1γ
+T1695	NCBITaxon:10088 35897 35902	mouse
+T1696	NCBITaxon:10090 35904 35906	Mm
+T1697	PR_EXT:000016649 35908 35913	Tif1α
+T1698	PR_EXT:000016652 35915 35920	Tif1β
+T1699	PR_EXT:000016655 35926 35931	Tif1γ
+T1700	NCBITaxon:7147 35938 35941	fly
+T1701	NCBITaxon:7227 35943 35945	Dm
+T1702	PR_EXT:000016655 36002 36007	Tif1γ
+T1703	CHEBI_SO_EXT:peptide_or_peptide_region 36018 36025	peptide
+T1704	CHEBI_SO_EXT:peptide_or_peptide_region 36018 36025	peptide
+T1705	SO_EXT:sequence_altered_entity 36057 36064	mutants
+T1706	NCBITaxon:3193 36107 36112	plant
+T1707	SO_EXT:0000417 36254 36261	domains
+T1708	NCBITaxon:7955 36265 36274	zebrafish
+T1709	NCBITaxon:9606 36279 36284	human
+T1710	PR_EXT:000016655 36285 36290	TIF1γ
+T1711	SO_EXT:sequence_truncation_process 36306 36315	truncated
+T1712	CHEBI_PR_EXT:protein 36316 36324	proteins
+T1713	CHEBI_PR_EXT:protein 36316 36324	proteins
+T1714	CHEBI_SO_EXT:DNA 36345 36348	DNA
+T1715	CHEBI_SO_EXT:DNA 36345 36348	DNA
+T1716	SO_EXT:biological_sequence 36349 36357	sequence
+T1717	CHEBI:23995 36390 36393	ENU
+T1718	SO_EXT:sequence_altered_entity 36408 36415	mutants
+T1719	SO_EXT:wild_type_entity_or_quality 36433 36442	wild-type
+T1720	SO_EXT:biological_sequence 36451 36460	sequences
+T1721	PR_EXT:Q6E2N3 36476 36479	mon
+T1722	PR_EXT:000016655 36480 36485	tif1γ
+T1723	SO_EXT:0000704 36486 36490	Gene
+T1724	GO:0010467 36501 36510	Expressed
+T1725	GO:0030097 36514 36527	Hematopoietic
+T1726	UBERON:0000926 36528 36536	Mesoderm
+T1727	GO:0097617 36550 36563	hybridization
+T1728	NCBITaxon:7955 36567 36576	zebrafish
+T1729	UBERON:0000922 36577 36584	embryos
+T1730	UBERON:0000922 36603 36612	embryonic
+T1731	GO:0010467 36613 36623	expression
+T1732	PR_EXT:000016655 36627 36632	tif1γ
+T1733	PR_EXT:000016655 36634 36639	tif1γ
+T1734	GO:0010467 36653 36662	expressed
+T1735	CHEBI_SO_EXT:mRNA 36677 36681	mRNA
+T1736	CHEBI_SO_EXT:mRNA 36677 36681	mRNA
+T1737	GO:0010467 36693 36703	expression
+T1738	PR_EXT:000016655 36707 36712	tif1γ
+T1739	UBERON:2000083 36716 36723;36732 36740	ventral ... mesoderm
+T1740	UBERON:0003081 36724 36740	lateral mesoderm
+T1741	UBERON:0002329 36774 36780	somite
+T1742	UBERON:0002329 36837 36844	somites
+T1743	PR_EXT:000016655 36846 36851	tif1γ
+T1744	GO:0010467 36864 36873	expressed
+T1745	UBERON:0000926 36896 36904	mesoderm
+T1746	GO:0010467 36915 36922	express
+T1747	PR_EXT:000016043 36923 36926	scl
+T1748	PR_EXT:000016655 36938 36943	tif1γ
+T1749	GO:0010467 36947 36956	expressed
+T1750	UBERON:0000955 36972 36977	brain
+T1751	UBERON:0002240 36979 36990	spinal cord
+T1752	UBERON:0002100 36992 36997	trunk
+T1753	UBERON:0002415 37003 37007	tail
+T1754	UBERON:0003104 37008 37018	mesenchyme
+T1755	GO:0030097 37052 37065	hematopoietic
+T1756	CL:0000988 37052 37071	hematopoietic cells
+T1757	CL_GO_EXT:cell 37066 37071	cells
+T1758	UBERON:0003061 37079 37091	blood island
+T1759	NCBITaxon:7955 37093 37102	Zebrafish
+T1760	PR_EXT:000016649 37103 37108	tif1α
+T1761	GO:0010467 37125 37134	expressed
+T1762	UBERON:0000479 37171 37178	tissues
+T1763	PR_EXT:000016655 37197 37202	tif1γ
+T1764	PR_EXT:000016649 37204 37209	Tif1α
+T1765	GO:0010467 37220 37229	expressed
+T1766	UBERON:0002329 37239 37245	somite
+T1767	GO:0030097 37256 37269	hematopoietic
+T1768	UBERON:0000926 37270 37278	mesoderm
+T1769	GO:0010467 37293 37302	expressed
+T1770	GO:0010467 37324 37334	expression
+T1771	UBERON:0003061 37342 37355	blood islands
+T1772	GO:0010467 37357 37367	Expression
+T1773	PR_EXT:000016043 37371 37374	scl
+T1774	UBERON:0002329 37383 37390	somites
+T1775	UBERON:0000922 37417 37426	embryonic
+T1776	UBERON:0003061 37427 37439	blood island
+T1777	PR_EXT:000016655 37457 37462	tif1γ
+T1778	GO:0010467 37463 37473	expression
+T1779	GO:0097617 37488 37501	hybridization
+T1780	NCBITaxon:10088 37505 37510	mouse
+T1781	UBERON:0000922 37511 37518	embryos
+T1782	GO:0010467 37533 37543	expression
+T1783	PR_EXT:000016655 37547 37552	Tif1γ
+T1784	UBERON:0000922 37556 37565	embryonic
+T1785	UBERON:0011919 37588 37610	yolk sac blood islands
+T1786	UBERON:0000922 37623 37632	embryonic
+T1787	GO:0010467 37663 37673	expression
+T1788	UBERON:0000922 37681 37686	fetal
+T1789	UBERON:0002107 37687 37692	liver
+T1790	GO:0010467 37711 37721	expression
+T1791	UBERON:0000922 37729 37738	embryonic
+T1792	UBERON:0000955 37739 37744	brain
+T1793	UBERON:0002240 37746 37758	spinal chord
+T1794	UBERON:0001555 37760 37763	gut
+T1795	UBERON_EXT:muscle_structure_or_tissue 37769 37775	muscle
+T1796	GO:0010467 37792 37802	expression
+T1797	SO_EXT:wild_type_entity_or_quality 37806 37815	Wild-Type
+T1798	PR_EXT:000016655 37816 37821	tif1γ
+T1799	CHEBI_SO_EXT:mRNA 37822 37826	mRNA
+T1800	CHEBI_SO_EXT:mRNA 37822 37826	mRNA
+T1801	SO_EXT:sequence_rescue_process 37853 37860	Rescues
+T1802	UBERON:0000922 37861 37870	Embryonic
+T1803	GO:0035162 37861 37884	Embryonic Hematopoiesis
+T1804	PR_EXT:Q6E2N3 37888 37891	mon
+T1805	SO_EXT:sequence_altered_entity 37892 37899	Mutants
+T1806	PR_EXT:Q6E2N3 37905 37908	mon
+T1807	SO_EXT:sequence_altered_entity 37914 37921	mutants
+T1808	SO_EXT:sequence_rescue_process 37926 37933	rescued
+T1809	CHEBI_SO_EXT:mRNA 37950 37954	mRNA
+T1810	CHEBI_SO_EXT:mRNA 37950 37954	mRNA
+T1811	SO_EXT:sequence_coding_function 37955 37963	encoding
+T1812	SO_EXT:wild_type_entity_or_quality 37964 37973	wild-type
+T1813	PR_EXT:000016655 37974 37979	Tif1γ
+T1814	CHEBI_PR_EXT:protein 37980 37987	protein
+T1815	CHEBI_PR_EXT:protein 37980 37987	protein
+T1816	CL:0000232 38029 38033	RBCs
+T1817	SO_EXT:wild_type_entity_or_quality 38068 38077	wild-type
+T1818	NCBITaxon:7955 38078 38087	zebrafish
+T1819	CHEBI:82321 38103 38116	o-dianisidine
+T1820	CHEBI_GO_EXT:hemoglobin 38129 38139	hemoglobin
+T1821	CHEBI_GO_EXT:hemoglobin 38129 38139	hemoglobin
+T1822	PR_EXT:Q6E2N3 38152 38155	mon
+T1823	SO_EXT:sequence_altered_entity 38173 38180	mutants
+T1824	UBERON:0000178 38196 38201	blood
+T1825	SO_EXT:wild_type_entity_or_quality 38230 38239	wild-type
+T1826	PR_EXT:000016655 38240 38245	tif1γ
+T1827	CHEBI_SO_EXT:mRNA 38246 38250	mRNA
+T1828	CHEBI_SO_EXT:mRNA 38246 38250	mRNA
+T1829	SO_EXT:sequence_rescue_process 38251 38258	rescues
+T1830	GO:0030218 38259 38273	erythropoiesis
+T1831	SO_EXT:sequence_altered_entity_or_alteration_process 38277 38283	mutant
+T1832	UBERON:0000922 38284 38291	embryos
+T1833	CHEBI:82321 38293 38306	o-dianisidine
+T1834	UBERON:0002548 38315 38321	larvae
+T1835	UBERON:0000178 38362 38367	blood
+T1836	UBERON:0000055 38371 38378	vessels
+T1837	SO_EXT:wild_type_entity_or_quality 38404 38413	wild-type
+T1838	NCBITaxon:7955 38414 38423	zebrafish
+T1839	CL_GO_EXT:cell 38431 38436	cells
+T1840	CL_GO_EXT:cell 38431 38436	cells
+T1841	PR_EXT:000007857 38448 38453	gata1
+T1842	SO_EXT:0000902 38458 38467	transgene
+T1843	UBERON:0000922 38481 38488	embryos
+T1844	GO:0030218 38503 38517	erythropoiesis
+T1845	PR_EXT:Q6E2N3 38541 38544	mon
+T1846	SO_EXT:sequence_altered_entity 38561 38568	mutants
+T1847	UBERON:0000922 38603 38610	embryos
+T1848	CL:0000232 38664 38668	RBCs
+T1849	CL_GO_EXT:cell 38704 38709	cells
+T1850	CL_GO_EXT:cell 38704 38709	cells
+T1851	GO:0008283 38727 38738	proliferate
+T1852	CL:0000232 38779 38791	erythrocytes
+T1853	UBERON:0000948 38832 38838	hearts
+T1854	NCBITaxon:7955 38867 38876	zebrafish
+T1855	NCBITaxon:40674 38907 38916	Mammalian
+T1856	PR_EXT:000016655 38917 38922	Tif1γ
+T1857	CHEBI_PR_EXT:protein 38923 38930	Protein
+T1858	CHEBI_PR_EXT:protein 38923 38930	Protein
+T1859	GO_PATO_EXT:biological_localization_process_or_quality 38931 38940	Localizes
+T1860	GO:0016604 38944 38958	Nuclear Bodies
+T1861	GO:0000792 38973 38988	Heterochromatin
+T1862	NCBITaxon:10088 39037 39042	mouse
+T1863	UBERON:0000922 39043 39052	embryonic
+T1864	CL:0002321 39043 39052;39064 39068	embryonic ... cell
+T1865	CL:0000057 39053 39068	fibroblast cell
+T1866	GO:0005634 39064 39076	cell nucleus
+T1867	PR_EXT:000016655 39098 39103	Tif1γ
+T1868	GO:0042571 39104 39112	antibody
+T1869	GO:0042571 39143 39151	antibody
+T1870	GO_EXT:biological_direction_or_guidance 39152 39160	directed
+T1871	PR_EXT:000005086 39169 39173	HP1α
+T1872	CHEBI:51231 39200 39204	DAPI
+T1873	GO:0005634 39240 39247	nucleus
+T1874	PR_EXT:000016655 39258 39263	Tif1γ
+T1875	GO_PATO_EXT:biological_localization_process_or_quality 39275 39283	localize
+T1876	PR_EXT:000005086 39293 39297	HP1α
+T1877	CHEBI:51231 39301 39305	DAPI
+T1878	GO:0000792 39318 39333	heterochromatin
+T1879	PR_EXT:000005086 39340 39344	HP1α
+T1880	CHEBI:51231 39349 39353	DAPI
+T1881	NCBITaxon:10088 39382 39387	mouse
+T1882	CL_GO_EXT:cell 39404 39409	cells
+T1883	CL_GO_EXT:cell 39404 39409	cells
+T1884	GO:0010467 39410 39417	express
+T1885	PR_EXT:000016655 39433 39438	Tif1γ
+T1886	CHEBI_PR_EXT:protein 39439 39446	protein
+T1887	CHEBI_PR_EXT:protein 39439 39446	protein
+T1888	GO:0010467 39485 39495	Expression
+T1889	PR_EXT:000016655 39499 39504	Tif1γ
+T1890	PR_EXT:000007857 39522 39527	Gata1
+T1891	CL:0000764 39538 39547	erythroid
+T1892	GO_PATO_EXT:biological_maturation 39548 39558	maturation
+T1893	CHEBI:16469 39570 39581	β-estradiol
+T1894	PR_EXT:000007857 39604 39609	Gata1
+T1895	GO_PR_EXT:estrogen_receptor 39610 39612	ER
+T1896	GO_PR_EXT:estrogen_receptor 39610 39612	ER
+T1897	SO_EXT:sequence_fusion_entity_or_process 39613 39619	fusion
+T1898	CHEBI_PR_EXT:protein 39620 39627	protein
+T1899	CHEBI_PR_EXT:protein 39620 39627	protein
+T1900	GO:0010467 39643 39653	expression
+T1901	PR_EXT:000016655 39657 39662	tif1γ
+T1902	CHEBI_SO_EXT:mRNA 39663 39667	mRNA
+T1903	CHEBI_SO_EXT:mRNA 39663 39667	mRNA
+T1904	SO_EXT:sequence_rescue_process 39668 39675	Rescues
+T1905	PR_EXT:Q6E2N3 39676 39679	mon
+T1906	SO_EXT:sequence_altered_entity 39680 39687	Mutants
+T1907	GO:0030097 39689 39702	Hematopoietic
+T1908	PR_EXT:000016655 39725 39730	tif1γ
+T1909	CHEBI_SO_EXT:mRNA 39731 39735	mRNA
+T1910	CHEBI_SO_EXT:mRNA 39731 39735	mRNA
+T1911	CL_GO_EXT:cell 39769 39773	cell
+T1912	CL_GO_EXT:cell 39769 39773	cell
+T1913	UBERON:0000922 39785 39792	embryos
+T1914	SO_EXT:genotype_or_entity_with_genotype 39810 39819	genotypes
+T1915	PR_EXT:Q6E2N3 39829 39832	mon
+T1916	UBERON:0000922 39833 39840	embryos
+T1917	CL:0000080 39842 39859	circulating cells
+T1918	CL_GO_EXT:cell 39854 39859	cells
+T1919	UBERON:0000922 39905 39912	embryos
+T1920	CHEBI:82321 39941 39954	o-dianisidine
+T1921	CHEBI_GO_EXT:hemoglobin 39965 39975	hemoglobin
+T1922	CHEBI_GO_EXT:hemoglobin 39965 39975	hemoglobin
+T1923	CL:0000232 39986 39990	RBCs
+T1924	UBERON:0000922 39999 40006	embryos
+T1925	CL:0000080 40035 40052	circulating cells
+T1926	CL_GO_EXT:cell 40047 40052	cells
+T1927	UBERON:0000922 40106 40113	embryos
+T1928	UBERON:0000922 40197 40204	embryos
+T1929	SO_EXT:sequence_rescue_process 40247 40254	Rescues
+T1930	GO:0030097 40255 40268	Hematopoiesis
+T1931	PR_EXT:Q6E2N3 40289 40292	mon
+T1932	SO_EXT:sequence_altered_entity 40293 40300	Mutants
+T1933	UBERON:0000922 40302 40309	Embryos
+T1934	CL:0000764 40328 40343	Erythroid Cells
+T1935	CL_GO_EXT:cell 40338 40343	Cells
+T1936	UBERON:0007132 40367 40380	kidney marrow
+T1937	CL_GO_EXT:cell 40381 40386	cells
+T1938	CL_GO_EXT:cell 40381 40386	cells
+T1939	UBERON:0007023 40392 40397	adult
+T1940	PR_EXT:000007857 40398 40403	gata1
+T1941	SO_EXT:transgenic_entity 40409 40419	transgenic
+T1942	NCBITaxon:7955 40445 40454	zebrafish
+T1943	UBERON:0000922 40455 40461	embryo
+T1944	UBERON:0000922 40497 40504	embryos
+T1945	CHEBI_EXT:anaesthetic_process 40510 40522	anesthetized
+T1946	CL:0000764 40547 40562	erythroid cells
+T1947	CL_GO_EXT:cell 40557 40562	cells
+T1948	UBERON:0000922 40616 40623	embryos
+T1949	CL_GO_EXT:cell 40659 40664	cells
+T1950	CL:0000080 40659 40679	cells in circulation
+T1951	NCBITaxon_EXT:fish 40713 40717	fish
+T1952	UBERON:0000922 40757 40764	embryos
+T1953	CHEBI_EXT:33893 41207 41215	reagents
+T1954	CL_GO_EXT:cell 41371 41375	Cell
+T1955	CL_GO_EXT:cell 41371 41375	Cell
+T1956	CHEBI_GO_EXT:biological_process_or_quality_or_role 41394 41401	Biology
+T1957	CHEBI_GO_EXT:biological_process_or_quality_or_role 41394 41401	Biology
+T1958	NCBITaxon:7955 41561 41570	zebrafish
+T1959	PR_EXT:Q6E2N3 41571 41580	moonshine
+T1960	SO_EXT:0000704 41581 41585	gene
+T1961	SO_EXT:sequence_coding_function 41586 41593	encodes
+T1962	GO_EXT:transcription 41594 41609	transcriptional
+T1963	PR_EXT:000016655 41594 41632	transcriptional intermediary factor 1γ
+T1964	GO_EXT:regulator 41647 41656	regulator
+T1965	GO:0030097 41660 41673	hematopoiesis
